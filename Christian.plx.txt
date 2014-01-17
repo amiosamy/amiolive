@@ -1,0 +1,205 @@
+version=1
+background=http://t1.gstatic.com/images?q=tbn:ANd9GcTg1okmxU0S3gZT5Sz8a9b-AJf3E6rmMW6nah3kedVnnB5p0ywz
+title=wow 
+
+type=video
+name=ACC
+thumb=http://www.lyngsat-logo.com/hires/aa/australian_christian_channel.png
+URL=http://257925-lh.akamaihd.net/ACC_hdflash_600@146109?bandwidthEstimationTest=true&v=3.0.3&fp=WIN%2011,9,900,170&r=OEXPU&g=RWAJHYXDAGTT
+#
+type=video
+name=Alwaad
+thumb=http://www.lyngsat-logo.com/hires/aa/al_waad_channel.png
+URL=rtmp://streaming.stimme-der-hoffnung.de/hcname2/ playpath=livestreamhcname  swfUrl=http://www.megalivestream.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.megalivestream.com/alwaad-live-tv/
+#
+type=video
+name=ATV SAT
+thumb=http://www.lyngsat-logo.com/hires/tt/the_way_tv_us.png
+URL=rtmp://videos.atvsat.com:1935/atvsatlive playpath=atvsatlive2 swfUrl=http://atvsat.com/liveplayer/player.swf pageUrl=http://www.altarektv.com/watch-live
+#
+type=video
+name=ABNSAT
+thumb=http://www.lyngsat-logo.com/hires/aa/aramaic_broadcasting_network_us.png
+URL=rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live/ playpath=stream-900k?streamType=LiveStream swfUrl=http://www.abnsat.com/LLNWPlayer.swf pageUrl=http://www.abnsat.com/index.php?option=com_content&view=article&id=119&Itemid=178&lang=en
+
+#
+type=video
+name=Alfady TV
+thumb=http://www.lyngsat-logo.com/logo/tv/aa/alfady_channel.jpg
+URL=rtmp://stream.truth-voice.net:1935/FadyLive playpath=FadyLive swfUrl=http://player.alfadytv.tv/player.swf live=true timeout=15 pageUrl=http://131.253.14.98/proxy.ashx?h=ercHUFraWx0Mtw2rHkQXBCeNmdqvf7Rs&a=http%3A%2F%2Falfadytv.tv%2Fwatchlive10%2F%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1
+#
+type=video
+name=Al Hayat
+thumb=http://www.lyngsat-logo.com/logo/tv/aa/al_hayat.jpg
+URL=rtmp://media.islamexplained.com:1935/live/_definst_ playpath=mp4:ahme.stream_240p swfUrl=http://islamexplained.com/portals/0/public/player.swf live=true timeout=15
+#
+type=video
+name=Al Hayat 2
+thumb=http://www.lyngsat-logo.com/logo/tv/aa/al_hayat_2.jpg
+URL=rtmp://media.islamexplained.com:1935/live/_definst_ playpath=mp4:ahusa.stream_240p swfUrl=http://islamexplained.com/portals/0/public/player.swf live=true timeout=15
+#
+type=video
+name=Alkarma TV
+thumb=http://www.lyngsat-logo.com/hires/aa/alkarma_tv_me.png
+URL=rtmp://flash.alkarmatv.com:1935/karmatv_na playpath=karmatv_na2 swfUrl=http://www.alkarmatv.com/liveplayer/player.swf live=true timeout=15 pageUrl=http://www.alkarmatv.com/watch-alkarma-na
+#
+type=video
+name=Aghapy TV
+thumb=http://4.bp.blogspot.com/-ZDipbLo99cg/T4P-jMMOKtI/AAAAAAAAAI8/8Gk9_Kh5ILo/s400/aghapy.jpg
+URL=http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
+#
+type=video
+name=CTV
+thumb=http://www.lyngsat-logo.com/logo/tv/cc/ctv_eg.jpg
+URL=rtmp://sc-lb1.streamcyclone.com/ctvch_live playpath=ctvch swfUrl=http://manage.streamcyclone.com/player/player.swf live=true timeout=15 pageUrl=http://www.ctvchannel.tv/Pages/Live.htm
+#
+type=video
+name=CYC
+thumb=http://www.lyngsat-logo.com/hires/cc/cyc.png
+URL=rtmp://cycnow.az-streamingserver.com:3333/live playpath=cyc2 swfUrl=http://cycnow.com/players/swf/1.6.32StrobeMediaPlayback.swf  pageUrl=http://cycnow.com/site/live-streaming
+#
+type=video
+name=Copticsat TV
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcRWgS4ZUZqNI1un_SBiQidY5BCBV5Xo5FuzbIaIm2UhEJgny0jnNQ
+URL=rtmp://154.obj.netromedia.net/Copticsat/Copticsat
+#
+type=video
+name=CBN
+thumb=http://www.lyngsat-logo.com/hires/cc/cbn_us.png
+URL=rtmp://cp145180.live.edgefcs.net/live/ playpath=iptv1_1_500@42325  swfUrl=http://downloads.cbn.com/cbnplayer/cbnPlayer.swf?s=cbnlive-1 live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/b4077.htm
+#
+type=video
+name=CBN News
+thumb=http://www.lyngsat-logo.com/hires/cc/cbn_news.png
+URL=rtmp://cp145180.live.edgefcs.net/live/ playpath=newschannel_1_500@42322  swfUrl=http://www.cbn.com/media/player/oldplayer.swf live=true timeout=15 pageUrl=http://www.cbn.com/tv/cbn-news
+#
+type=video
+name=Charity
+thumb=http://tvcharity.org/web/images/header/logo.jpg
+URL=rtmp://livestreaming.ositcom.net/tvcharity playpath=tvCharityStream swfUrl=http://ositcom.net/jwplayer/player.swf pageUrl=http://tvcharity.org/web/live.php
+type=video
+#
+name=Daystar TV
+thumb=http://www.lyngsat-logo.com/hires/dd/daystar_tv_network.png
+URL=rtmp://50.7.130.44:1947/base2 playpath=rus1.stream swfUrl=http://www.justlivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.justlivetv.net/video/daystar-tv/
+#
+type=video
+name=Good Shepherd TV
+thumb=http://www.lyngsat-logo.com/hires/gg/good_shepherd_tv.png
+URL=http://iphone-streaming.ustream.tv/ustreamVideo/12463854/streams/live/playlist.m3u8
+#
+type=video
+name=GLC
+thumb=http://www.lyngsat-logo.com/hires/gg/gods_learning_channel.png
+URL=rtmp://fss28.streamhoster.com:1935/lv_glc/_definst_ playpath=broadcast1  swfUrl=http://d38vuqmp8qc67y.cloudfront.net/player/flash/smp/2.0/player-c1.swf  pageUrl=http://content.streamhoster.com/player/lv_glc/broadcast1?autoPlay=1&showPlayPauseBtn=0
+#
+type=video
+name=Hope TV
+thumb=http://www.lyngsat-logo.com/hires/hh/hope_channel_us.png
+URL=rtmp://cp101680.live.edgefcs.net:1935/live?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId= playpath=HopeChannelNorthAmerica_1@52768?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20130828.2041/federatedVideoUI/BrightcovePlayer.swf?uid=1378344271987 live=true timeout=15 pageUrl=http://hopetv.org/watch/
+#
+type=video
+name=Kingdom TV
+thumb=http://www.lyngsat-logo.com/logo/tv/aa/al_malakoot_sat.jpg
+URL=rtmp://digital.flash.internapcdn.net:1935/digital/live_1/ playpath=kingdomtvlive swfUrl=http://kingdomsat.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://ch-channels.blogspot.com.au/2012/04/almalakot-kingdom-live-broadcast.html
+#
+type=video
+name=KDEC
+thumb=http://t0.gstatic.com/images?q=tbn:ANd9GcQS3crPc_KNHYxjj-rC1l1Yygfqq1ywnCDr6PrM0sGQ4UoPOKVzaQ
+URL=rtmp://79.125.127.107:1935/live playpath=kdec  swfUrl=http://www.northlandchurch.net/jw/jw54/player.swf live=true timeout=15 pageUrl=http://stream.kdec.net/
+#
+type=video
+name=JCTV
+thumb=http://www.lyngsat-logo.com/hires/jj/jc_tv_us.png
+URL=http://tbn.edgeboss.net/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx?endtime=02:00:00
+#
+type=video
+name=Logos TV
+thumb=http://www.lyngsat-logo.com/logo/tv/ll/logos_tv_us.jpg
+URL=http://logoschannel.com/live.aspx
+#
+type=video
+name=MESAT
+thumb=http://www.lyngsat-logo.com/logo/tv/mm/me_sat.jpg
+URL=rtmp://stream.s15.mediaserve.com/coptictvlive playpath=livestream  swfUrl=http://mesat.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://mesat.tv/2012/06/02/streaming/
+#
+type=video
+name=Miracle TV
+thumb=http://www.lyngsat-logo.com/logo/tv/mm/miracle_arab.jpg
+URL=rtmp://flash0.80205-live0.dna.qbrick.com/80205-live0/troens2
+#
+type=video
+name=New Life Egypt
+thumb=http://t3.gstatic.com/images?q=tbn:ANd9GcQpuIju9uWxLX-3k3iVUD-FCCqeIC-jzBnu6Ox_KdR-9w4OfXp1
+URL=rtmp://50.16.71.4:1935/KPtG5sK playpath=newlifeegypt swfUrl=http://www.streammonkey.com/_jw/player.swf pageUrl=http://www.streammonkey.com/iframe/517
+#
+type=video
+name=Noursat AlShabab
+thumb=http://www.lyngsat-logo.com/logo/tv/nn/nour_sat.jpg
+URL=rtmp://fl1.viastreaming.net/nouralchabab playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://www.noursat.tv/ar/receive-us.php?chid=3
+#
+type=video
+name=Noursat
+thumb=http://www.lyngsat-logo.com/logo/tv/nn/nour_sat.jpg
+URL=rtmp://fl1.viastreaming.net/noursat playpath=livestream swfUrl=http://noursat.tv/ar/player.swf live=true timeout=15 pageUrl=pageUrl=http://www.noursat.tv/ar/receive-us.php?chid=2
+#
+type=video
+name=Noursat Alkalima
+thumb=http://www.lyngsat-logo.com/logo/tv/nn/nour_sat.jpg
+URL=rtmpt://fl1.viastreaming.net/nouralkalima playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://www.noursat.tv/ar/receive-us.php?chid=5
+#
+type=video
+name=Noursat Alshark
+thumb=http://www.lyngsat-logo.com/logo/tv/nn/nour_sat.jpg
+URL=rtmp://fl1.viastreaming.net/nouralshark playpath=livestream  swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://www.noursat.tv/ar/receive-us.php?chid=4
+#
+type=video
+name=Noursat Kids
+thumb=http://www.lyngsat-logo.com/logo/tv/nn/nour_sat.jpg
+URL=rtmp://fl1.viastreaming.net/nourkids playpath=livestream  swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://www.noursat.tv/ar/receive-us.php?chid=6
+#
+type=video
+name=River of Life
+thumb=http://www.fleuvesdevie.org/images/Logo.jpg
+URL=rtmp://riversoflife.flashedgesvr.com/riversoflifelive playpath=live100  swfUrl=http://www.pastordaniel.org/JWMediaPlayer/mediaplayer.swf live=true timeout=15 pageUrl=http://www.pastordaniel.org/live_video.php
+#
+type=video
+name=SAT 7
+thumb=http://4.bp.blogspot.com/-4NRUeuvjyPE/T4QE5bgPprI/AAAAAAAAAJk/qGiZ64iCJtk/s1600/sat7.png
+URL=rtmp://unirtmp.tulix.tv:1935/sat7arabic/ playpath=sat7arabic1 swfUrl=http://wwitv.com/player/player15.swf pageUrl=http://wwitv.com/tv_channels/8017.htm
+#
+type=video
+name=SAT 7 Kids
+thumb=http://2.bp.blogspot.com/-Znlq2dUVTJE/T4QGINtAGUI/AAAAAAAAAJs/3Ik9Gyd7FiA/s320/sat7kids.jpg
+URL=rtmp://unirtmp.tulix.tv:1935/sat7kids/ playpath=sat7kids1 swfUrl=http://wwitv.com/player/player15.swf pageUrl=http://wwitv.com/tv_channels/b4963.htm
+#
+type=video
+name=Spirit TV
+thumb=http://www.lyngsat-logo.com/logo/tv/ss/spirit.jpg
+URL=rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:spirit1  swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf  pageUrl=http://spirit-television.com/watch/
+#
+type=video
+name=Smile of a Child
+thumb=http://www.skyangel.com/blog/wp-content/uploads/2012/01/519px-smile_of_a_child_svg1.png
+URL=rtmp://cp114426.live.edgefcs.net:1935/live playpath=smile_mbr_high_3@59409 swfUrl=http://www.mytvonline.org/strobemedia/StrobeMediaPlayback.swf?src=rtmp://cp114426.live.edgefcs.net/live/smile_mbr_high_3@59409&streamType=live&autoPlay=true pageUrl=http://www.mytvonline.org/english/Smileofachild.html
+#
+type=video
+name=TBN
+thumb=http://www.lyngsat-logo.com/hires/tt/tbn.png
+URL=http://tbn.edgeboss.net/wmedia-live/tbn/59983/400_tbn-tbnworld_100511.asx
+#
+type=video
+name=The Church Channel
+thumb=http://www.lyngsat-logo.com/logo/tv/tt/the_church_channel_us.jpg
+URL=http://tbn.edgeboss.net/wmedia-live/tbn/8034/500_tbn-the_church_channel_050222.asx?endtime=02:00:00
+#
+type=video
+name=The Word 
+thumb=http://www.lyngsat-logo.com/logo/tv/aa/al_kalema_tv.jpg
+URL=rtmp://flv.alkalema.tv/livepkgr/ playpath=livestream1 swfUrl=http://www.alkalema.tv/wp-content/themes/alkalematv-ar/library/js/jwplayer.flash.swf pageUrl=http://www.alkalema.tv/%d8%a7%d9%84%d8%a8%d8%ab-%d8%a7%d9%84%d8%ad%d9%8a-2/
+#
+type=video
+name=The Freedom
+thumb=http://1.bp.blogspot.com/-_HXNEm7rTrM/UevgiYHGe2I/AAAAAAAAAS0/XtynlgjBs6E/s1600/logo.png
+URL=rtmp://fms.pwmcdn.com:1935/alhorreya playpath=alhorreya2 swfUrl=http://alhorreya.tv/liveplayer/player.swf pageUrl=http://alhorreya.tv/watchus/livestream
+#

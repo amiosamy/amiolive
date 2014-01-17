@@ -1,0 +1,146 @@
+version=1
+background=http://t0.gstatic.com/images?q=tbn:ANd9GcT-umKfOg_gtnuPcjlUzVN394mEJG1z6vziooaEiHwdtXHazr4
+title=wow 
+
+
+type=video
+name=Al Jazeera News Arabic
+thumb=http://www.lyngsat-logo.com/hires/aa/al_jazeera.png
+URL=rtmp://hd3.lsops.net/live playpath=aljazeer_ar_838 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" pageURL="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true
+#
+type=video
+name=Al Jazeera News ENG
+thumb=http://static.filmon.com/couch/channels/4/extra_big_logo.png
+URL=rtmp://hd2.lsops.net/live playpath=aljazeer_en_838 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf
+#
+type=video
+name=Al Mayadeen
+thumb=http://www.lyngsat-logo.com/hires/aa/al_mayadeen_tv.png
+URL=rtmp://hd2.lsops.net/live/ playpath=almayade_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1377945036 live=true timeout=15 pageUrl=http://www.livestation.com/en/almayadeen/popout
+#
+type=video
+name=Al Arabiya 
+thumb=http://www.lyngsat-logo.com/hires/aa/al_arabiya.png
+URL=plugin://plugin.video.MyFilmOn/?url=366&mode=1
+
+#
+type=video
+name=ABC News 24 Australia
+thumb=http://www.lyngsat-logo.com/logo/tv/aa/abc_news_24.jpg
+URL=rtmp://cp103653.live.edgefcs.net:1935/live playpath=international_medium@36382 swfVfy=true live=true timeout=10
+#
+type=video
+name=Bloomberg 
+thumb=http://static.filmon.com/couch/channels/81/extra_big_logo.png
+URL=rtmp://hd4.lsops.net/live/ playpath=bloomber_en_453 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1384724162 pageUrl=http://www.livestation.com/en/channels/bloomberg/en
+#
+type=video
+name=BBC News Arabic
+thumb=http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png
+URL=rtmp://hd7.lsops.net/live//bbcarab_ar_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1377945036 live=true timeout=15 pageUrl=http://www.livestation.com/en/bbc-arabic
+#
+type=video
+name=BBC World News 
+thumb=http://news.bbcimg.co.uk/media/images/45482000/jpg/_45482922_worldnews512.jpg
+URL=http://ca-edge-8.cdn2.streamago.tv:80/streamagoedge/1916/809/anjalo_bbc.m3u8
+#
+type=video
+name=CNBC
+thumb=http://images2.wikia.nocookie.net/__cb20110408030516/logopedia/images/a/a5/CNBC_HD.png
+URL=http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
+#
+type=video
+name=CNBC Arabic
+thumb=http://www.lyngsat-logo.com/hires/cc/cnbc_arabiya.png
+URL=http://livestream-f.akamaihd.net/3102016_1914609_bfd232cb_1_678@101498?v=3.0.3
+#
+type=video
+name=CNN International 
+thumb=http://www.lyngsat-logo.com/hires/cc/cnn_usa.png
+URL=http://hd1.lsops.net:1935/live/cnn_en_145/playlist.m3u8
+#
+type=video
+name=CNC
+thumb=http://upload.wikimedia.org/wikipedia/en/thumb/0/0a/CNC_World_logo.png/220px-CNC_World_logo.png
+URL=rtmp://cnc.lsops.net/live/ playpath=cnc_en_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1384724715 pageUrl=http://www.livestation.com/en/channels/cnc/en
+#
+type=video
+name=DW Arabic
+thumb=http://www.lyngsat-logo.com/hires/dd/deutsche_welle_tv_arabia.png
+URL=http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#
+type=video
+name=DW Europe
+thumb=http://www.lyngsat-logo.com/icon/tv/dd/deutsche_welle_tv.gif
+URL=http://dwtvios_europa-i.akamaihd.net/hls/live/200515/dwtveuropa/1/playlist1x.m3u8
+#
+type=video
+name=EuroNews
+thumb=http://www.lyngsat-logo.com/hires/ee/euronews.png
+URL=http://hd1.lsops.net/live/euronews_en_340/playlist.m3u8 
+#
+type=video
+name=FOX News
+thumb=http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png
+URL=http://foxhdlive-f.akamaihd.net/DCL_1_300@6475?v=2.11.3&fp=WIN%2011,9,900,170&r=ODPSR&g=UTGALMKDAKCM
+#
+type=video
+name=France 24 Arabic
+thumb=http://www.lyngsat-logo.com/hires/ff/france24_arabic.png
+URL=http://media10.lsops.net/live/france24_ar.smil/playlist.m3u8
+#
+type=video
+name=NASA
+thumb=http://www.lyngsat-logo.com/hires/nn/nasa_public_channel.png
+URL=http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
+#
+type=video
+name=MSNBC US
+thumb=http://www.realtvcritics.com/wp-content/uploads/2011/07/msnbc-logo1.jpg
+URL=rtmp://c.cdn.livenewschat.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
+#
+type=video
+name=Nile News
+thumb=http://www.lyngsat-logo.com/hires/aa/al_nile.png
+URL=http://live.sis.gov.eg/ch1
+#
+type=video
+name=NewsAsia
+thumb=http://www.lyngsat-logo.com/hires/cc/channel_newsasia.png
+URL=rtmp://cna.lsops.net/live/ playpath=cna_en_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1378624660 live=1 pageUrl=http://www.livestation.com/en/cna
+#
+type=video
+name=Press TV 
+thumb=http://www.lyngsat-logo.com/hires/pp/press_tv.png
+URL=rtmp://hd6.lsops.net/live/ playpath=presstv_en_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1384743022 live=1 pageUrl=http://www.livestation.com/en/press-tv#
+#
+type=video
+name=Russia Today
+thumb=http://www.lyngsat-logo.com/hires/rr/rt_america.png
+URL=rtmp://rt.fms.visionip.tv/live/RT_US_3 
+#
+type=video
+name=Russia Today Arabic  
+thumb=http://www.lyngsat-logo.com/hires/rr/rt_arabic.png
+URL=rtmp://rt.fms-04.visionip.tv/live/ playpath=rt-rusiyaalyaum-live-HD swfUrl=http://arabic.rt.com/design/players/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://arabic.rt.com/live/hd/
+#
+type=video
+name=Reuters Live Stream
+thumb=http://images.scribblelive.com/2013/4/26/168ed93f-937a-4aac-b5df-c5e3e74eb20b_300.jpg
+URL=rtmp://hd5.lsops.net/live/ playpath=reuters_en_500 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1385214461 pageUrl=http://www.livestation.com/en/channels/reuters/en
+#
+type=video
+name=Sky News International
+thumb=http://www.thedrum.com/uploads/drum_column_article/89494/main_images/master_skynews_0.jpg
+URL=http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8 
+#
+type=video
+name=Sky News Arabia
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_news_arabia.png 
+URL=rtmp://llnwvps231.fc.llnwd.net:1935/llnwvps231/_definst_/ playpath=eND-IS0mT2csspFA-2vGVs_NjZq-ZuZTMIgeu3aYyqcFI_640_360_3 swfUrl=http://www.elahmad.com/tv/swf/skynewsarabia.swf?file=eND-IS0mT2csspFA-2vGVs_NjZq-ZuZTMIgeu3aYyqcFI_640_360_3&&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/skynewsarabia.php
+#
+type=video
+name=Weather Channel
+thumb=http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png
+URL=rtmp://edge.isearch.to/edge/0ofj5z5lab0b3ox swfUrl=http://www.ilive.to/jwplayer/player.swf swfVfy=true live=true pageUrl=http://www.ilive.to/ live=1 timeout=10
+#

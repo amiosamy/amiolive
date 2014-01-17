@@ -1,0 +1,147 @@
+background=http://t1.gstatic.com/images?q=tbn:ANd9GcTEnmWkSg6w9VW9U8ZhHhZDTficldSW4HHHEaVRouoQliXOlSuz
+
+type=audio
+name=Abana
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcTslaUDIrns3Yrh2XcsnpByBtoYXD8aNl3Sozuf2WRmqUT20RX0dA
+URL=http://www.radio-abana.org/playlist.asx
+#
+type=audio
+name=Altareeq
+thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcSY96W1R5FaGx-iFwICt6hRq8hGreJRrpc56cbF6wArDOzNNDMW
+URL=http://75.125.78.77/AltareeqH
+#
+type=audio
+name=Albishara
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcRuhNRPIGuWUyy-cAQBFO3xYxojQG17HND-JFrCsqgWjog7ntvt
+URL=http://www.radioalbishara.org/radioalbishara.asx
+#
+type=audio
+name=Almahabba
+thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcQ92YZhvRlpDDpE1bHRJYvlV2LsON3x0CLCJ35NuNZOe7ax1xi4nQ
+URL=http://radioalmahabba.com:8000/
+#
+type=audio
+name=Arabesk
+thumb=http://arabic-media.com/img/stn/ar3/arabesk.gif
+URL=http://173.193.219.163:8455/
+#
+type=audio
+name=Amr Diab
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcQY3O2GepMqBsY_-Ja_Cf9DFySJpsxEoIE9ykhhU8EEjL190t6_
+URL=http://174.36.164.27/diabfm/
+#
+type=audio
+name=BBC Arabic
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcTP3_wGv9e8nzMhsUJU5FA48Ws2mQODqoAvrE-KtimNWAVRS-Kh
+URL=rtmp://wsliveflash.bbc.co.uk:80/live playpath=araba_live@8369 swfUrl=http://www.bbc.co.uk/emp/releases/worldwide/revisions/617329_617319/617329_617319_emp.swf
+#
+type=audio
+name=Call To Salvation
+thumb=http://d1i6vahw24eb07.cloudfront.net/s140236d.png
+URL=http://s8.streammonster.com:8218&title=Call%20to%20Salvation%20Radio
+#
+type=audio
+name=Elshaab Egypt
+thumb=http://arabic-media.com/img/stn/ar3/radioelshaab.jpg
+URL=http://5.63.151.52:8004/live
+#
+type=audio
+name=Holy FM
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcT_jONIL55n0tjpT4iS7Ko4EwlmzhodSeKx1M60VXwHsz1wcU5Y4Q
+URL=http://bitsmitter.com:9008/listen.pls
+#
+type=audio
+name=Horytna
+thumb=http://arabic-media.com/img/stn/ar2/horytna-radio.gif
+URL=mms://196.205.121.43/horytna
+#
+type=audio
+name=Goal FM
+thumb=http://www.mydaneltahrir.com/goalfmlogo.png
+URL=http://ams01.egihosting.com/16790
+#
+type=audio
+name=Mahatet Masr
+thumb=http://arabic-media.com/img/stn/ar3/mahatetmasr.jpg
+URL=http://stream.mahatetmasr.com/mahatetmasr
+#
+type=audio
+name=Light For All Nation
+thumb=http://www.arabicprograms.org/imgs/livepause.png
+URL=http://viadj.viastreaming.net/tunein.php/transworldradio/tunein.pls
+#
+type=audio
+name=Misrfone Radio
+thumb=http://arabic-media.com/img/stn/ar3/misrfone.jpg
+URL=http://95.154.254.153:10336/;.mp3
+#
+type=audio
+name=Mega FM 92.7
+thumb=http://www.megafmonline.com/megafm-live/megafm-live-andr.jpg
+URL=http://mgstrm9.twesto.com:7281/stream1.nsv
+#
+type=audio
+name=Nile FM 104
+thumb=http://t3.gstatic.com/images?q=tbn:ANd9GcRfhGlYA1DqcbORPGZCMw27x5BPxF6HMzB---h_clOCF-eEOsKbow
+URL=http://ice31.securenetsystems.net/NILE?type=.flv&playSessionID=3043602E-C7F7-A7BF-592D12A18BADA905&start=0
+#
+type=audio
+name=Nogoum FM
+thumb=http://t3.gstatic.com/images?q=tbn:ANd9GcR-gN2hqorpF7AQufBYQPmoNf7Xl7Ioyyy3wIQ7jwicbzMlYI--ZQ
+URL=http://ice31.securenetsystems.net/NOGOUM?type=.flv&playSessionID=303E2671-C1F1-BF6F-66E5BFA2E8D14F11&start=0
+#
+type=audio
+name=Orthodox Live
+thumb=http://videos.arabchurch.com/videos/radio/orthodoxiya.jpg
+URL=http://s5.viastreaming.net:7040
+#
+type=audio
+name=Rakoty
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcRBFJ6hesgsjvWtefRt_X4CriJQA_Sw2L2PQ1FDgGaj9V7IT0OoYA
+URL=rtmp://sc-lb1.streamcyclone.com/rakotyaudio_live playpath=rakotyaudio swfUrl=http://manage.streamcyclone.com/player/player.swf
+#
+type=audio
+name=Sharkawsat
+thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcTm0xj03Qo2LmKIZWPg2lOihIVNs9pFCwVKHTBMKpb_LyqBH7296Q
+URL=http://arabic-media.com/asx/sharkawsat.asx
+#
+type=audio
+name=Shbab w Reyada
+thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcTm0xj03Qo2LmKIZWPg2lOihIVNs9pFCwVKHTBMKpb_LyqBH7296Q
+URL=rtsp://radio.onlinehorizons.net/shabawreada
+#
+type=audio
+name=Sound of Sakia
+thumb=http://www.soundofsakia.com/images/sakia-logo.jpg
+URL=http://www.soundofsakia.com/radio/AudioPlayer.php
+#
+type=audio
+name=Sky Key Radio
+thumb=https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/c41.41.518.518/s160x160/179071_10151514354848330_1229529986_n.jpg
+URL=mms://stream.skykeyradio.com/858788
+#
+type=audio
+name=Sotak
+thumb=http://upload.wikimedia.org/wikipedia/he/3/33/P63847.jpg
+URL=http://www.radiosotak.com/player/sotak_64mp3.m3u
+#
+type=audio
+name=St Markos church
+thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcSiJy5Rf9_hR0ELfM_SZtH1hCRXlKQRaIckOnvtASiu0d-1uBTp
+URL=http://stream.stmarkoschurch.com/audio
+#
+type=audio
+name=Samaa
+thumb=https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/s160x160/3926_377248705700385_471503097_a.png
+URL=http://www.me.radioibrahim.com:8000/ri_mp3_96/
+#
+type=audio
+name=Sawa Egypt
+thumb=http://t0.gstatic.com/images?q=tbn:ANd9GcRBQxgrSP71IKlNwDH3u9VNo7XBK3JGvzCD5bbmstjo4g0dFaH1
+URL=http://www.alhurra-sawa.com/livestreams/radiosawa.asx
+#
+type=audio
+name=Sawt el Arab
+thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcTm0xj03Qo2LmKIZWPg2lOihIVNs9pFCwVKHTBMKpb_LyqBH7296Q
+URL=http://sawtelrab.org/Sawt_el_Rab.asx
+#

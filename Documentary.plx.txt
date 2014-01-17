@@ -1,0 +1,146 @@
+version=1
+background=http://wallpapers.free-review.net/wallpapers/23/Nature_-_Wallpaper_for_Windows_7.jpg
+title=wow 
+
+
+type=video
+name=Aljazeera Documentary
+thumb=http://www.lyngsat-logo.com/hires/aa/al_jazeera_documentary.png
+URL=rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf?autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php
+#
+type=video
+name=Animal planet Denmark English spoken
+thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcRl3NaLWawX60Md7WnmkhHrOdZgIv4dIxm2lzbJDydnxnOUhAry
+URL=http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e45_wcif.sdp/e45_wcif.sdp-mr2548k.m3u8
+#
+type=video
+name=Animal planet SD
+thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcRl3NaLWawX60Md7WnmkhHrOdZgIv4dIxm2lzbJDydnxnOUhAry
+URL=http://m24.megafun.vn/live.vs?c=vstv078&q=high
+#
+type=video
+name=ANIMAL PLANET HD
+thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcRl3NaLWawX60Md7WnmkhHrOdZgIv4dIxm2lzbJDydnxnOUhAry
+URL=rtmp://s01.webport.tv/promo/mtv live=2
+player=dvdplayer
+#
+type=video
+name=Biography TV 
+thumb=http://static.filmon.com/couch/channels/2633/extra_big_logo.png 
+URL=plugin://plugin.video.MyFilmOn/?url=2633&mode=1 
+#
+type=video
+name=Caribbean Lifestyle Channel 
+thumb=http://static.filmon.com/couch/channels/1946/extra_big_logo.png 
+URL=plugin://plugin.video.MyFilmOn/?url=1946&mode=1 
+#
+type=video
+name=Discovery Channel RUS
+thumb=http://static.filmon.com/couch/channels/1946/extra_big_logo.png 
+URL=rtmp://online-record.ru:1935/ playpath=discovery_low swfUrl=http://moetv.ucoz.ru/uppod.swf pageUrl=http://moetv.ucoz.ru/index/discovery_vlc/0-197#
+#
+type=video
+name=Discovery World rus
+thumb=http://static.filmon.com/couch/channels/1946/extra_big_logo.png 
+URL=http://46.61.226.18:1935/live/_definst_/smil:discoveryworld_sd.smil/playlist.m3u8
+#
+type=video
+name=Discovery Science
+thumb=http://static.filmon.com/couch/channels/1946/extra_big_logo.png 
+URL=http://46.61.226.18:1935/live/_definst_/smil:discoveryscience_sd.smil/playlist.m3u8
+#
+type=video
+name=Discovery Channel
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcRhzuZK6_mC4ZuqkNu1kgyFevZUFTiL7jsCYp3UbO80jQ-IFsFS7w
+URL=http://m24.megafun.vn/live.vs?c=vstv044&q=high
+#
+type=video
+name=Discovery Channel Denmark English Spoken
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcRhzuZK6_mC4ZuqkNu1kgyFevZUFTiL7jsCYp3UbO80jQ-IFsFS7w
+URL=http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e44_wcif.sdp/e44_wcif.sdp-mr2548k.m3u8
+#
+type=video
+name=Discovery Investigations
+thumb=http://static.filmon.com/couch/channels/1946/extra_big_logo.png 
+URL=http://46.61.226.18:1935/live/_definst_/smil:discoveryinvestigations_sd.smil/playlist.m3u8
+#
+type=video
+name=Home and Green Living 
+thumb=http://static.filmon.com/couch/channels/1753/extra_big_logo.png 
+URL=plugin://plugin.video.MyFilmOn/?url=1753&mode=1 
+#
+type=video
+name=Living History
+thumb=http://static.filmon.com/couch/channels/2710/extra_big_logo.png 
+URL=plugin://plugin.video.MyFilmOn/?url=2710&mode=1 
+#
+type=video
+name=National Geographic Abu Dhabi
+thumb=http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png
+URL=http://xnatgeoabudhabilivex.api.channel.livestream.com/3.0/playlist.m3u8
+#
+type=video
+name=National Geographic Channel Denmark English Spoken
+thumb=http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png
+URL=http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e34_wcif.sdp/e34_wcif.sdp-mr2548k.m3u8
+#
+type=video
+name=NG
+thumb=http://static.filmon.com/couch/channels/1946/extra_big_logo.png 
+URL=http://46.61.226.18:1935/live/_definst_/smil:ngc_sd.smil/playlist.m3u8
+#
+type=video
+name=NG wild
+thumb=http://static.filmon.com/couch/channels/1946/extra_big_logo.png 
+URL=http://46.61.226.18:1935/live/_definst_/smil:natgeowild_sd.smil/playlist.m3u8
+#
+type=video
+name=NASA TV
+thumb=http://www.nasa.gov/images/content/345204main_nasatv_100.jpg
+URL=rtmp://cp76072.live.edgefcs.net/live/ swfUrl="http://www.nasa.gov/templateimages/redesign/flash_player/swf/4.5/player.swf" pageUrl="http://www.nasa.gov/multimedia/nasatv/media_flash.html" Playpath=MED-HQ-Flash@42814 live=true timeout=180
+#
+type=video
+name=Outdoor Channel SD
+thumb=http://upload.wikimedia.org/wikipedia/en/thumb/8/89/Outdoor_Channel.svg/192px-Outdoor_Channel.svg.png
+URL=rtmp://lm02.everyon.tv:1935/ptv2/pld613
+#
+type=playlist
+name=Revision3
+thumb=http://navi-x.mooo.com/revision3.png
+URL=http://navi-x.mooo.com/revision3/revision3-MP4-HD.plx
+#
+type=video
+name=Russian Today: Documentary 
+thumb=http://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png
+URL=rtmp://rt.fms.visionip.tv/live/russia_today-rt_docs-live-25f-4x3_2 
+#
+type=video
+name=TLC
+thumb=http://static.filmon.com/couch/channels/1946/extra_big_logo.png 
+URL=http://46.61.226.18:1935/live/_definst_/smil:tlc_sd.smil/playlist.m3u8
+#
+type=video
+name=TWiT US
+thumb=http://lyalinwp7.files.wordpress.com/2010/12/200x200_thumb.png?w=103&h=103&h=103
+URL=http://bglive-a.bitgravity.com/twit/live/high
+#
+type=video
+name=Travel Channel+1
+thumb=http://static.filmon.com/couch/channels/842/extra_big_logo.png
+URL=plugin://plugin.video.MyFilmOn/?url=842&mode=1
+#
+type=video
+name=VIASAT HISTORY
+thumb=http://t3.gstatic.com/images?q=tbn:ANd9GcQVbdLWv2P_4wKcjxWjHQ0a7vkd6km9F1Cg4SP_VfLLPFd_D9dr
+URL=rtmp://83.139.103.230:8080/O2drmtv/viahistory_VGA.stream
+#
+type=video
+name=Viasat History
+thumb=http://t3.gstatic.com/images?q=tbn:ANd9GcQVbdLWv2P_4wKcjxWjHQ0a7vkd6km9F1Cg4SP_VfLLPFd_D9dr
+URL=http://mss-v3-spbtv.msk.spbtv.com/462.isml/462-548k.m3u8
+#
+type=video
+name=Viasat Explorer
+thumb=http://static.filmon.com/couch/channels/1946/extra_big_logo.png 
+URL=http://mss-v3-spbtv.msk.spbtv.com/168.isml/168-548k.m3u8
+#

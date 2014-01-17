@@ -1,0 +1,310 @@
+version=1
+background=http://t0.gstatic.com/images?q=tbn:ANd9GcQghpyzfMytJxTL6_k2rZtFzu3kYzlL09HMzbAf-x8WtyVHNFSF
+title=wow 
+
+
+type=video
+name=bein +1
+thumb=http://cricfree.tv/images/bein/be1.png
+URL=rtmp://31.220.0.104:1935/live playpath=jsc1  swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc1&vw=620&vh=490
+#
+type=video
+name=bein +2
+thumb=http://cricfree.tv/images/bein/be2.png
+URL=rtmp://31.220.0.103:1935/live playpath=jsc2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc2&vw=620&vh=490
+#
+type=video
+name=bein +3
+thumb=http://cricfree.tv/images/bein/be3.png
+URL=rtmp://31.220.0.104:1935/live playpath=jsc3xx  swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc3xx&vw=620&vh=490
+#
+type=video
+name=bein +4
+thumb=http://cricfree.tv/images/bein/be4.png
+URL=rtmp://77.81.98.132/dms playpath=arbi4 swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=bbb4&vw=600&vh=450&typeplayer=0&domain=hdfooty.tv
+#
+type=video
+name=bein +5
+thumb=http://cricfree.tv/images/bein/be5.png
+URL=rtmp://77.81.98.137/dms playpath=arbi5 swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=wjsc5&vw=600&vh=450&typeplayer=0&domain=hdfooty.tv
+#
+type=video
+name=bein +6
+thumb=http://cricfree.tv/images/bein/be6.png
+URL=rtmp://31.220.0.82:1935/live playpath=jsc6  swfUrl=http://www.eucast.tv/player5.9.swf  pageUrl=http://www.eucast.tv/embed.php?live=jsc6&vw=620&vh=490
+#
+type=video
+name=bein +7
+thumb=http://cricfree.tv/images/bein/be7.png
+URL=rtmp://77.81.98.134/fms playpath=bein7 swfUrl=http://www.9flash.tv/player/player-licensed55.swf pageUrl=http://www.9flash.tv/embed.php?v=hdfootybein7s1dc2&vw=600&vh=450&video=0&domain=hdfooty.tv
+#
+type=video
+name=bein +8
+thumb=http://cricfree.tv/images/bein/be8.png
+URL=rtmp://77.81.98.138/fms playpath=bein8 swfUrl=http://www.9flash.tv/player/player-licensed55.swf pageUrl=http://www.9flash.tv/embed.php?v=hdfootybein83fckb&vw=600&vh=450&video=0&domain=hdfooty.tv
+#
+type=video
+name=bein +9
+thumb=http://cricfree.tv/images/bein/be9.png
+URL=rtmp://31.220.0.104:1935/live playpath=jsc9xxx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc9xxx&vw=620&vh=490
+#
+type=video
+name=bein +10
+thumb=http://cricfree.tv/images/bein/be10.png
+URL=rtmp://31.220.0.104:1935/live playpath=jsx10 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsx10&vw=620&vh=490
+#
+type=video
+name=bein +11
+thumb=http://cricfree.tv/images/bein/be11.png
+URL=rtmp://77.81.98.133/fms playpath=bein11 swfUrl=http://www.zcast.tv/player/player-licensed55.swf pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein11c4t4&vw=600&vh=450&video=0&domain=hdembed.com
+#
+type=video
+name=bein +12
+thumb=http://cricfree.tv/images/bein/be12.png
+URL=rtmp://31.220.0.104:1935/live playpath=jsx10 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsx10&vw=620&vh=490
+#
+type=video
+name=bein +13
+thumb=http://cricfree.tv/images/bein/be13.png
+URL=rtmpe://46.246.124.7:1935/live playpath=HDMBS13 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org
+#
+type=video
+name=bein +14
+thumb=http://cricfree.tv/images/bein/be14.png
+URL=rtmpe://46.246.124.7:1935/live playpath=HDMBS14 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org
+#
+type=video
+name=bein +15
+thumb=http://cricfree.tv/images/bein/be15.png
+URL=rtmpe://46.246.124.7:1935/live playpath=HDMBS15 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org
+#
+type=video
+name=Al Kass HD
+thumb=http://d2htvlive.in/wp-content/uploads/2013/03/Watch-AL-Kass-Plus-Channel-Live.jpg
+URL=http://alkass-i.akamaihd.net/hls/live/205534/kassSDp1/ad_37s16.m3u8
+#
+type=video
+name=Al Nahar Sports
+thumb=http://www.lyngsat-logo.com/logo/tv/aa/al_nahar_sport.jpg
+URL=rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
+#
+type=video
+name=BT Sport 1
+thumb=http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_1_hd.jpg
+URL=rtmp://31.220.0.104:1935/live playpath=bt1sss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1sss&vw=620&vh=490 live=1 timeout=10
+#
+type=video
+name=BT Sport 2
+thumb=http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png
+URL=rtmp://31.220.0.133:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490
+#
+type=video
+name=Chelsea TV 
+thumb=http://www.yes.tv/image/logo/chelseatv_logo.png
+URL=rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
+#
+type=video
+name=Canal+ Futbol
+thumb=http://www.lyngsat-logo.com/hires/cc/canalplus_es_liga2.png
+URL=rtmp://198.144.153.139:443/kuyo playpath=futbolllllll?id=321ec0f336bf2006e21abdebd374df41&pid=36302e3234302e3131382e3331 swfUrl=http://yukons.net/yplay.swf pageUrl=http://yukons.net/embed/363637353734363236463643364336433643364336433643/30817bb3880386c7bc17db1f54fde459/650/400
+#
+type=video
+name=Canal+ Liga
+thumb=http://www.lyngsat-logo.com/hires/cc/canalplus_es_liga.png
+URL=rtmp://streaming.freelivetv.tv/live playpath=ligilla13fba0dbf86d82785a647cf43d114d70 swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=11944 pageUrl=http://freelivetv.tv/embed/embed.php?channel=ligilla&w=650&h=400
+#
+type=video
+name=Dubai Sports
+thumb=http://www.dmi.ae/common/images/theme/nationalday2012/dubaisports_logo.png
+URL=rtmp://dmiLiveDubaiSports.flash.internapcdn.net/dmiLiveDubaiSports/live_1 playpath=dmilivedubaisports_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=ttp://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaisports
+#
+type=video
+name=Eurosport 1 RUS
+thumb=http://www.lyngsat-logo.com/hires/ee/eurosport.png
+URL=http://46.61.226.18:1935/live/_definst_/smil:Eurosport_sd.smil/playlist.m3u8
+#
+type=video
+name=Eurosport 1 ENG
+thumb=http://www.lyngsat-logo.com/hires/bb/british_eurosport_hd.png
+URL=rtmp://31.220.0.82:1935/live playpath=eurosx1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eurosx1&vw=620&vh=490
+#
+type=video
+name=Eurosport2 RUS
+thumb=http://www.lyngsat-logo.com/hires/ee/eurosport.png
+URL=http://46.61.226.18:1935/live/_definst_/smil:erosport_sd.smil/playlist.m3u8
+#
+type=video
+name=Eurosport 2 ENG
+thumb=http://www.lyngsat-logo.com/hires/bb/british_eurosport_2_hd.png
+URL=rtmp://31.220.0.134:1935/live playpath=euro222 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=euro222&vw=620&vh=490
+#
+type=video
+name=Eurosport news
+thumb=http://www.lyngsat-logo.com/hires/ee/eurosport.png
+URL=http://46.61.226.18:1935/live/_definst_/smil:Eurosportnews_sd.smil/playlist.m3u8
+#
+type=video
+name=ESPN 
+thumb=http://www.hot.net.il/UploadedImages//04_2011/espn_510_150_1.jpg
+URL=rtmp://77.95.229.13:80/liverepeater playpath=133541 swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/stream.php?id=133541&width=620&height=490&stretching=
+#
+type=video
+name=ESPN UK
+thumb=http://www.lyngsat-logo.com/hires/ee/espn_tw_hd.png
+URL=rtmp://31.220.0.104:1935/live playpath=jsx8xxs swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsx8xxs&vw=620&vh=490
+#
+type=video
+name=Fox Sports
+thumb=http://www.lyngsat-logo.com/hires/ff/fox_sports.png
+URL=rtmp://77.81.98.136/strms/ playpath=ufox2 swfUrl=http://www.zstream.eu/jwplayer/jwplayer.flash.swf pageUrl=http://www.zstream.eu/embed.php?v=foxy2&vw=600&vh=450&video=0&domain=hdembed.com live=1 timeout=10
+#
+type=video
+name=GOL TV
+thumb=http://www.lyngsat-logo.com/hires/gg/gol_tv.png
+URL=rtmp://cdn.flashstreaming.mobi/live playpath=goltv swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1&kpublica=11483 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=goltv&w=650&h=400
+#
+type=video
+name=Nile Sport
+thumb=http://www.livetvstreamingfree.com/wp-content/uploads/2013/04/NIle-Sport-TV-Channel.png
+URL=rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
+#
+type=video
+name=NBA Network
+thumb=http://www.lyngsat-logo.com/hires/nn/nba_tv.png
+URL=rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true
+#
+type=video
+name=NBC sports
+thumb=http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.jpg
+URL=rtmp://nyk.premiumcdnlive.com/edge/30sbtmyelnevr80 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10
+#
+type=video
+name=NFL Network US
+thumb=http://rbr.com/wp-content/uploads/NFL1-225x180.jpg
+URL=rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com
+#
+type=video
+name=NHL Network
+thumb=http://2.cdn.nhle.com/nhl/images/upload/2012/10/NewNHLNetLogo_contmod100612.jpg
+URL=http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_640.m3u8
+#
+type=video
+name=PTV Sports
+thumb=http://www.lyngsat-logo.com/logo/tv/pp/ptv_sports.jpg
+URL=rtmp://31.220.0.82:1935/live playpath=ptvsports0 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ptvsports0&vw=620&vh=490
+#
+type=video
+name=Sky Sports 1
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_hd1.png
+URL=rtmp://31.220.0.134:1935/live playpath=skysport111 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport111&vw=620&vh=490
+#
+type=video
+name=Sky Sports 2
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_hd2.png
+URL=rtmp://31.220.0.133:1935/live playpath=ss22zx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport2&vw=620&vh=490 live=1 timeout=10
+#
+type=video
+name=Sky Sports 3
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_hd3.png
+URL=rtmp://31.220.0.134:1935/live playpath=ss3x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skyspors3&vw=620&vh=490 live=1 timeout=10
+#
+type=video
+name=Sky Sports 4
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_hd4.png
+URL=rtmp://31.220.0.82:1935/live playpath=skyss3344 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skyss3344&vw=620&vh=490
+#
+type=video
+name=Sky Sports News
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news_hd.png
+URL=rtmp://31.220.0.134:1935/live playpath=skysportnews swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysportnews&vw=620&vh=490 live=1 timeout=10
+#
+type=video
+name=SKY F1
+thumb=http://www.igoal.tv/ch/skyf1.jpg
+URL=rtmp://31.220.0.133:1935/live playpath=f11 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=f11&vw=620&vh=490 live=1 timeout=10
+#
+type=video
+name=SKY Calcio HD
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcRMPSS6bYQQT59mltMjGEkgX4wOa8coByTCiZStPtzdI9KykH-FHw
+URL=rtmp://31.220.0.104:1935/live playpath=skycalcio00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skyca&vw=620&vh=490 live=1 timeout=10
+#
+type=video
+name=SKY Calcio 1
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_it_sport1.png
+URL=rtmp://31.220.0.133:1935/live playpath=sky1ita swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1ita&vw=620&vh=490 live=1 timeout=10
+#
+type=video
+name=SKY Calcio 2
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_it_sport2.png
+URL=rtmp://31.220.0.133:1935/live playpath=sky2ita swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky2ita&vw=620&vh=490 live=1 timeout=10
+#
+type=video
+name=SKY Calcio 3
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_it_sport3.png
+URL=rtmp://31.220.0.82:1935/live playpath=sky3ita swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3ita&vw=620&vh=490 live=1 timeout=10
+#
+type=video
+name=Setanta Sports
+thumb=http://www.lyngsat-logo.com/logo/tv/ss/setanta_sports1.jpg
+URL=rtmp://31.220.0.104:1935/live playpath=hxk swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=hxk&vw=620&vh=490
+#
+type=video
+name=SportTime TV Channel 1 Germany
+thumb=http://freestreamtv.ucoz.net/TVLOGOS2/germany-sporttime-tv.jpg
+URL=rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#
+type=video
+name=SportTime TV Channel 2 Germany
+thumb=http://freestreamtv.ucoz.net/TVLOGOS2/germany-sporttime-tv.jpg
+URL=rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#
+type=video
+name=SportTime TV Channel 3 Germany
+thumb=http://freestreamtv.ucoz.net/TVLOGOS2/germany-sporttime-tv.jpg
+URL=rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#
+type=video
+name=SportTimeTV Channel 4 Germany
+thumb=http://freestreamtv.ucoz.net/TVLOGOS2/germany-sporttime-tv.jpg
+URL=rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#
+type=video
+name=SportTime TV Channel 5 Germany
+thumb=http://freestreamtv.ucoz.net/TVLOGOS2/germany-sporttime-tv.jpg
+URL=rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#
+type=video
+name=Star Sports
+thumb=http://www.lyngsat-logo.com/hires/ss/star_sports_se_asia.png
+URL=rtmp://31.220.0.134:1935/live playpath=sdsd33ww swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsd33ww&vw=620&vh=490
+#
+type=video
+name=Truesport 4
+thumb=http://farm9.staticflickr.com/8289/7619551122_3abbe93645_m.jpg
+URL=http://m24.megafun.vn/live.vs?c=vstv093&q=high
+#
+type=video
+name=Ten Sports
+thumb=http://www.lyngsat-logo.com/hires/tt/ten_sports_in.png
+URL=rtmp://31.220.0.82:1935/live playpath=tensports00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports00&vw=620&vh=490
+#
+type=video
+name=Ten Action
+thumb=http://www.lyngsat-logo.com/hires/tt/ten_action_plus.png
+URL=rtmp://31.220.0.82:1935/live playpath=erer333 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=998629153&live=erer333&vw=620&vh=490
+#
+type=video
+name=VTC3 Sport
+thumb=http://t3.gstatic.com/images?q=tbn:ANd9GcTMxBP6YxAVJTNbkywZ-kkBYDBvUv5eX-ITDLwI4O7dcZMHmSuK
+URL=http://m24.megafun.vn/live.vs?c=vstv096&q=high
+#
+type=video
+name=Viasat Sport
+thumb=http://t3.gstatic.com/images?q=tbn:ANd9GcSyJRP7LTyy6GDpisMC5xXspBxwbQ_1uHXUgiGZsHEoCIYHCjZ-9g
+URL=http://85.25.151.154:1935/live/_definst_/viasatsport.stream/playlist.m3u8
+#
+type=video
+name=WWE HD
+thumb=http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg
+URL=rtmp://planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://livetvchannelsfree.com/wrestling.html 
+#
