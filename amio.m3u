@@ -510,7 +510,7 @@ rtmp://31.220.0.133:1935/live playpath=sky2ita swfUrl=http://www.eucast.tv/playe
 #EXTINF:-1,SKY Calcio 3
 rtmp://31.220.0.82:1935/live playpath=sky3itaswfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3ita&vw=620&vh=490 live=1 timeout=10
 #EXTINF:-1,Setanta Sports
-rtmp://31.220.0.104:1935/live playpath=hxk swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=hxk&vw=620&vh=490
+rtmp://31.220.0.104:1935/live playpath=hjjj swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=hjjj&vw=620&vh=490
 #EXTINF:-1,SportTime TV Channel 1 Germany
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
 #EXTINF:-1,SportTime TV Channel 2 Germany
@@ -522,7 +522,7 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1,SportTime TV Channel 5 Germany
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
 #EXTINF:-1,Star Sports
-rtmp://31.220.0.134:1935/live playpath=sdsd33ww swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsd33ww&vw=620&vh=490
+rtmp://31.220.0.134:1935/live playpath=dsee swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsd33ww&vw=620&vh=490
 #EXTINF:-1,TBN
 http://tbn.edgeboss.net/wmedia-live/tbn/59983/400_tbn-tbnworld_100511.asx
 #EXTINF:-1,The Church Channel
@@ -542,7 +542,7 @@ http://m24.megafun.vn/live.vs?c=vstv093&q=high
 #EXTINF:-1,Ten Sports
 rtmp://31.220.0.82:1935/live playpath=tensports00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports00&vw=620&vh=490
 #EXTINF:-1,Ten Action
-rtmp://31.220.0.82:1935/live playpath=erer333 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=998629153&live=erer333&vw=620&vh=490
+rtmp://31.220.0.82:1935/live playpath=tenaction3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=998629153&live=tenaction3&vw=620&vh=490
 #EXTINF:-1,VTC3 Sport
 http://m24.megafun.vn/live.vs?c=vstv096&q=high
 #EXTINF:-1,VIASAT HISTORY
