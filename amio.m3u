@@ -757,3 +757,11 @@ rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf p
 rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein11 
 #EXTINF:-1,bein12
 rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein12 
+#EXTINF:0,STAR SPORTS 1
+rtmp://77.81.98.130/fms playpath=star1 swfUrl=http://www.casti.tv/player/player-licensed55.swf pageUrl=http://www.casti.tv/embed.php?v=starsports1live&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:0,STAR SPORTS 2
+rtmp://77.81.98.130/tv playpath=dskdjkndmsdamhud  swfUrl=http://www.9flash.tv/player/player-licensed55.swf pageUrl=http://www.9flash.tv/embed.php?v=dskdjkndmsdamhud&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:0,STAR SPORTS 3
+rtmp://77.81.98.138/fms playpath=star3 swfUrl=http://www.9flash.tv/player/player-licensed55.swf pageUrl=http://www.9flash.tv/embed.php?v=starsp3gkn17&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:0,STAR SPORTS 4
+rtmp://77.81.98.136/fms playpath=star4 swfUrl=http://www.9flash.tv/player/player-licensed55.swf pageUrl=http://www.9flash.tv/embed.php?v=starsp4h2asv&vw=600&vh=450&video=0&domain=hdembed.com
