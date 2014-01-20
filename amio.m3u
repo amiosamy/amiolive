@@ -723,16 +723,15 @@ http://live.freelivetv.tv:1935/live/discoverychannel1f29fceedd330dacc7fa3e599088
 http://live.freelivetv.tv:1935/live/dosss7bad3cf83429686e7732569478d2f355/playlist.m3u8
 #EXTINF:-1,la2
 http://live.freelivetv.tv:1935/live/36657d5ff9020d2abefe558796b99585/playlist.m3u8
-###########################################################################
-#EXTINF:0,DOLCE SPORT 1
+#EXTINF:-1,DOLCE SPORT 1
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport
-#EXTINF:0,DOLCE SPORT 2
+#EXTINF:-1,DOLCE SPORT 2
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport2
-#EXTINF:0,DOLCE SPORT 3
+#EXTINF:-1,DOLCE SPORT 3
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport3
-#EXTINF:0,DOLCE SPORT 4
+#EXTINF:-1,DOLCE SPORT 4
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport4
-#EXTINF:0,DOLCE SPORT HD
+#EXTINF:-1,DOLCE SPORT HD
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesporthd
 #EXTINF:-1,BT 1
 rtmp://77.81.98.138/pub swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com playpath=bs1 
@@ -762,13 +761,13 @@ rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf p
 rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein12 
 #EXTINF:-1,PTV Sports
 rtmp://31.220.0.82:1935/live playpath=ptvsports0 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ptvsports0&vw=620&vh=490
-#EXTINF:0,STAR SPORTS 1
+#EXTINF:-1,STAR SPORTS 1
 rtmp://77.81.98.130/fms playpath=star1 swfUrl=http://www.casti.tv/player/player-licensed55.swf pageUrl=http://www.casti.tv/embed.php?v=starsports1live&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:0,STAR SPORTS 2
+#EXTINF:-1,STAR SPORTS 2
 rtmp://77.81.98.130/tv playpath=dskdjkndmsdamhud  swfUrl=http://www.9flash.tv/player/player-licensed55.swf pageUrl=http://www.9flash.tv/embed.php?v=dskdjkndmsdamhud&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:0,STAR SPORTS 3
+#EXTINF:-1,STAR SPORTS 3
 rtmp://77.81.98.138/fms playpath=star3 swfUrl=http://www.9flash.tv/player/player-licensed55.swf pageUrl=http://www.9flash.tv/embed.php?v=starsp3gkn17&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:0,STAR SPORTS 4
+#EXTINF:-1,STAR SPORTS 4
 rtmp://77.81.98.136/fms playpath=star4 swfUrl=http://www.9flash.tv/player/player-licensed55.swf pageUrl=http://www.9flash.tv/embed.php?v=starsp4h2asv&vw=600&vh=450&video=0&domain=hdembed.com
 #EXTINF:-1,Ten Sports
 rtmp://31.220.0.82:1935/live playpath=tensports00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports00&vw=620&vh=490
@@ -782,489 +781,579 @@ rtmp://77.81.98.136/pub playpath=stargold swfUrl=http://www.castok.com/player/pl
 rtmp://77.81.98.132/lub playpath=setmax swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=setmax&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
 #EXTINF:-1,STAR PLUS
 rtmp://77.81.98.132/dms playpath=starplushd swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
-#EXTINF:0,SkyNews
+#EXTINF:-1,SkyNews
 http://212.250.159.10:7020/
-#EXTINF:0,BBC1
+#EXTINF:-1,BBC1
 http://212.250.159.10:7030/
-#EXTINF:0,BBC2
+#EXTINF:-1,BBC2
 http://212.250.159.10:7040/
-#EXTINF:0,itv
+#EXTINF:-1,itv
 http://212.250.159.10:7050/
-#EXTINF:0,Channel 4
+#EXTINF:-1,Channel 4
 http://212.250.159.10:7060/
-#EXTINF:0,Channel 5
+#EXTINF:-1,Channel 5
 http://212.250.159.10:7070/
-#EXTINF:0,ITV2
+#EXTINF:-1,ITV2
 http://212.250.159.7:7080/
-#EXTINF:0,Film4
+#EXTINF:-1,Film4
 http://212.250.159.7:7090/
-#EXTINF:0,ITV3
+#EXTINF:-1,ITV3
 http://212.250.159.7:7100/
-#EXTINF:0,ITV4
+#EXTINF:-1,ITV4
 http://212.250.159.8:7110/
-#EXTINF:0,E4
+#EXTINF:-1,E4
 http://212.250.159.8:7120/
-#EXTINF:0,More4
+#EXTINF:-1,More4
 http://212.250.159.9:7140/
-#EXTINF:0,5*
+#EXTINF:-1,5*
 http://212.250.159.9:7150/
-#EXTINF:0,5USA
+#EXTINF:-1,5USA
 http://212.250.159.9:7160/
-#EXTINF:0,euronews
+#EXTINF:-1,euronews
 http://212.250.159.9:7170/
-#EXTINF:0,Movies4men
+#EXTINF:-1,Movies4men
 http://212.250.159.9:7180
-#EXTINF:0,01/17/14 WWE SMACKDOWN FULL SHOW - 
+#EXTINF:-1,01/17/14 WWE SMACKDOWN FULL SHOW - 
 rtmp://watch.ilive.to:1935/edge/pp2c3nnnvsluyyf pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,1980's music channel
+#EXTINF:-1,1980's music channel
 rtmp://watch.ilive.to:1935/edge/ovcmgh4bic772fv pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,24x7 1998-2010 ALL WWE PPVs STREAM - 
+#EXTINF:-1,24x7 1998-2010 ALL WWE PPVs STREAM - 
 rtmp://watch.ilive.to:1935/edge/9dmm8m6a1prz2gi pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,A&amp;E
+#EXTINF:-1,A&amp;E
 rtmp://watch.ilive.to:1935/edge/ug176dq4n2zftgo pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,ABC (HD)
+#EXTINF:-1,ABC (HD)
 rtmp://watch.ilive.to:1935/edge/ pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,ABC Family
+#EXTINF:-1,ABC Family
 rtmp://watch.ilive.to:1935/edge/0ofj5z5lab0b3ox pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,ABC live streaming
+#EXTINF:-1,ABC live streaming
 rtmp://watch.ilive.to:1935/edge/nz7l9vc5nv1og7b pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Al Jazeera
+#EXTINF:-1,Al Jazeera
 rtmp://watch.ilive.to:1935/edge/bd88ty1efjgc9mw pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,AMC live stream - The Walking Dead
+#EXTINF:-1,AMC live stream - The Walking Dead
 rtmp://watch.ilive.to:1935/edge/z4cxm7zlfyqs65m pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Animal Planet
+#EXTINF:-1,Animal Planet
 rtmp://watch.ilive.to:1935/edge/41i3ymbmum28xfk pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Asian Movies
+#EXTINF:-1,Asian Movies
 rtmp://watch.ilive.to:1935/edge/7rfuhjo3hs7g7tq pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,AXN Black
+#EXTINF:-1,AXN Black
 rtmp://watch.ilive.to:1935/edge/79fkf9ugubolnai pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,AXN White
+#EXTINF:-1,AXN White
 rtmp://watch.ilive.to:1935/edge/pe94wt2bo03n4rt pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,AXN
+#EXTINF:-1,AXN
 rtmp://watch.ilive.to:1935/edge/dw657dcdmdf0vap pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,AXN
+#EXTINF:-1,AXN
 rtmp://watch.ilive.to:1935/edge/778im6ualerzp67 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,AXN
+#EXTINF:-1,AXN
 rtmp://watch.ilive.to:1935/edge/qf6d3hdupyv0s2d pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,BBC World News
+#EXTINF:-1,BBC World News
 rtmp://watch.ilive.to:1935/edge/1kmj8d0b78n6w9m pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Beavis and Butthead - all seasons guy
+#EXTINF:-1,Beavis and Butthead - all seasons guy
 rtmp://watch.ilive.to:1935/edge/05fzkhcbnzl3wkr pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Benfica TV
+#EXTINF:-1,Benfica TV
 rtmp://watch.ilive.to:1935/edge/borci9jwgccac2z pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,BET - Black Entertainment Network
+#EXTINF:-1,BET - Black Entertainment Network
 rtmp://watch.ilive.to:1935/edge/kexkxje3nqi6dtl pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Biathlon World Cup in Antholz
+#EXTINF:-1,Biathlon World Cup in Antholz
 rtmp://watch.ilive.to:1935/edge/a1arnrw179ccpqd pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Big Bang Theory
+#EXTINF:-1,Big Bang Theory
 rtmp://watch.ilive.to:1935/edge/5wyoabjq999j0no pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Bleach anime full
+#EXTINF:-1,Bleach anime full
 rtmp://watch.ilive.to:1935/edge/cqq87pn1lkxra4k pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Bloomberg
+#EXTINF:-1,Bloomberg
 rtmp://watch.ilive.to:1935/edge/8auokq361fr4hpn pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Bravo
+#EXTINF:-1,Bravo
 rtmp://watch.ilive.to:1935/edge/bfmw64f3l53st5n pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Canal Panda
+#EXTINF:-1,Canal Panda
 rtmp://watch.ilive.to:1935/edge/7thfpzzsr9vfehj pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Cartoon Network
+#EXTINF:-1,Cartoon Network
 rtmp://watch.ilive.to:1935/edge/lf4cc63667vxzlx pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Cartoon Network
+#EXTINF:-1,Cartoon Network
 rtmp://watch.ilive.to:1935/edge/cre0y880du3xn6n pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Cartoon Network
+#EXTINF:-1,Cartoon Network
 rtmp://watch.ilive.to:1935/edge/srts7n4g6oypowl pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Casa dos Segredos
+#EXTINF:-1,Casa dos Segredos
 rtmp://watch.ilive.to:1935/edge/bj8xdihtj06y5lw pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,CBS
+#EXTINF:-1,CBS
 rtmp://watch.ilive.to:1935/edge/jlloui0fux61mix pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Cinema HD
+#EXTINF:-1,Cinema HD
 rtmp://watch.ilive.to:1935/edge/nunp4wffot67rs7 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Cinemax
+#EXTINF:-1,Cinemax
 rtmp://watch.ilive.to:1935/edge/r3na4scqxhgcoly pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,CNBC
+#EXTINF:-1,CNBC
 rtmp://watch.ilive.to:1935/edge/9umfgmr90uea60x pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,CNN
+#EXTINF:-1,CNN
 rtmp://watch.ilive.to:1935/edge/rjxo8hz17q9waiq pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,CNN
+#EXTINF:-1,CNN
 rtmp://watch.ilive.to:1935/edge/pevmm1onhjyufpg pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Comedy Central
+#EXTINF:-1,Comedy Central
 rtmp://watch.ilive.to:1935/edge/sfrd5bsagtq9eg0 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Comedy Central
+#EXTINF:-1,Comedy Central
 rtmp://watch.ilive.to:1935/edge/4uw2a6taw0tufzg pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Croatia vs Sweden
+#EXTINF:-1,Croatia vs Sweden
 rtmp://watch.ilive.to:1935/edge/wsxqm2n6n40a3a5 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,CSI 24H
+#EXTINF:-1,CSI 24H
 rtmp://watch.ilive.to:1935/edge/aszl8hyh5d4zdvs pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,CW (HD)
+#EXTINF:-1,CW (HD)
 rtmp://watch.ilive.to:1935/edge/ pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,CW
+#EXTINF:-1,CW
 rtmp://watch.ilive.to:1935/edge/fvksu1sp51ijtyd pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,desafio final 2 24h
+#EXTINF:-1,desafio final 2 24h
 rtmp://watch.ilive.to:1935/edge/4wt6kd8wgx78zwf pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Detective Conan the movies
+#EXTINF:-1,Detective Conan the movies
 rtmp://watch.ilive.to:1935/edge/shserslj4yhr7ig pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Discovery Channel
+#EXTINF:-1,Discovery Channel
 rtmp://watch.ilive.to:1935/edge/own38fuo0upig6w pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Discovery Channel
+#EXTINF:-1,Discovery Channel
 rtmp://watch.ilive.to:1935/edge/53yj0tcxzl4cqey pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Discovery Channel
+#EXTINF:-1,Discovery Channel
 rtmp://watch.ilive.to:1935/edge/b5sk6101ty89jlz pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Discovery Kids
+#EXTINF:-1,Discovery Kids
 rtmp://watch.ilive.to:1935/edge/n5p5jxf653kfq86 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Discovery Turbo
+#EXTINF:-1,Discovery Turbo
 rtmp://watch.ilive.to:1935/edge/2p5kj6nrpp59542 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Discovery
+#EXTINF:-1,Discovery
 rtmp://watch.ilive.to:1935/edge/it82brayqtelkyi pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney channel (SD)
+#EXTINF:-1,Disney channel (SD)
 rtmp://watch.ilive.to:1935/edge/rxslwv0z7ju9isb pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney channel
+#EXTINF:-1,Disney channel
 rtmp://watch.ilive.to:1935/edge/2tag4dzgwof5ma2 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney Channel
+#EXTINF:-1,Disney Channel
 rtmp://watch.ilive.to:1935/edge/hkhdp62r9t4q83o pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney channel
+#EXTINF:-1,Disney channel
 rtmp://watch.ilive.to:1935/edge/bzrpjgp2ok81gx7 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney Cinemagic
+#EXTINF:-1,Disney Cinemagic
 rtmp://watch.ilive.to:1935/edge/lp0o8c3i376ds1l pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney Junior (UK)
+#EXTINF:-1,Disney Junior (UK)
 rtmp://watch.ilive.to:1935/edge/cdcqm5bp0fw6k8c pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney Junior
+#EXTINF:-1,Disney Junior
 rtmp://watch.ilive.to:1935/edge/tljgzu7oqfmr7h0 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney Junior
+#EXTINF:-1,Disney Junior
 rtmp://watch.ilive.to:1935/edge/v37n5jobyi734ur pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney XD
+#EXTINF:-1,Disney XD
 rtmp://watch.ilive.to:1935/edge/x1vqc8lmn9u6y9n pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Disney XD
+#EXTINF:-1,Disney XD
 rtmp://watch.ilive.to:1935/edge/qv2jfe1v02fqgaa pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Dragon Ball GT
+#EXTINF:-1,Dragon Ball GT
 rtmp://watch.ilive.to:1935/edge/lj2q51wqhd7rpr0 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Dragon Ball
+#EXTINF:-1,Dragon Ball
 rtmp://watch.ilive.to:1935/edge/15jvbu6lxtgwrcq pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Dragon Balll Z
+#EXTINF:-1,Dragon Balll Z
 rtmp://watch.ilive.to:1935/edge/y9f0p4tvi2hwoxy pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,ESPN Live TV
+#EXTINF:-1,ESPN Live TV
 rtmp://watch.ilive.to:1935/edge/jbg6x0bz0qtayhc pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,ESPN
+#EXTINF:-1,ESPN
 rtmp://watch.ilive.to:1935/edge/xoaaohmeuajfeyf pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,ESPN
+#EXTINF:-1,ESPN
 rtmp://watch.ilive.to:1935/edge/ac0cw5cmguex4di pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,ESPN
+#EXTINF:-1,ESPN
 rtmp://watch.ilive.to:1935/edge/3bwxsb9prtuwnr0 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,ESPN
+#EXTINF:-1,ESPN
 rtmp://watch.ilive.to:1935/edge/ymw0s0q98vd7dbu pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,esporte-interativo
+#EXTINF:-1,esporte-interativo
 rtmp://watch.ilive.to:1935/edge/clh1l6qnv31sgqf pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Euronews
+#EXTINF:-1,Euronews
 rtmp://watch.ilive.to:1935/edge/fg2fwiffpklotoc pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Eurosport
+#EXTINF:-1,Eurosport
 rtmp://watch.ilive.to:1935/edge/65es9l1s2x2ei80 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Family Guy
+#EXTINF:-1,Family Guy
 rtmp://watch.ilive.to:1935/edge/4mg0320yrc805sj pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Food Network
+#EXTINF:-1,Food Network
 rtmp://watch.ilive.to:1935/edge/ibnnu7537h3ax6e pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,FOX (HD)
+#EXTINF:-1,FOX (HD)
 rtmp://watch.ilive.to:1935/edge/ pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,FOX Crime
+#EXTINF:-1,FOX Crime
 rtmp://watch.ilive.to:1935/edge/qe4ivz5egll49bx pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,FOX Crime
+#EXTINF:-1,FOX Crime
 rtmp://watch.ilive.to:1935/edge/58i18lx0ngwjkbk pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,FOX Life
+#EXTINF:-1,FOX Life
 rtmp://watch.ilive.to:1935/edge/ts2aihul1c35nyl pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,FOX Live TV
+#EXTINF:-1,FOX Live TV
 rtmp://watch.ilive.to:1935/edge/va73s86t8cl5e73 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Fox Movie Channel
+#EXTINF:-1,Fox Movie Channel
 rtmp://watch.ilive.to:1935/edge/hc992q7x7cz86t9 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,FOX Movies
+#EXTINF:-1,FOX Movies
 rtmp://watch.ilive.to:1935/edge/17olli5u0o7orwe pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Fox Networks private
+#EXTINF:-1,Fox Networks private
 rtmp://watch.ilive.to:1935/edge/ pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Fox News
+#EXTINF:-1,Fox News
 rtmp://watch.ilive.to:1935/edge/ohn58e97er36vjr pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,FOX Sports (SD)
+#EXTINF:-1,FOX Sports (SD)
 rtmp://watch.ilive.to:1935/edge/tw3pdfb3msyhohg pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,FOX
+#EXTINF:-1,FOX
 rtmp://watch.ilive.to:1935/edge/hlyvduc7td0icvc pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,FOX
+#EXTINF:-1,FOX
 rtmp://watch.ilive.to:1935/edge/xxxdng31t85863l pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Fresh Prince of Bel-Air
+#EXTINF:-1,Fresh Prince of Bel-Air
 rtmp://watch.ilive.to:1935/edge/o5e7lgw0umtf1kc pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Friends show
+#EXTINF:-1,Friends show
 rtmp://watch.ilive.to:1935/edge/wg2fmaake2sfjbr pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Futurama (all episodes)
+#EXTINF:-1,Futurama (all episodes)
 rtmp://watch.ilive.to:1935/edge/gizu0duxsahn6r7 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Golf channel live
+#EXTINF:-1,Golf channel live
 rtmp://watch.ilive.to:1935/edge/ts6w24dx29tcwi4 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Hallmark
+#EXTINF:-1,Hallmark
 rtmp://watch.ilive.to:1935/edge/v4ynnryunsoxzbq pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Handball Serbia vs France
+#EXTINF:-1,Handball Serbia vs France
 rtmp://watch.ilive.to:1935/edge/sezdimk93p4kptz pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,HBO 2
+#EXTINF:-1,HBO 2
 rtmp://watch.ilive.to:1935/edge/xc3oc6vmhadny4u pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,HBO Comedy movie
+#EXTINF:-1,HBO Comedy movie
 rtmp://watch.ilive.to:1935/edge/a1wn1j3ra1w0cv0 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,HBO live stream online
+#EXTINF:-1,HBO live stream online
 rtmp://watch.ilive.to:1935/edge/z28ie9oqoku4qoy pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,HBO
+#EXTINF:-1,HBO
 rtmp://watch.ilive.to:1935/edge/pgwflm2rm1e27i6 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,HBO
+#EXTINF:-1,HBO
 rtmp://watch.ilive.to:1935/edge/f22ybdvsnbn9ofg pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,History Channel
+#EXTINF:-1,History Channel
 rtmp://watch.ilive.to:1935/edge/lh0zballwqytwki pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,History
+#EXTINF:-1,History
 rtmp://watch.ilive.to:1935/edge/dhp0rpd116qyyj6 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Hollywood
+#EXTINF:-1,Hollywood
 rtmp://watch.ilive.to:1935/edge/ak7qf6qh54qg8z8 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Hollywood
+#EXTINF:-1,Hollywood
 rtmp://watch.ilive.to:1935/edge/jr6a9z19y27abhu pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,House MD
+#EXTINF:-1,House MD
 rtmp://watch.ilive.to:1935/edge/vampcgkmpaun6at pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,ID Investigation Discovery
+#EXTINF:-1,ID Investigation Discovery
 rtmp://watch.ilive.to:1935/edge/4bewj4n2rb7pb08 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Jackie Chan movies
+#EXTINF:-1,Jackie Chan movies
 rtmp://watch.ilive.to:1935/edge/gby01m6h4xd3lag pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Jackie Chan
+#EXTINF:-1,Jackie Chan
 rtmp://watch.ilive.to:1935/edge/aq6ijlszct7wfl4 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Japanese Super Stars music
+#EXTINF:-1,Japanese Super Stars music
 rtmp://watch.ilive.to:1935/edge/bzh4mr1zt40hmw4 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Kim Binh Mai
+#EXTINF:-1,Kim Binh Mai
 rtmp://watch.ilive.to:1935/edge/6jxqdje7ancmghe pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,King of Queens
+#EXTINF:-1,King of Queens
 rtmp://watch.ilive.to:1935/edge/yytqkp7711cd1ze pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,MAX HD
+#EXTINF:-1,MAX HD
 rtmp://watch.ilive.to:1935/edge/6st48zwie8fnzf9 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,MAX Prime
+#EXTINF:-1,MAX Prime
 rtmp://watch.ilive.to:1935/edge/61nqzf0q0sua42b pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,MGM
+#EXTINF:-1,MGM
 rtmp://watch.ilive.to:1935/edge/b0fehgu27mjkcxu pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Military Channel
+#EXTINF:-1,Military Channel
 rtmp://watch.ilive.to:1935/edge/q2hs5fqm8b039y0 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Modern Family
+#EXTINF:-1,Modern Family
 rtmp://watch.ilive.to:1935/edge/gmw1u7iuy0eetn5 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,MOV
+#EXTINF:-1,MOV
 rtmp://watch.ilive.to:1935/edge/4bm81vt7wg2h7vz pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,movieline
+#EXTINF:-1,movieline
 rtmp://watch.ilive.to:1935/edge/z1wzqw2398rflbc pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,MSNBC
+#EXTINF:-1,MSNBC
 rtmp://watch.ilive.to:1935/edge/1341ujtliqndod8 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,MTV
+#EXTINF:-1,MTV
 rtmp://watch.ilive.to:1935/edge/qyfbrc3ubs5i10t pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Myth Buster - The answer to all myth questions
+#EXTINF:-1,Myth Buster - The answer to all myth questions
 rtmp://watch.ilive.to:1935/edge/tjf0ls8zs5lngts pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Naruto
+#EXTINF:-1,Naruto
 rtmp://watch.ilive.to:1935/edge/9ft15bx7kc229en pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,NAT Geo
+#EXTINF:-1,NAT Geo
 rtmp://watch.ilive.to:1935/edge/axybwot6nkk8d7x pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,National Geographic
+#EXTINF:-1,National Geographic
 rtmp://watch.ilive.to:1935/edge/l0udow3gzj9inss pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,NBA TV
+#EXTINF:-1,NBA TV
 rtmp://watch.ilive.to:1935/edge/cjcga5vdvbyoowr pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,NBC (HD)
+#EXTINF:-1,NBC (HD)
 rtmp://watch.ilive.to:1935/edge/ pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,NBC Sport Network
+#EXTINF:-1,NBC Sport Network
 rtmp://watch.ilive.to:1935/edge/30sbtmyelnevr80 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,NBC Sport
+#EXTINF:-1,NBC Sport
 rtmp://watch.ilive.to:1935/edge/0hx1quabs9muhwl pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,NBC
+#EXTINF:-1,NBC
 rtmp://watch.ilive.to:1935/edge/mgxo8vqnm6oo8ig pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,NCIS all seasons
+#EXTINF:-1,NCIS all seasons
 rtmp://watch.ilive.to:1935/edge/866l7jy73xntgpa pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,NFL Around the League Live
+#EXTINF:-1,NFL Around the League Live
 rtmp://watch.ilive.to:1935/edge/n1lamk97wjar77f pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,NFL Network
+#EXTINF:-1,NFL Network
 rtmp://watch.ilive.to:1935/edge/kv7oalsc13q2i1y pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Nickelodeon (SD)
+#EXTINF:-1,Nickelodeon (SD)
 rtmp://watch.ilive.to:1935/edge/hxoq929n5q4a9u3 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Nickelodeon Jr
+#EXTINF:-1,Nickelodeon Jr
 rtmp://watch.ilive.to:1935/edge/39v8xw4jgm0aa5n pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Nickelodeon
+#EXTINF:-1,Nickelodeon
 rtmp://watch.ilive.to:1935/edge/zovmobqgjlmtqbp pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Panda Biggs
+#EXTINF:-1,Panda Biggs
 rtmp://watch.ilive.to:1935/edge/pikaxpr6eg2w1jw pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,PBS (HD)
+#EXTINF:-1,PBS (HD)
 rtmp://watch.ilive.to:1935/edge/ pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,PBS
+#EXTINF:-1,PBS
 rtmp://watch.ilive.to:1935/edge/aam1zoddl477ym5 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Real Madrid TV
+#EXTINF:-1,Real Madrid TV
 rtmp://watch.ilive.to:1935/edge/v70gtfkuakbsmbm pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Seinfeld 
+#EXTINF:-1,Seinfeld 
 rtmp://watch.ilive.to:1935/edge/9ddd1ni2617b9ps pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Showtime Movie channel
+#EXTINF:-1,Showtime Movie channel
 rtmp://watch.ilive.to:1935/edge/bwbop58ixz281wv pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SIC
+#EXTINF:-1,SIC
 rtmp://watch.ilive.to:1935/edge/mi062t1v14nep5f pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Sky Bundesliga 1 (SD)
+#EXTINF:-1,Sky Bundesliga 1 (SD)
 rtmp://watch.ilive.to:1935/edge/1xede5vb1x2fh45 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Sky Calcio (SD)
+#EXTINF:-1,Sky Calcio (SD)
 rtmp://watch.ilive.to:1935/edge/7f4uk9psy3gtok7 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Sky News
+#EXTINF:-1,Sky News
 rtmp://watch.ilive.to:1935/edge/yhwp88mxgt0m38g pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SKY Sports 4
+#EXTINF:-1,SKY Sports 4
 rtmp://watch.ilive.to:1935/edge/ic8hl4tblgt4sum pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SKY Sports F1
+#EXTINF:-1,SKY Sports F1
 rtmp://watch.ilive.to:1935/edge/5m9gipfi8jn1861 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SKY Sports News
+#EXTINF:-1,SKY Sports News
 rtmp://watch.ilive.to:1935/edge/f0avfi2adtk0xv0 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SkySports 2
+#EXTINF:-1,SkySports 2
 rtmp://watch.ilive.to:1935/edge/jt5wue8zuww0uvq pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SkySports 3
+#EXTINF:-1,SkySports 3
 rtmp://watch.ilive.to:1935/edge/3ua0zd9vx48wle3 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SkySports F1 (HD)
+#EXTINF:-1,SkySports F1 (HD)
 rtmp://watch.ilive.to:1935/edge/tc4kwcn5dqfvncd pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Sony Spin
+#EXTINF:-1,Sony Spin
 rtmp://watch.ilive.to:1935/edge/ec8u5a2zb3pajzu pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,South Park
+#EXTINF:-1,South Park
 rtmp://watch.ilive.to:1935/edge/7vsmhhfbgyv1aih pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Spike TV
+#EXTINF:-1,Spike TV
 rtmp://watch.ilive.to:1935/edge/sax2mq2alpirnww pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Sport TV 2 Channel
+#EXTINF:-1,Sport TV 2 Channel
 rtmp://watch.ilive.to:1935/edge/w1t95di9su93lah pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SPORTSNATIONHD.COM ,LEINSTER VS OSPREYS
+#EXTINF:-1,SPORTSNATIONHD.COM ,LEINSTER VS OSPREYS
 rtmp://watch.ilive.to:1935/edge/qif5rpiawd19b1x pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SportTV Live
+#EXTINF:-1,SportTV Live
 rtmp://watch.ilive.to:1935/edge/7gr130ls1k1n1m4 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SportTV1
+#EXTINF:-1,SportTV1
 rtmp://watch.ilive.to:1935/edge/47kk88byuh31j41 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SportTV2
+#EXTINF:-1,SportTV2
 rtmp://watch.ilive.to:1935/edge/qyhtqtzuwr1ibx4 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SportTV3
+#EXTINF:-1,SportTV3
 rtmp://watch.ilive.to:1935/edge/0eo45dzeg7f2glf pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,StarZ movie channel
+#EXTINF:-1,StarZ movie channel
 rtmp://watch.ilive.to:1935/edge/8g7x80ozu6hz2ds pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Stephen Chow funny movies
+#EXTINF:-1,Stephen Chow funny movies
 rtmp://watch.ilive.to:1935/edge/oh462rvesmhwdps pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,SyFy
+#EXTINF:-1,SyFy
 rtmp://watch.ilive.to:1935/edge/ohabkpgn3e25r3v pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Syfy
+#EXTINF:-1,Syfy
 rtmp://watch.ilive.to:1935/edge/uc7be9ku8rmpfr4 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TBS
+#EXTINF:-1,TBS
 rtmp://watch.ilive.to:1935/edge/jh8nj062bqbsxdh pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TC Action (Films)
+#EXTINF:-1,TC Action (Films)
 rtmp://watch.ilive.to:1935/edge/u7c81q0jwsuu6f4 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TC Cult
+#EXTINF:-1,TC Cult
 rtmp://watch.ilive.to:1935/edge/oobw9bnnk83udyr pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TC Pipoca (Films)
+#EXTINF:-1,TC Pipoca (Films)
 rtmp://watch.ilive.to:1935/edge/auipvjekn7f1tjo pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TC Premium (Films)
+#EXTINF:-1,TC Premium (Films)
 rtmp://watch.ilive.to:1935/edge/wn5xssyos5x0yj7 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TC Touch (Films)
+#EXTINF:-1,TC Touch (Films)
 rtmp://watch.ilive.to:1935/edge/c7e9yzoldh2oam8 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TCM Latinoamأ©rica
+#EXTINF:-1,TCM Latinoamأ©rica
 rtmp://watch.ilive.to:1935/edge/2v567k76ty7qu72 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,That's 70 show
+#EXTINF:-1,That's 70 show
 rtmp://watch.ilive.to:1935/edge/t7ha4ghb4ilwaoo pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,The Office
+#EXTINF:-1,The Office
 rtmp://watch.ilive.to:1935/edge/vt7iqkwmm4hq8h0 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,The Simpsons
+#EXTINF:-1,The Simpsons
 rtmp://watch.ilive.to:1935/edge/1e0f807vett5tub pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TLC
+#EXTINF:-1,TLC
 rtmp://watch.ilive.to:1935/edge/x99v7adz8i3ikkm pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TNT HD
+#EXTINF:-1,TNT HD
 rtmp://watch.ilive.to:1935/edge/lhz1koxd78ok7it pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TNT
+#EXTINF:-1,TNT
 rtmp://watch.ilive.to:1935/edge/61z738swi6on3qw pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Travel Channel
+#EXTINF:-1,Travel Channel
 rtmp://watch.ilive.to:1935/edge/oeiigxxv1gbeqq9 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,True Blood
+#EXTINF:-1,True Blood
 rtmp://watch.ilive.to:1935/edge/30g7j2j4eqinzux pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TV Land
+#EXTINF:-1,TV Land
 rtmp://watch.ilive.to:1935/edge/7yxirr4046nk5ca pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TVI Ficأ§أ£o
+#EXTINF:-1,TVI Ficأ§أ£o
 rtmp://watch.ilive.to:1935/edge/jw0ygi8ojhsw1t3 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TVI
+#EXTINF:-1,TVI
 rtmp://watch.ilive.to:1935/edge/sir7itur4q5cs5g pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TVI
+#EXTINF:-1,TVI
 rtmp://watch.ilive.to:1935/edge/i1ym4g6zbnyrnjk pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,TVI24
+#EXTINF:-1,TVI24
 rtmp://watch.ilive.to:1935/edge/tj410nd009vynnc pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Universal Channel (Films)
+#EXTINF:-1,Universal Channel (Films)
 rtmp://watch.ilive.to:1935/edge/u4yqa53fa15ct18 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,USA Network
+#EXTINF:-1,USA Network
 rtmp://watch.ilive.to:1935/edge/h5eovaj1jeegluq pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Warner
+#EXTINF:-1,Warner
 rtmp://watch.ilive.to:1935/edge/706kvfv6be3juwq pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
-#EXTINF:0,Cairo Cinema
+#EXTINF:-1,Cairo Cinema
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=CairoCinema_Med&port=2077&mode=3&user=&session=06e1130b0ef3ce2942d4c149581ee44a77121263a9ec0bad740a67223c1df50ca299017ce29bf1aa
-#EXTINF:0,Alhayat Cinema
+#EXTINF:-1,Alhayat Cinema
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlHayatCinema_Med&port=2077&mode=3&user=&session=20cbd46b74fa440c86968e7b8f5e043d288ad7cd33f0b33890de4f3f5f9886c9a299017ce29bf1aa
-#EXTINF:0,Dream 1
+#EXTINF:-1,Dream 1
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=Dream1_Med&port=2077&mode=3&user=&session=20cbd46b74fa440c86968e7b8f5e043d288ad7cd33f0b33890de4f3f5f9886c9a299017ce29bf1aa
-#EXTINF:0,Dream 2
+#EXTINF:-1,Dream 2
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=Dream2_High&port=2077&mode=3&user=&session=22e70a0d97dd22a6c52369ff26441c7d79a9bb0c3eb1c792a4b5689ccc404296a299017ce29bf1aa
-#EXTINF:0,AlMasriyah
+#EXTINF:-1,AlMasriyah
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlMasriyah_Med&port=2077&mode=3&user=&session=20cbd46b74fa440c86968e7b8f5e043d288ad7cd33f0b33890de4f3f5f9886c9a299017ce29bf1aa
-#EXTINF:0,ALAHLY
+#EXTINF:-1,ALAHLY
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=e51edd19807f140e8f2fc089390ad237ec66e5d40add5c1d9ffd5f04b1af3f97a299017ce29bf1aa
-#EXTINF:0,EL Mehwar
+#EXTINF:-1,EL Mehwar
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=ElMehwar_Med&port=2077&mode=3&user=&session=20cbd46b74fa440c86968e7b8f5e043d288ad7cd33f0b33890de4f3f5f9886c9a299017ce29bf1aa
-#EXTINF:0,ON TV
+#EXTINF:-1,ON TV
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=2077&mode=3&user=&session=efc4ab49ba1c57336d7448b8b394eb77934fb0913ebde2f74671dae1a101e526a299017ce29bf1aa
-#EXTINF:0,Nile Sports
+#EXTINF:-1,Nile Sports
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=NileSport_Med&port=2077&mode=3&user=&session=20cbd46b74fa440c86968e7b8f5e043d288ad7cd33f0b33890de4f3f5f9886c9a299017ce29bf1aa
-#EXTINF:0,Nile Cinema
+#EXTINF:-1,Nile Cinema
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=NileCinema_Med&port=2077&mode=3&user=&session=20cbd46b74fa440c86968e7b8f5e043d288ad7cd33f0b33890de4f3f5f9886c9a299017ce29bf1aa
-#EXTINF:0,Aghapy
+#EXTINF:-1,Aghapy
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=Aghapy_Med&port=2077&mode=3&user=&session=20cbd46b74fa440c86968e7b8f5e043d288ad7cd33f0b33890de4f3f5f9886c9a299017ce29bf1aa
-#EXTINF:0,AlThaniya
+#EXTINF:-1,AlThaniya
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlThanya_Med&port=2077&mode=3&user=&session=783209ff5e254c5717598946e1dc0f9fac8fe84544cf6b3952a2ff98f240c610a299017ce29bf1aa
-#EXTINF:0,Nile Drama
+#EXTINF:-1,Nile Drama
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=NileDrama_Med&port=2077&mode=3&user=&session=20cbd46b74fa440c86968e7b8f5e043d288ad7cd33f0b33890de4f3f5f9886c9a299017ce29bf1aa
-#EXTINF:0,Nile Drama 2
+#EXTINF:-1,Nile Drama 2
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=NileDrama2_High&port=2077&mode=3&user=&session=1a741d3c2d49f5be332287e8de3ad8bdb0535a9b88b06436e06a29518953ff33a299017ce29bf1aa
-#EXTINF:0,AlTahrir Tv
+#EXTINF:-1,AlTahrir Tv
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=Tahrir_Med&port=2077&mode=3&user=&session=c0d659a0fd0ca755af179366463175400f8e1b66482f7b64d57ffb83d7be3942a299017ce29bf1aa
-#EXTINF:0,Nile TV
+#EXTINF:-1,Nile TV
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=NileInt_Med&port=2077&mode=3&user=&session=fc7075ecd6cb4156fd7dad46417e3b4c7615a8360fb76cb17a6c7e06a0757e24a299017ce29bf1aa
-#EXTINF:0,CTV
+#EXTINF:-1,CTV
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=CTVEgypt_Med&port=2077&mode=3&user=&session=74a28370a2a61f9ed3a59bc0b6ad67a67af6206ccbf5265e0e2d55a6c6f81013a299017ce29bf1aa
-#EXTINF:0,Nile Comedy
+#EXTINF:-1,Nile Comedy
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=NileComedy_Med&port=2077&mode=3&user=&session=ecb17ae2cfbb693d8a9271431be36e2eb51185fcf3fe42a51719c715ddc9c758a299017ce29bf1aa
-#EXTINF:0,Nile News
+#EXTINF:-1,Nile News
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=NileNews_High&port=2077&mode=3&user=&session=ccc5cb6758f2cc3f26efc3ee8b65f771c8bcff21d26b847ba22e4e5421d61ccda299017ce29bf1aa
-#EXTINF:0,BBC Arabic
+#EXTINF:-1,BBC Arabic
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=BBCArabic_Med&port=2077&mode=3&user=&session=dacf074cc66a9545b0ebcb21eb719b2dc7c4a057067f7bc510d53986a7233f0da299017ce29bf1aa
-#EXTINF:0,Miracle TV
+#EXTINF:-1,Miracle TV
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=Miracle_Med&port=2077&mode=3&user=&session=e7785bc30c072851eb19c409aae17ecdf565e3e3be2818d2d44e9e7434b235f8a299017ce29bf1aa
-#EXTINF:0,Almalakot
+#EXTINF:-1,Almalakot
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlMalakot_Med&port=2077&mode=3&user=&session=6fe73e8da1c1ed6ca91282457a4dc9851b571eb34c420ce24b38f910c9626bb9a299017ce29bf1aa
-#EXTINF:0,Al Karma
+#EXTINF:-1,Al Karma
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlKarma_Med&port=2077&mode=3&user=&session=32350d86f4a5457e0a373c48d7780118fbf6cb5ccdfbb1b1e32922061678bc13a299017ce29bf1aa
-#EXTINF:0,LLBN
+#EXTINF:-1,LLBN
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=LLBN_Med&port=2077&mode=3&user=&session=d3ec525eafc4d1b20252b0be7ac4e58b463a97125f4cdddeb61ad3977cccf309a299017ce29bf1aa
-#EXTINF:0,MTV Lebanon
+#EXTINF:-1,MTV Lebanon
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=MTVLebanon_Med&port=2077&mode=3&user=&session=44aea288137aae476dfa039fe2b9a78b716a0d4021fbc1fd19f800cf06741fa1a299017ce29bf1aa
-#EXTINF:0,AMC
+#EXTINF:-1,AMC
 rtmp://95.211.148.4/wl/channel playpath=8917652AM swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=8917652AM&vw=550&vh=350&
-#EXTINF:0,Food Network
+#EXTINF:-1,Food Network
 rtmp://cp106256.live.edgefcs.net:443/live/ playpath=iwantvfoodnetwork-600@130501 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/food_asia.html
-#EXTINF:0,HBO
+#EXTINF:-1,HBO
 mms://69.197.154.238/hbohd.urwhdfyrfg
-#EXTINF:0,AXN
+#EXTINF:-1,AXN
 mms://69.197.154.238/axn
-#EXTINF:0,AXN 2
+#EXTINF:-1,AXN 2
 mms://69.197.154.238/axn2.333
-#EXTINF:0,Cinemax
+#EXTINF:-1,Cinemax
 mms://69.197.154.238/max.cdwxeyfgecvydr
-#EXTINF:0,tbs
+#EXTINF:-1,tbs
 rtmp://93.120.27.78:1935/live/ playpath=tbs5.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/tbs.html
-#EXTINF:0,JACK
+#EXTINF:-1,JACK
 rtmp://cp106256.live.edgefcs.net:443/live/ playpath=iwantjacktv-600@71270 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/jack.html
-#EXTINF:0,Nick
+#EXTINF:-1,Nick
 rtmp://cp106256.live.edgefcs.net:443/live/ playpath=iwantvnick-256@62238 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/nick.html
-#EXTINF:0,Cartoon Network
+#EXTINF:-1,Cartoon Network
 rtmp://cp106256.live.edgefcs.net:443/live/ playpath=iwantvcartoonnetwork-600@40841 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/cartoon1.html
-#EXTINF:0,Hollywood
+#EXTINF:-1,Hollywood
 mms://69.197.154.238/hlw.ueiveyfgecvyh
-#EXTINF:0,TNT
+#EXTINF:-1,TNT
 rtmp://93.120.27.78:1935/live/ playpath=tntusa5.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/tnt.html
-#EXTINF:0,bio
+#EXTINF:-1,bio
 mms://69.197.154.238/bio.8976987
-#EXTINF:0,Discovery
+#EXTINF:-1,Discovery
 mms://69.197.154.238/dshdw.hdcpasufgghsh
-#EXTINF:0,National Geographic
+#EXTINF:-1,National Geographic
 mms://69.197.154.238/ngchd.guf
-#EXTINF:0,Nat Wild
+#EXTINF:-1,Nat Wild
 mms://69.197.154.238/ngwhd.aowmdnsydhr
-#EXTINF:0,History
+#EXTINF:-1,History
 mms://69.197.154.238/h
-#EXTINF:0,TCM
+#EXTINF:-1,TCM
 mms://69.197.154.238/tcm
-#EXTINF:0,FX
+#EXTINF:-1,FX
 rtmp://93.120.27.78:1935/live playpath=fxusa5.stream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf?src=rtmp://93.120.27.78:1935/live/fxusa5.stream&streamType=live&autoPlay=true/[[DYNAMIC]]/1 pageUrl=http://www.mytvonline.org/english/FX.html
+#EXTINF:-1,NTV + Football
+http://194.143.146.17:5030/udp/239.0.0.93:4000
+#EXTINF:-1,NTV + Tennis
+http://194.143.146.17:5026/udp/239.0.0.94:4000
+#EXTINF:-1,NTV + Basketball
+http://194.143.146.17:5026/udp/239.0.0.95:4000
+#EXTINF:-1,NTV + Football 2
+http://194.143.146.17:5026/udp/239.0.0.96:4000
+#EXTINF:-1,NTV + Nash Football
+http://194.143.146.17:5026/udp/239.0.0.97:4000
+#EXTINF:-1,NTV + Sport HIT
+http://194.143.146.17:5026/udp/239.0.0.98:4000
+#EXTINF:-1,NTV + Sport Plus
+http://194.143.146.17:5026/udp/239.0.0.99:4000
+#EXTINF:-1,BT Sport 1
+http://auth.torrent-tv.ru/a/6844/ZFFNZk1sZTQxbEkyYm9LMUJrRVVOY1k5UkQzL21xcDlPR1hoWjJ5MjM2ak5Od1BpS3l3bnh2LzU1VTgxNm4yQQ
+#EXTINF:-1,BT Sport 2
+http://auth.torrent-tv.ru/a/6845/ZVFQdlZGZTQxbEtMQVhjNmVDRFNnczBCQnNmSEI4dDBlSmYvRUIxT2RlMTlJTDg3ZldTNmF0VVdWbUhrTzcrQw
+#EXTINF:-1,Eurosport
+http://auth.torrent-tv.ru/h/5/1/2/ZXdQVGFGZTQxbEs1SVg3ay9DSnFrTXZydXNjN2FRaVR4RStHallFTll6UnhaN3hDTGNCakJrNTFDdytUZWptNg/2
+#EXTINF:-1,Eurosport 2
+http://auth.torrent-tv.ru/h/6/1/2/ZndNbjJWZTQxbElCNndTSTltdGlMUTRvYjlHS0I1Z2RCMlNyaDU3MU85RXRlNVpITVh5T2dQN1dBTWlxWU95Rg/2
+#EXTINF:-1,Eurosport 2 HD
+http://auth.torrent-tv.ru/h/626/1/2/aHdPbndsZTQxbEpONCtTeU5pOGF5OFBpSGdKeitsTTJ2ZVcwdmRST1NVcDZsRSt2bGkwbnMwZDh4L0wvQ2ZBTQ/2
+#EXTINF:-1,Extreme Sports
+http://auth.torrent-tv.ru/h/8/1/2/amdPTTVWZTQxbEpyQk9oOFFuNGRsbkNuUHFTa294dXZoMytEK3RQVDBvWm1hV3QzdTlnR2RHUUprSUJwSjY5cA/2
+#EXTINF:-1,HD Sport
+http://auth.torrent-tv.ru/h/112/1/2/a2dPWkRWZTQxbElvUkFQOXp4RENiNWNFM1B0WC9WLzViRDM1bEMwOENPQnBtOEpnZlRYbzRTWEtzT0MwWkVMYg/2
+#EXTINF:-1,Motors TV
+http://auth.torrent-tv.ru/a/1483/bUFNS1lWZTQxbExkQWNJZmM0OXE1TW9WZTNiRmQ0b1FZV3lXa3JSNVBpVTlxdGc0MjB6S0VvU1dDSDZoZTJXbA
+#EXTINF:-1,Premier Sports
+http://auth.torrent-tv.ru/a/6972/bXdQYjVGZTQxbEpxUkVGOUtSQ3BwblJxaVdZU2paZTN6Z01hK1IveEsvcU02Q2JLTlErS1gzOUh0ZGpibXgxYw
+#EXTINF:-1,Sky Sports 1
+http://auth.torrent-tv.ru/a/3677/b3dOb3hGZTQxbEx1NXFOVlc2Z2NGcVFZVjZwSkZ0ajI3MHNtb01mUkJmU2syaWtQNEpIYXE1VUZPSnA3OUNoZQ
+#EXTINF:-1,Sky Sports 2
+http://auth.torrent-tv.ru/a/7068/cGdObUlGZTQxbEpvK3VvWTkxS3NmUHJmZFFBTmNQVGxqVEhoeUNFaTR0S0NvR0ZzODNXN0t2M1diUHVGVUlObQ
+#EXTINF:-1,Sky Sports 3
+http://auth.torrent-tv.ru/a/6909/cWdNd2lGZTQxbEtOSjNYbThMSkJaYnVXRmNSL2Z6UTFkbEZ2M0RKR1NYcWNvMFJ0aDZXRUlqQm1UWXVGMzE1MA
+#EXTINF:-1,Viasat Sport
+http://auth.torrent-tv.ru/h/120/1/2/c3dPc2pGZTQxbElUOGRhemJrN2hmZktpd3FiL3N1VmRPdFhpTVdwaURuOUExcWxTNFlpT2NFRGFpM3NYQ1hhRQ/2
+#EXTINF:-1,Viasat Sport (Sweden)
+http://auth.torrent-tv.ru/a/6973/dUFQVFpWZTQxbEsxRHBmRUdOdmtab0VLbEpCQTIwU1ByZU4xTlVjaThsR3hwT2xzZFZxZlQ1TXRiR0hVRE9USw
+#EXTINF:-1,Viasat TV3 Sport 2
+http://auth.torrent-tv.ru/a/6918/d3dPU2dWZTQxbExKMDViM3BjcTllektBQUt2YjNyZzU5RlNlYlFYTlJFeEJYQ1U2UVlHUjZDTHFWUm5KSk9JTQ
+#EXTINF:-1,XSPORT
+http://auth.torrent-tv.ru/h/509/1/2/eGdPdUVWZTQxbEliWGtIN1dmVTJjazVyNUxadVowNWtXZmd4SXhvbmlxWUFETEVERjMxSHhxT3Q1MFJhaVZkRQ/2
+#EXTINF:-1,КХЛ HD
+http://auth.torrent-tv.ru/h/538/1/2/eWdPK2NGZTQxbElURUVnM2lEdEJFSm1rTTZjUklrRXpreGNVQi9iOVpsaVlycm1JOXVCOWsyUEx0MzlKNmZnSw/2
+#EXTINF:-1,КХЛ ТВ
+http://auth.torrent-tv.ru/h/216/1/2/emdNL2ZGZTQxbElyZnVMeGhDYXdFOUEzZTVzcE1WNXBQZFo2SDdvVUJQVzNoWjUvZjM4d0dtVVRLa25wQ3BKVA/2
+#EXTINF:-1,НТВ+ Basketball
+http://auth.torrent-tv.ru/h/384/1/2/MGdOU2dGZTQxbEpJampSR0F1eXRyUFJTKytudkEvTTdKYXNXOXZTUFF0VHpyQWVlWkE2Tk9zOFFzUkhwNHlVTw/2
+#EXTINF:-1,НТВ+ our football
+http://auth.torrent-tv.ru/h/85/1/2/MWdNRWVGZTQxbExGaGlHUWh5TGlyZ3ZQb3Rxb0VWYVRFalFwNXMvR0VLUHNpTkR5L0V0WC9uMFp6K2dOK1VMSQ/2
+#EXTINF:-1,НТВ+ our football HD
+http://auth.torrent-tv.ru/h/644/1/2/MmdQYTIxZTQxbExlS3I4aWc4QzYvRXVtTzdmbjU0SWJxQXdUTW9OeTRRWncycTFDZ0srakJrZUhuNkx0Z09Sdw/2
+#EXTINF:-1,НТВ+ Sport
+http://auth.torrent-tv.ru/h/38/1/2/M2dNMlcxZTQxbEtyVXkxMnVkTVA1UkwwbTl2bllHTEJmL1d1M2pwOXlESDBGNWtva1piSThDWVJ4Uldyd000QQ/2
+#EXTINF:-1,НТВ+ Sport online
+http://auth.torrent-tv.ru/h/40/1/2/NGdPNy9sZTQxbEpGUUlDQ1dCUFlRNEcyZ3hIQUpielRTa3oxd3l2eXVBb0Y3UVFreVZkdzNTNjYzbTRXQ1BVVg/2
+#EXTINF:-1,НТВ+ Sport plus
+http://auth.torrent-tv.ru/h/222/1/2/NWdQQ3FsZTQxbElQakI5UVZQMnpMTzVWd1dLWFpGcGhnV0cvMTFqMEs2TldGakpMcmpwOElvMm14RzhUNk91UQ/2
+#EXTINF:-1,НТВ+ Sport union
+http://auth.torrent-tv.ru/h/385/1/2/QVFCV1pGaTQxbEtHUmZZWmxlVlpCOCtNL2V2d1hCOXMyMHd5OWsrcUUyK2h3Q0F5SEVleXBqOGsyYmpaOWNHUg/2
+#EXTINF:-1,НТВ+ Tennis
+http://auth.torrent-tv.ru/h/84/1/2/Q1FBMmlGaTQxbElBeTE3SnNKUndzeEhuY1lrRlJrZ0RoQm15ZjkwbW01cnBiRlQ5Nlo4bitXY0UwRE1ZRWtNYw/2
+#EXTINF:-1,НТВ+ Football
+http://auth.torrent-tv.ru/h/39/1/2/RFFEVlZsaTQxbEoyRTJCR291Y016amR5NUZhVzdvc3hmUGhqVC9Qb2R3cEZKYVFMZVFsUEI3bThNbDJlbnhEQQ/2
+#EXTINF:-1,НТВ+ Football 2
+http://auth.torrent-tv.ru/h/552/1/2/RVFBU0lWaTQxbEtNWHQxRVJUbFhsazZhWEhJYW03TWcxbzZJZjJTVm1KdVBQeElZWTV4RWExODdQNVg1QmdrRg/2
+#EXTINF:-1,НТВ+ Football 2 HD
+http://auth.torrent-tv.ru/h/611/1/2/RlFEM3pGaTQxbEppeEFtMTl2dGtKT2ZGT296Mkt2Q3hWTnBFNWNZb3IrU0ptR2k0cEFsZjRPMmNmQmx2emcrVg/2
+#EXTINF:-1,Russia 2
+http://auth.torrent-tv.ru/h/4/1/2/R1FEOFMxaTQxbEs4OWNwcnQ1ZUtuNnRSaWhXWi9lMEpEcjZzOHNMaDc2UHpBR0pMekNWcCs1RUZvZVZQK1huVQ/2
+#EXTINF:-1,Sport
+http://auth.torrent-tv.ru/h/473/1/2/SFFDZzQxaTQxbEtnMkZvNlhGV1MzTFpCeVcrTkJtdm1uT3lZdlkrcTNSb2E4R2pVQkNsakd3Rm5Ea3c1dk5wTA/2
+#EXTINF:-1,Sport 1
+http://auth.torrent-tv.ru/h/365/1/2/SVFEdC9WaTQxbExnM1VNc1NkK2NncVdrQ0gvcTVjL0pvK2E0dEJJSmxzc3JGNVhVRGVQRklHOFpqeWlOL0F1bQ/2
+#EXTINF:-1,Sport 1 (Ukraine)
+http://auth.torrent-tv.ru/h/550/1/2/SlFEbFQxaTQxbEx5bEluNWdiWWV1cURLK3RPNjcwOVA2S3oxS1BDckFycFd5ZVNXZGtqSHVVc0c1dC9xMUFPMA/2
+#EXTINF:-1,Sport 1 HD
+http://auth.torrent-tv.ru/h/526/1/2/S1FCbmRGaTQxbEoxeklwVjY1VFBpdy8rTHZPNGhEcHlHaXZHa3BIeVMveDIzVHNsa3RXQXNYeG5CU3NSRVhpOQ/2
+#EXTINF:-1,Sport 2 (Ukraine)
+http://auth.torrent-tv.ru/h/551/1/2/TEFBTkZWaTQxbElxZDlJeEkzdHJVN3I1RmZFV1VKUDl2VGgyMHdvazVRMHFVcGZXVzVwY2FsSXlDQ2lRVzFBWQ/2
+#EXTINF:-1,Football
+http://auth.torrent-tv.ru/h/472/1/2/TUFBK3BsaTQxbEp4UDNBajBvWjNlSXU2QWdTRThhL1hQWExKNkVXNHVRZmVIQjRCRWsvK0ZML1Zwc3NVTHdDbQ/2
+#EXTINF:-1,Football (Ukraine)
+http://auth.torrent-tv.ru/h/533/1/2/TkFEVWNsaTQxbEtRR3ZGZnN1dmVpa0NncjZtQ1p6U0F5d05rT0ZXSzBReFZEbzZodUVpNkgrOG1obDJSaldaVQ/2
+#EXTINF:-1,Football+ (Ukraine)
+http://auth.torrent-tv.ru/h/532/1/2/T0FEZG5GaTQxbElhUDlmemZiMmlqQ2dHcG83Rzh2YWhpdlhRQmJ1TENwMVJEMS9ZVWVaRUhZcGdaL2NvRVRUVw/2 
