@@ -1357,3 +1357,13 @@ http://auth.torrent-tv.ru/h/472/1/2/TUFBK3BsaTQxbEp4UDNBajBvWjNlSXU2QWdTRThhL1hQ
 http://auth.torrent-tv.ru/h/533/1/2/TkFEVWNsaTQxbEtRR3ZGZnN1dmVpa0NncjZtQ1p6U0F5d05rT0ZXSzBReFZEbzZodUVpNkgrOG1obDJSaldaVQ/2
 #EXTINF:-1,Football+ (Ukraine)
 http://auth.torrent-tv.ru/h/532/1/2/T0FEZG5GaTQxbElhUDlmemZiMmlqQ2dHcG83Rzh2YWhpdlhRQmJ1TENwMVJEMS9ZVWVaRUhZcGdaL2NvRVRUVw/2 
+#EXTINF:-1,Sky Movies Action
+rtmp://31.220.0.104:1935/live playpath=movaction swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=movaction&vw=620&vh=490
+#EXTINF:-1,Sky Movies Greats
+rtmp://31.220.0.134:1935/live playpath=movgreats swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=movgreats&vw=620&vh=490
+#EXTINF:-1,Sky Movies Premiers
+rtmp://31.220.0.103:1935/live playpath=movprem swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=movprem&vw=620&vh=490
+#EXTINF:-1,Sky Movies SCI FI
+rtmp://31.220.0.103:1935/live playpath=movsciif swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=movsciif&vw=620&vh=490
+#EXTINF:-1,Sky Movies Crime
+rtmp://31.220.0.103:1935/live playpath=movthriller swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=movthriller&vw=620&vh=490
