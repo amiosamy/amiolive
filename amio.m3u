@@ -320,7 +320,7 @@ rtmp://cdn.flashstreaming.mobi/live playpath=goltv swfUrl=http://flashstreaming.
 #EXTINF:-1,Hope TV
 rtmp://cp101680.live.edgefcs.net:1935/live?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId= playpath=HopeChannelNorthAmerica_1@52768?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20130828.2041/federatedVideoUI/BrightcovePlayer.swf?uid=1378344271987 live=true timeout=15 pageUrl=http://hopetv.org/watch/
 #EXTINF:-1,Logos TV
-http://68.235.37.110/logoschannel.com/hls.m3u8
+http://68.235.37.110/logoschannel.com/hls/logostv2.m3u8
 #EXTINF:-1,LBC
 rtmp://tdsiptv.ddns.me/live playpath=ch125?code=cc995e48b7b7754 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-130-3-4-LBCEurope.html
 #EXTINF:-1,Kingdom TV
@@ -774,15 +774,15 @@ rtmp://77.81.98.136/fms playpath=star4 swfUrl=http://www.9flash.tv/player/player
 rtmp://31.220.0.82:1935/live playpath=tensports00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports00&vw=620&vh=490
 #EXTINF:-1,Ten Action
 rtmp://31.220.0.82:1935/live playpath=tenaction3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=998629153&live=tenaction3&vw=620&vh=490
-#‎EXTINF‬:0,ZEE TV
+#EXTINF:-1,ZEE TV
 rtmp://77.81.98.133/pub playpath=zeetvi swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=zeetvi&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
-#EXTINF:0,ZEE Cinema
+#EXTINF:-1,ZEE Cinema
 rtmp://77.81.98.136/pub playpath=stargold swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=stargold&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
-#‎EXTINF‬:0,SONY SETMAX
+#EXTINF:-1,SONY SETMAX
 rtmp://77.81.98.132/lub playpath=setmax swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=setmax&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
-#‎EXTINF‬:0,STAR PLUS
+#EXTINF:-1,STAR PLUS
 rtmp://77.81.98.132/dms playpath=starplushd swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
-#‎EXTINF‬:0,SkyNews
+#EXTINF:0,SkyNews
 http://212.250.159.10:7020/
 #EXTINF:0,BBC1
 http://212.250.159.10:7030/
@@ -1230,7 +1230,7 @@ http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlKarma_Med&port=2
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=LLBN_Med&port=2077&mode=3&user=&session=d3ec525eafc4d1b20252b0be7ac4e58b463a97125f4cdddeb61ad3977cccf309a299017ce29bf1aa
 #EXTINF:0,MTV Lebanon
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=MTVLebanon_Med&port=2077&mode=3&user=&session=44aea288137aae476dfa039fe2b9a78b716a0d4021fbc1fd19f800cf06741fa1a299017ce29bf1aa
-#‎EXTINF‬:0,amc
+#EXTINF:0,AMC
 rtmp://95.211.148.4/wl/channel playpath=8917652AM swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=8917652AM&vw=550&vh=350&
 #EXTINF:0,Food Network
 rtmp://cp106256.live.edgefcs.net:443/live/ playpath=iwantvfoodnetwork-600@130501 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/food_asia.html
