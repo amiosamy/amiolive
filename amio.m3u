@@ -199,26 +199,26 @@ rtmpe://46.246.124.30:1935/live playpath=BST13 swfUrl=http://www.udemy.com/stati
 rtmpe://46.246.124.30:1935/live playpath=BST14 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1moc pageUrl=http://www.hdcast.org/
 #EXTINF:-1,BEIN HD ARABIA:15
 rtmpe://46.246.124.30:1935/live playpath=BST15 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1moc pageUrl=http://www.hdcast.org/
-#EXTINF:-1,bein1 Pagu
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein1 
-#EXTINF:-1,bein2
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein2 
-#EXTINF:-1,bein3
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein3 
-#EXTINF:-1,bein4
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein4 
-#EXTINF:-1,bein5
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein5 
-#EXTINF:-1,bein6
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein6 
-#EXTINF:-1,bein7
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein7 
-#EXTINF:-1,bein8
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein8 
-#EXTINF:-1,bein11
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein11 
-#EXTINF:-1,bein12
-rtmp://77.81.98.130/fms swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv playpath=bein12
+#EXTINF:-1,Bein Spert HD 1 Pogu
+rtmp://77.81.98.130/fms playpath=bein1 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss15m9b7&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Spert HD 2 
+rtmp://77.81.98.130/fms playpath=bein2 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss20enjq&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Spert HD 3
+rtmp://77.81.98.130/fms playpath=bein3 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss3fxv4m&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Spert HD 4
+rtmp://77.81.98.130/fms playpath=bein4 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss4l26fx&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Spert HD 5
+rtmp://77.81.98.130/fms playpath=bein5 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss5j24j0&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Spert HD 6 
+rtmp://77.81.98.130/fms playpath=bein6 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss6ijri5&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Spert HD 7
+rtmp://77.81.98.130/fms playpath=bein7 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss737ls9&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Spert HD8
+rtmp://77.81.98.130/fms playpath=bein8 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss8w7zjf&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Spert HD 9
+rtmp://77.81.98.130/fms playpath=bein11 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss11oacda&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Spert HD 10 
+rtmp://77.81.98.130/fms playpath=bein12 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss12juasc&vw=600&vh=450&video=0&domain=hdembed.com
 #EXTINF:-1,beinHD1 Toni
 rtmpe://93.120.27.75/live playpath=toni1 swfUrl=http://ukcast.tv/player/player.swflive=1 pageUrl=http://www.ukcast.tv/
 #EXTINF:-1,beinHD2
@@ -893,3 +893,49 @@ rtmp://89.248.172.239:443/share/live2-bipmr swfUrl=http://adbuck.cc/player/playe
 rtmp://80.82.70.239:443/share/live3-qszlx swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
 #EXTINF: -1,SportTV Live
 rtmp://89.248.162.212:443/share/live4-w04by swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live4-w04by
+#EXTINF:-1,MTV
+rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf?red5Server=rtmp://83.218.202.202/live&stream=wt_mtv.stream live=1
+#EXTINF:-1,MTV Dance
+rtmp://94.242.221.176:1937/live/ playpath=stream80 swfUrl=http://www.portaltv.ro/jw6/jwplayer.flash.swf live=1
+#EXTINF:-1,MTV Hits
+rtmp://94.242.221.176:1937/live/ playpath=stream153 swfUrl=http://www.portaltv.ro/jw6/jwplayer.flash.swf live=1
+#EXTINF:-1,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+#EXTINF:-1,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+#EXTINF:-1,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+#EXTINF:-1,LIVE CLASSIC HD
+http://91.201.78.3:1935/live/classicshd/playlist.m3u8?wowzasessionid=350623067&publisher=4
+#EXTINF:-1,LIVE DANCE HD
+http://91.201.78.3:1935/live/dancehd/playlist.m3u8?publisher=2
+#EXTINF:-1,LIVE JAZZ HD
+http://91.201.78.3:1935/live/jazzhd/playlist.m3u8?publisher=6
+#EXTINF:-1,LIVE MIX HD
+http://91.201.78.3:1935/live/onehdhd/playlist.m3u8?publisher=5
+#EXTINF:-1,LIVE POP HD
+http://91.201.78.3:1935/live/pophd/playlist.m3u8?publisher=1
+#EXTINF:-1,LIVE ROCK HD
+http://91.201.78.3:1935/live/rockhd/playlist.m3u8?publisher=3
+#EXTINF:-1,Mooz dance MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozdance?file=mp4:moozdance?token=c4801bfc1a350b9d9e28677352aef4d6/mp4:moozdance
+#EXTINF:-1,Mooz HD MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozhd?file=mp4:moozhd?token=d1289563c702bb8e1f40e3f7da9456ca/mp4:moozhd
+#EXTINF:-1,Mooz Hits MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozhits?file=mp4:moozhits?token=4dea5640f78e193c2c8b32179db065fa/mp4:moozhits
+#EXTINF:-1,Mooz Ro MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozro?file=mp4:moozro?token=83eecd493f1f5a62094bd81067cba725/mp4:moozro
+#EXTINF:-1,Kiss TV MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:kiss?file=mp4:kiss?token=1db72f90a37ec4d985a486f1c2e0b365/mp4:kiss
+#EXTINF:-1,1 Music Channl
+http://77.36.61.45:8010/MusicChannel.m3u8
+#EXTINF:-1,1 Music Channl MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:musicchannel?file=mp4:musicchannel?token=635a1f98cbe31dd24e8b7407fac20956/mp4:musicchannel
+#EXTINF:-1,Europa TV
+http://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
+#EXTINF:-1,Hit Music MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:hitmusicch?file=mp4:hitmusicch?token=afdd09ee6f082345161cc453727bba89/mp4:hitmusicch
+#EXTINF:-1,ARENASPORT 1
+http://213.202.73.8:1337/
+#EXTINF:-1,CANAL 9 HD
+http://212.98.90.86:8066/m3u8/canal9.m3u8
