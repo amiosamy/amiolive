@@ -329,8 +329,8 @@ rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport3
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport4
 #EXTINF:-1,DOLCE SPORT HD
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesporthd
-#EXTINF:-1,EuroNews
-http://hd1.lsops.net/live/euronews_en_340/playlist.m3u8
+#EXTINF:-1,EuroNews AR
+rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive/ar_video750_rtp.sdp
 #EXTINF:-1,Eurosport 1 RUS
 http://46.61.226.18:1935/live/_definst_/smil:Eurosport_sd.smil/playlist.m3u8
 #EXTINF:-1,Eurosport 1 ENG
@@ -380,7 +380,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/12463854/streams/live/playlist.m
 #EXTINF:-1,GLC
 rtmp://fss28.streamhoster.com:1935/lv_glc/_definst_ playpath=broadcast1  swfUrl=http://d38vuqmp8qc67y.cloudfront.net/player/flash/smp/2.0/player-c1.swf  pageUrl=http://content.streamhoster.com/player/lv_glc/broadcast1?autoPlay=1&showPlayPauseBtn=0
 #EXTINF:-1,GOL TV
-rtmp://cdn.flashstreaming.mobi/live playpath=goltv swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1&kpublica=11483 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=goltv&w=650&h=400
+rtmp://173.193.205.105/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/goltvucaster/1/650/400 Conn=S:OK
 #EXTINF:-1,Hope TV
 rtmp://cp101680.live.edgefcs.net:1935/live?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId= playpath=HopeChannelNorthAmerica_1@52768?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20130828.2041/federatedVideoUI/BrightcovePlayer.swf?uid=1378344271987 live=true timeout=15 pageUrl=http://hopetv.org/watch/
 #EXTINF:-1,HISTORY (eng)
@@ -647,6 +647,14 @@ rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:travelchannel
 rtmp://31.220.0.82:1935/live playpath=tens00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tens00&vw=620&vh=490
 #EXTINF:-1,Ten Action
 rtmp://31.220.0.104:1935/live playpath=tenaction3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tenaction3&vw=620&vh=490
+#EXTINF: -1,Viasat Explorer 
+http://77.91.77.21:6416/?sid=b7339fd0963dgf586e27dc8e89240939 
+#EXTINF: -1,Viasat History 
+http://77.91.77.22:6417/?sid=b7339fd0963dgf586e27dc8e89240939 
+#EXTINF: -1,ViasatNature 
+http://77.91.77.21:6430/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1,ViasatSport 
+http://77.91.77.22:6310/?sid=b7339fd0963dgf586e27dc8e89240939
 ####################################################################
 #EXTINF:-1,Abana
 http://www.radio-abana.org/playlist.asx
@@ -833,3 +841,55 @@ rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport2/mp4:gmgsport2 swfUrl=http://www.m
 rtmp://58.97.57.150/live playpath=hd04 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
 #EXTINF:-1,CANAL+HD 
 rtmp://23.227.165.74/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=400&channel=11085&autoplay=true token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF: -1, TV 1000 Russian movie
+http://77.91.77.21:6711/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, TV 1000 
+http://77.91.77.22:6709/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Universal_Channel 
+http://77.91.77.22:6702/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Diva Universal 
+http://77.91.77.21:6731/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Egoist TV 
+http://77.91.77.21:6186/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Fox 
+http://77.91.77.22:6536/?sid=b7339fd0963dgf586e27dc8e89240939 
+#EXTINF: -1, Fox Life 
+http://77.91.77.21:6537/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Da Vinci 
+http://77.91.77.21:6425/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Investigation Discovery 
+http://77.91.77.21:6429/?sid=b7339fd0963dgf586e27dc8e89240939 
+#EXTINF: -1, National Geographic 
+http://77.91.77.22:6443/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, O2TV 
+http://77.91.77.22:6111/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Amusement Park
+http://77.91.77.22:6526/?sid=b7339fd0963dgf586e27dc8e89240939 
+#EXTINF: -1, SONY TV 
+http://77.91.77.21:6723/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Sport 1 
+http://77.91.77.22:6317/?sid=b7339fd0963dgf586e27dc8e89240939 
+#EXTINF: -1, Zоопарк 
+http://77.91.77.22:6440/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Amazing Life 
+http://77.91.77.22:6414/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Bridge TV 
+http://77.91.77.21:6117/?sid=b7339fd0963dgf586e27dc8e89240939 
+#EXTINF: -1, Gulli 
+http://77.91.77.21:6602/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1,1 HD 
+http://77.91.77.21:6179/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, 2x2 
+http://77.91.77.22:7021/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Kto est kto 
+http://77.91.77.22:6435/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1, Music Box 
+http://77.91.77.22:6104/?sid=b7339fd0963dgf586e27dc8e89240939
+#EXTINF: -1,SportTV 1
+rtmp://89.248.168.130:443/share/live1-rbi6c swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
+#EXTINF: -1,SportTV 2
+rtmp://89.248.172.239:443/share/live2-bipmr swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
+#EXTINF: -1,SportTV 3 / Benfica TV
+rtmp://80.82.70.239:443/share/live3-qszlx swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
+#EXTINF: -1,SportTV Live
+rtmp://89.248.162.212:443/share/live4-w04by swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live4-w04by
