@@ -939,3 +939,257 @@ rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:hitmusicch?file=mp4:hitmusic
 http://213.202.73.8:1337/
 #EXTINF:-1,CANAL 9 HD
 http://212.98.90.86:8066/m3u8/canal9.m3u8
+#EXTINF:-1,Globosat
+rtsp://173.193.20.136:1935/mtv/sat
+#EXTINF:-1,GLOBOSAT HD
+rtsp://173.193.20.136:1935/mtv/sathd
+#EXTINF:-1,GLOBO
+rtsp://173.193.20.136:1935/mtv/rioalta
+#EXTINF:-1,VIVA
+rtsp://173.193.20.136:1935/mtv/master21
+#EXTINF:-1,VIVA HD
+rtsp://173.193.20.136:1935/mtv/52hd
+#EXTINF:-1,Multishow
+rtsp://173.193.20.136:1935/mtv/brlive_0031
+#EXTINF:-1,GNT
+rtsp://173.193.20.136:1935/mtv/132
+#EXTINF:-1,BAND
+rtsp://173.193.20.136:1935/mtv/tvimagemhd
+#EXTINF:-1,RECORD (1)
+rtsp://173.193.20.150:1935/mtv/master14
+#EXTINF:-1,RedeTV HD
+rtsp://173.193.20.150:1935/mtv/master300
+#EXTINF:-1,SBT
+rtsp://173.193.20.150:1935/mtv/21
+#EXTINF:-1,SBT HD
+rtsp://173.193.20.150:1935/mtv/21hd
+#EXTINF:-1,ANIMAL PLANET BR
+rtsp://173.193.20.150:1935/mtv/30/
+#EXTINF:-1,NAT GEO
+rtsp://173.193.20.150:1935/mtv/animal
+#EXTINF:-1,NAT GEO
+http://212.33.237.113:8018/
+#EXTINF:-1,BIOF
+rtsp://173.193.20.150:1935/mtv/100
+#EXTINF:-1,Bio HD
+rtsp://173.193.20.150:1935/mtv/hishd
+#EXTINF:-1,DISCOVERY CHANNEL
+rtsp://173.193.20.150:1935/mtv/master04
+#EXTINF:-1,Discovery Turbo
+rtsp://173.193.20.150:1935/mtv/92
+#EXTINF:-1,DISCOVERY TURBO HD
+rtsp://173.193.20.150:1935/mtv/92hd
+#EXTINF:-1,Discovery Science
+rtsp://173.193.20.136:1935/mtv/130
+#EXTINF:-1,Discovery Science HD
+rtsp://173.193.20.136:1935/mtv/130hd
+#EXTINF:-1,DISC. SCIENCE
+http://212.33.237.113:8047/
+#EXTINF:-1,Discovery Civilization
+rtsp://173.193.20.150:1935/mtv/109
+#EXTINF:-1,Discovery HD Theater
+rtsp://173.193.20.136:1935/mtv/discohd
+#EXTINF:-1,Discovery ID
+rtsp://173.193.20.150:1935/mtv/105
+#EXTINF:-1,Home and Health
+rtsp://173.193.20.150:1935/mtv/106
+#EXTINF:-1,TLC
+rtsp://67.228.177.198:1935/mtv/113
+#EXTINF:-1,TLC HD
+rtsp://67.228.177.198:1935/mtv/113hd
+#EXTINF:-1,DISNEY XD
+rtsp://173.193.20.150:1935/mtv/60
+#EXTINF:-1,NICK
+rtsp://173.193.20.150:1935/mtv/28
+#EXTINF:-1,NICK NITE HD
+rtsp://173.193.20.150:1935/mtv/28hd
+#EXTINF:-1,COMBATE
+rtsp://173.193.20.136:1935/mtv/mmahd
+#EXTINF:-1,Sportv HD BR
+rtsp://173.193.20.136:1935/mtv/palomahd
+#EXTINF:-1,Sportv
+rtsp://173.193.20.136:1935/mtv/paloma
+#EXTINF:-1,Sportv 2 BR
+rtsp://173.193.20.136:1935/mtv/jeanplus
+#EXTINF:-1,SPORTV 3 BR
+rtsp://173.193.20.136:1935/mtv/reservamaxx
+#EXTINF:-1,Band sports
+rtsp://173.193.20.136:1935/mtv/tarobasd
+#EXTINF:-1,FUTEBOL PREMIERE
+rtsp://173.193.20.136:1935/mtv/futebolgrande
+#EXTINF:-1,ESPORTE INTERATIVO HD
+rtsp://173.193.20.150:1935/mtv/26hd
+#EXTINF:-1,SPORT+
+rtsp://173.193.20.136:1935/mtv/111hd
+#EXTINF:-1,ESPN+ HD
+rtsp://67.228.177.198:1935/mtv/43hd
+#EXTINF:-1,ESPN
+rtsp://173.193.20.150:1935/mtv/1
+#EXTINF:-1,ESPN BRASIL
+rtsp://173.193.20.150:1935/mtv/2
+#EXTINF:-1, FILMES
+http://204.45.108.74:1935/ctv/_defin...sat_total.m3u8
+#EXTINF:-1,Cine Brasil TV
+rtsp://173.193.20.136:1935/mtv/boninhohd
+#EXTINF:-1,CANAL BRASIL
+rtsp://173.193.20.150:1935/mtv/88
+#EXTINF:-1,Discovery ID
+rtsp://173.193.20.150:1935/mtv/105
+#EXTINF:-1,TC PREMIUM
+http://174.120.103.18:1936/live/flash24/playlist.m3u8
+#EXTINF:-1,TC ACTION
+rtsp://173.193.20.150:1935/mtv/37
+#EXTINF:-1,TC ACTION HD
+rtsp://173.193.20.150:1935/mtv/37hd
+#EXTINF:-1,TC TOUCH
+rtsp://173.193.20.150:1935/mtv/36
+#EXTINF:-1,CINEMAX
+rtsp://173.193.20.150:1935/mtv/53
+#EXTINF:-1,telecine pipoca
+rtsp://173.193.20.150:1935/mtv/master18
+#EXTINF:-1,CINEMAX HD
+rtsp://173.193.20.150:1935/mtv/53hd
+#EXTINF:-1,HBO HD
+http://67.228.177.198:1935/mtv/87hd/playlist.m3u8F
+#EXTINF:-1,HBO FAMILY
+rtsp://173.193.20.150:1935/mtv/46
+#EXTINF:-1,SYFY
+rtsp://173.193.20.150:1935/mtv/103
+#EXTINF:-1,TRU HD
+rtsp://173.193.20.136:1935/mtv/112hd
+#EXTINF:-1,A E
+rtsp://173.193.20.150:1935/mtv/ae
+#EXTINF:-1,TNT
+rtsp://173.193.20.150:1935/mtv/master77
+#EXTINF:-1,FOX
+rtsp://173.193.20.150:1935/mtv/8
+#EXTINF:-1,FOX HD
+rtsp://173.193.20.150:1935/mtv/8hd
+#EXTINF:-1,FOX HQ
+rtsp://173.193.20.150:1935/mtv/89
+#EXTINF:-1,MAX
+rtsp://173.193.20.150:1935/mtv/47
+#EXTINF:-1,SONY SPIN
+rtsp://173.193.20.150:1935/mtv/83
+#EXTINF:-1,TCM
+rtsp://173.193.20.150:1935/mtv/tcm
+#EXTINF:-1,ANIMATED FILMS
+mms://72.13.93.186/animatedfilms
+#EXTINF:-1,nik
+rtsp://173.193.20.150:1935/mtv/28hd
+#EXTINF:-1,band
+rtsp://173.193.20.136:1935/mtv/tvimagemhd
+#EXTINF:-1,viva
+rtsp://173.193.20.136:1935/mtv/52hd
+#EXTINF:-1,Globo
+rtsp://173.193.20.136:1935/mtv/110hd
+#EXTINF:-1,band new
+rtsp://173.193.20.136:1935/mtv/noticias
+#EXTINF:-1,disckids
+rtsp://173.193.20.150:1935/mtv/master24
+#EXTINF:-1,fx
+rtsp://173.193.20.150:1935/mtv/master25
+#EXTINF:-1,sony
+rtsp://173.193.20.150:1935/mtv/sony
+#EXTINF:-1,nickjr
+rtsp://173.193.20.150:1935/mtv/nickjr
+#EXTINF:-1,Disney
+rtsp://173.193.20.150:1935/mtv/disney
+#EXTINF:-1,universal
+rtsp://173.193.20.150:1935/mtv/master20
+#EXTINF:-1,glitz
+rtsp://173.193.20.150:1935/mtv/81
+#EXTINF:-1,cartono
+rtsp://173.193.20.150:1935/mtv/brlive_0028
+#EXTINF:-1,mgm
+rtsp://173.193.20.150:1935/mtv/104
+#EXTINF:-1,h&h
+rtsp://173.193.20.150:1935/mtv/106
+#EXTINF:-1,sinto
+rtsp://173.193.20.150:1935/mtv/sony
+#EXTINF:-1,história
+rtsp://173.193.20.150:1935/mtv/history
+#EXTINF:-1,Globo
+rtsp://173.193.20.136:1935/mtv/rioalta
+#EXTINF:-1,recorde
+rtsp://173.193.20.150:1935/mtv/master14
+#EXTINF:-1,warner
+rtsp://173.193.20.150:1935/mtv/warner
+#EXTINF:-1,TLC fun
+rtsp://173.193.20.150:1935/mtv/44
+#EXTINF:-1,Gnt
+rtsp://173.193.20.136:1935/mtv/132
+#EXTINF:-1,Hbo
+rtsp://173.193.20.150:1935/mtv/108
+#EXTINF:-1,megapix
+rtsp://173.193.20.150:1935/mtv/master11
+#EXTINF:-1,redtv
+rtsp://173.193.20.150:1935/mtv/master300
+#EXTINF:-1,Anx
+rtsp://173.193.20.150:1935/mtv/42
+#EXTINF:-1,multishow
+rtsp://173.193.20.136:1935/mtv/brlive_0031
+#EXTINF:-1,itsat
+rtsp://173.193.20.136:1935/mtv/131
+#EXTINF:-1,trut
+rtsp://173.193.20.136:1935/mtv/112
+#EXTINF:-1,Mac premior
+rtsp://173.193.20.150:1935/mtv/tvmsnmaxxprime
+#EXTINF:-1,ANIMAL PLANET
+http://31.14.180.28:8000/adnet22031
+#EXTINF:-1,BOOMERANG
+http://31.14.180.28:8000/adnet22013
+#EXTINF:-1,CARTOON NETWORK
+http://31.14.180.28:8000/adnet22012
+#EXTINF:-1,SC DISCOVERY SCIENCE
+http://31.14.180.28:8000/adnet22033
+#EXTINF:-1,DISCOVERY WORLD
+http://31.14.180.28:8000/adnet22034
+#EXTINF:-1,DISCOVERY ID
+http://31.14.180.28:8000/adnet22035
+#EXTINF:-1,TCM
+http://31.14.180.28:8000/adnet22050
+#EXTINF:-1,TRAVEL MIX
+http://31.14.180.28:8000/adnet22076
+#EXTINF:-1,Espn UK
+rtsp://93.120.27.78:1935/live/espnuum
+#EXTINF:-1,Euro Sport
+rtsp://93.120.27.78:1935/live/euro1n
+#EXTINF:-1,Euro Sport 2
+rtsp://93.120.27.78:1935/live/euro2n
+#EXTINF:-1, SPORT: Chelsea TV 2
+rtmp://$OPT:rtmp-raw=rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10
+#EXTINF:-1, SPORT: ESPN USA
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream playpath=46terg.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://www.04stream.com/
+#EXTINF:-1, Sport:GMG FOOTBALL
+rtmp://$OPT:rtmp-raw=rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgfoot/mp4:gmgfoot swfUrl=http://www.myvideo.ge/?act=dvrdvr%2FdvrH.swf%3Fv%3D1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgfoot live=1
+#EXTINF:-1, Sport:GMG SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport/mp4:gmgsport swfUrl=http://www.myvideo.ge/?act=dvrdvr%2FdvrH.swf%3Fv%3D1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport live=1
+#EXTINF:-1, Sport:GMG SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport2/mp4:gmgsport2 swfUrl=http://www.myvideo.ge/?act=dvrdvr%2FdvrH.swf%3Fv%3D1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport2 live=1
+#EXTINF:-1, SPORT: NBA
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/ playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=schuster92 pageUrl=http://04stream.com/trackok.php?c=4351&s1=chkAusa
+#EXTINF:-1, SPORT: NBA TV
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/ playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/trackok.php live=1
+#EXTINF:-1, SPORT: ORF SPORT+
+rtsp://apasfwl.apa.at/orfs_q6a/orf.sdp
+#EXTINF:-1, SPORT: OUTDOOR CHANNEL
+rtmp://lm02.everyon.tv:1935/ptv2/pld613
+#EXTINF:-1, Sport:Sky Poker
+rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124
+#EXTINF:-1, Sport:Sky Poker 2
+rtmp://$OPT:rtmp-raw=rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 timeout=10rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 timeout=10 live=1
+#EXTINF:-1, Sport: Sky Sports 1 UK
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true swfVfy=true timeout=10 pageUrl=http://www.04stream.com/
+#EXTINF:-1, Sport: Sky Sports 1 UK (2)
+rtmp://$OPT:rtmp-raw=rtmp.://31.7.58.122:1935/stream/ playpath=1zFrjV9uj9.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/
+#EXTINF:-1, Sport: Sky Sports 1 UK (3)
+rtmp://$OPT:rtmp-raw=rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10
+#EXTINF:-1, Sport: Trace Sports
+rtsp://46.249.213.87/broadcast/tracetvsports-tablet.3gp
+#EXTINF:-1,Sport: WWE HD
+rtmp://$OPT:rtmp-raw=rtmp://www.planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://pro-wrestling.tv/uppod.swf live=1 pageUrl=http://www.watchtv.co/wwe-hd-tv-live/
+#EXTINF:-1, Sport:Pro Wrestling TV
+rtmp://$OPT:rtmp-raw=rtmp://www.planeta-online.tv:1936/live/wrestling.stream.flv pageUrl=http://www.planeta-online.tv/ swfUrl=http://www.planeta-online.tv/planeta_player.swf?ver=457 live=1
+#EXTINF:-1, SPORT: Pro Wrestling TV
+rtmp://80.93.53.88:1935/live/wrestling.stream
