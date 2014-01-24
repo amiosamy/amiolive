@@ -883,7 +883,7 @@ rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:musicchannel?file=mp4:musicc
 http://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
 #EXTINF:-1,Music: Hit Music MD
 rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:hitmusicch?file=mp4:hitmusicch?token=afdd09ee6f082345161cc453727bba89/mp4:hitmusicch
-#EXTINF:-1 radio="true" group-title="Christian",Abana
+#EXTINF:-1 radio="true" group-title="Radio",Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio="true",Altareeq
 mms://75.125.78.77/AltareeqH?MSWMExt=.asf
@@ -905,7 +905,7 @@ mms://stream.skykeyradio.com/858788
 mms://stream.stmarkos.org/audio
 #EXTINF:-1 radio="true",Radio Ibrahim
 http://www.me.radioibrahim.com:8000/ri_mp3_96/
-#EXTINF:-1 radio="true" group-title="General",Arabesk
+#EXTINF:-1 radio="true",Arabesk
 http://173.193.219.163:8455/
 #EXTINF:-1 radio="true",Amr Diab
 http://s7.voscast.com:7888/;stream.mp3
