@@ -108,21 +108,15 @@ http://livestream2.alarabiya.tv/files/hadath.m3u8
 #EXTINF:-1,News: Al Jazeera News Arabic
 http://hd3.lsops.net/live/aljazeer_ar_372/playlist.m3u8
 #EXTINF:-1,News: Al Jazeera News Arabic alternative
-rtmp://www.teledunet.com:1935/teledunet/aljazeera swfUrl=http://www.teledunet.com/tv_/player.swf?abouttxt=Teledunet&id0=82649579763300&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/tv/?channel=aljazeera&no_pub
-#EXTINF:-1,News: Al Jazeera News Arabic alternative
 http://hd3.lsops.net/live/smil:aljazeer_ar_hls/playlist.m3u8
-#EXTINF:-1,News: Al Jazeera News Arabic alternative
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
 #EXTINF:-1,News: Al Jazeera Mubasher alternative
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
 #EXTINF:-1,News: Al Jazeera Misr alternative
 http://hd1.lsops.net/live/smil:aljamisr_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,News: Al Jazeera Misr alternative
-http://aljazeera-mubasher-misr-apple-live.adaptive.level3.net/apple/aljazeera/mub-misr/160.m3u8
 #EXTINF:-1,News: Al Jazeera News ENG
-rtmp://hd2.lsops.net/live playpath=aljazeer_en_838 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf
+http://hd2.lsops.net/live/aljazeer_en_hls.smil/playlist.m3u8
 #EXTINF:-1,News: Al Mayadeen
-rtmp://livestreaming3.itworkscdn.net/mayadeenlive playpath=mayadsat swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf pageUrl=http://www.almayadeen.net/ar/Live
+http://hd2.lsops.net/live/almayade_ar_hls.smil/playlist.m3u8
 #EXTINF:-1,News: Al Alam
 http://hd6.lsops.net/live/alalam_ar_hls.smil/playlist.m3u8
 #EXTINF:-1,News: Bloomberg
@@ -131,13 +125,13 @@ http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD
 rtmp://cp116697.live.edgefcs.net:80/live/ playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/bloomberg.html
 #EXTINF:-1,News: BBC News Arabic
 http://hd7.lsops.net/live/bbcarab_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,News: BBC Arabic
+#EXTINF:-1,News: BBC News Arabic PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=BBCArabic_Med&port=2077&mode=3&user=&session=dacf074cc66a9545b0ebcb21eb719b2dc7c4a057067f7bc510d53986a7233f0da299017ce29bf1aa
 #EXTINF:-1,News: BBC World News
 http://ca-edge-8.cdn2.streamago.tv:80/streamagoedge/1916/809/anjalo_bbc.m3u8
 #EXTINF:-1,News: CNBC Arabic
 http://livestream-f.akamaihd.net/3102016_1914609_e2ffa5f3_1_678@101498?v=3.0.3&fp=WIN%2011,9,900,170&r=CRKGC&g=BBPEXFAVJWNF
-#EXTINF:-1,News: CNBC Arabic
+#EXTINF:-1,News: CNBC Arabic alternative
 rtmp://tdsiptv.ddns.me/live playpath=ch115?code=cc995e48b7b7754 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-120-3-4-CNBC.html
 #EXTINF:-1,News: CNN International
 http://hd1.lsops.net:1935/live/cnn_en_145/playlist.m3u8
@@ -150,11 +144,11 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,News: DW Europe
 http://dwtvios_europa-i.akamaihd.net/hls/live/200515/dwtveuropa/1/playlist1x.m3u8
 #EXTINF:-1,News: EuroNews AR
-rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive/ar_video750_rtp.sdp
+http://hd1.lsops.net/live/euronews_ar.smil/playlist.m3u8
 #EXTINF:-1,News: FOX News
 rtmp://67.228.235.73/zenex playpath=foxbaq?id=1465 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/foxbaq/1/500/400
 #EXTINF:-1,News: France 24 Arabic
-http://media10.lsops.net/live/france24_ar.smil/playlist.m3u8
+http://hd7.lsops.net/live/france24_ar_hls.smil/playlist.m3u8
 #EXTINF:-1,News: MSNBC US
 rtmp://95.211.148.34/wl/channel playpath=987612MSN swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=987612MSN&vw=500&vh=350&
 #EXTINF:-1,News: Nile News
