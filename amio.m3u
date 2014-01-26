@@ -443,26 +443,26 @@ rtmpe://46.246.124.30:1935/live playpath=BST13 swfUrl=http://www.udemy.com/stati
 rtmpe://46.246.124.30:1935/live playpath=BST14 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1moc pageUrl=http://www.hdcast.org/
 #EXTINF:-1,Sport: BEIN HD ARABIA:15
 rtmpe://46.246.124.30:1935/live playpath=BST15 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1moc pageUrl=http://www.hdcast.org/
-#EXTINF:-1,Sport: Bein Sport HD 1 POGU
-rtmp://77.81.98.130/fms playpath=bein1 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss15m9b7&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:-1,Sport: Bein Sport HD 2
-rtmp://77.81.98.136/dms/ playpath=beinn2 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=beinn2&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1,Sport: Bein Sport HD 3
-rtmp://77.81.98.130/fms playpath=bein3 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss3fxv4m&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:-1,Sport: Bein Sport HD 4
-rtmp://77.81.98.130/fms playpath=bein4 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss4l26fx&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:-1,Sport: Bein Sport HD 5
-rtmp://77.81.98.130/fms playpath=bein5 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss5j24j0&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:-1,Sport: Bein Sport HD 6
-rtmp://77.81.98.130/fms playpath=bein6 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss6ijri5&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:-1,Sport: Bein Sport HD 7
-rtmp://77.81.98.130/fms playpath=bein7 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss737ls9&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:-1,Sport: Bein Sport HD 8
-rtmp://77.81.98.130/fms playpath=bein8 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss8w7zjf&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:-1,Sport: Bein Sport HD 11
-rtmp://77.81.98.130/fms playpath=bein11 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss11oacda&vw=600&vh=450&video=0&domain=hdembed.com
-#EXTINF:-1,Sport: Bein Sport HD 12
-rtmp://77.81.98.130/fms playpath=bein12 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss12juasc&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 1 Pogu
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/fms playpath=bein1 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss15m9b7&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 2
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/dms/ playpath=bein2 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=bein2&vw=600&vh=450&typeplayer=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 3
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/fms playpath=bein3 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss3fxv4m&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 4
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/fms playpath=bein4 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss4l26fx&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 5
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/fms playpath=bein5 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss5j24j0&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 6
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/fms playpath=bein6 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss6ijri5&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 7
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/fms playpath=bein7 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss737ls9&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 8
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/fms playpath=bein8 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss8w7zjf&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 11
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/fms playpath=bein11 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss11oacda&vw=600&vh=450&video=0&domain=hdembed.com
+#EXTINF:-1,Bein Sport HD 12
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/fms playpath=bein12 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=beinss12juasc&vw=600&vh=450&video=0&domain=hdembed.com
 #EXTINF:-1,Sport: BT Sport 1
 rtmp://31.220.0.104:1935/live playpath=bt1sss swfUrl=ttp://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1sss&vw=620&vh=490 live=1 timeout=10
 #EXTINF:-1,Sport: BT Sport 2
@@ -487,8 +487,8 @@ rtmp://31.220.0.82:1935/live playpath=eurosx1 swfUrl=http://www.eucast.tv/player
 http://46.61.226.18:1935/live/_definst_/smil:erosport_sd.smil/playlist.m3u8
 #EXTINF:-1,Sport: Eurosport 2 ENG
 rtmp://31.220.0.134:1935/live playpath=euro222 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=euro222&vw=620&vh=490
-#EXTINF:-1,Sport: Eurosport
-http://auth.torrent-tv.ru/h/5/1/2/ZXdQVGFGZTQxbEs1SVg3ay9DSnFrTXZydXNjN2FRaVR4RStHallFTll6UnhaN3hDTGNCakJrNTFDdytUZWptNg/2
+#EXTINF:-1,Sport: Eurosport HD
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/redirect playpath=EURO1HD swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1_ratus pageUrl=http://www.hdcast.org/
 #EXTINF:-1,Sport: Eurosport 2
 http://auth.torrent-tv.ru/h/6/1/2/ZndNbjJWZTQxbElCNndTSTltdGlMUTRvYjlHS0I1Z2RCMlNyaDU3MU85RXRlNVpITVh5T2dQN1dBTWlxWU95Rg/2
 #EXTINF:-1,Sport: Eurosport 2 HD
