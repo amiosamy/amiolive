@@ -38,7 +38,7 @@ rtmp://154.obj.netromedia.net/Copticsat/Copticsat
 #EXTINF:-1,Christian: CBN
 http://bcoveliveios-i.akamaihd.net/hls/live/201592/734546207001_1/iptv1_iphone.m3u8
 #EXTINF:-1,Christian: CBN News
-http://bcoveliveios-i.akamaihd.net/hls/live/201594/734546207001_3/news_iphone.m3u8
+rtmp://cp145180.live.edgefcs.net/live/ playpath=newschannel_1_500@42322 swfUrl=http://www.cbn.com/media/player/player.swf?s=cbnlive-3&isLive=true pageUrl=http://freetvall.com/video/47KYYG4WSX21/CBN-News
 #EXTINF:-1,Christian: Charity
 rtmp://livestreaming.ositcom.net/tvcharity/tvCharityStream
 #EXTINF:-1,Christian: Daystar TV
@@ -218,7 +218,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/8707800/streams/live/playlist.m3
 #EXTINF:-1,Arabic: CBC +2
 http://iphone-streaming.ustream.tv/ustreamVideo/12794820/streams/live/playlist.m3u8
 #EXTINF:-1,Arabic: CBC Sofra
-rtmp://41.196.200.11:9900/live/cbcsofra.stream
+rtmp://41.196.200.11:9900/live playpath=ssoofra.stream <wfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 pageUrl=http://www.cbcsofra.com/%d8%a7%d9%84%d8%a8%d8%ab-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/
 #EXTINF:-1,Arabic: CBC Drama
 rtmp://tdsiptv.ddns.me/live playpath=ch22?code=cc995e48b7b7754 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-23-2-7-CBCDrama.html
 #EXTINF:-1,Arabic: Cairo Drama
@@ -1161,6 +1161,26 @@ rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20
 rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=N.SAT
 #EXTINF:-1,BT2
 rtmp://37.220.32.44:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH
+#EXTINF:-1,Bein Sports 1
+http://93.120.27.90:1935/live/mobi101g0/stv39.m3u8
+#EXTINF:-1,Bein Sports 2
+http://93.120.27.90:1935/live/mobi25/stv39.m3u8
+#EXTINF:-1,Bein Sports 3
+http://93.120.27.90:1935/live/mobi3g0/stv39.m3u8
+#EXTINF:-1,Bein Sports 4
+http://93.120.27.90:1935/live/mobi4g/stv39.m3u8
+#EXTINF:-1,Bein Sports 5
+http://93.120.27.90:1935/live/mobi50g/stv39.m3u8
+#EXTINF:-1,Bein Sports 6
+http://93.120.27.90:1935/live/mobi6g5/stv39.m3u8
+#EXTINF:-1,Bein Sports 7
+http://93.120.27.90:1935/live/mobi70g/stv39.m3u8
+#EXTINF:-1,Bein Sports 8
+http://93.120.27.90:1935/live/mobi80g/stv39.m3u8
+#EXTINF:-1,Bein Sports 11
+http://93.120.27.90:1935/live/mobi90g/stv39.m3u8
+#EXTINF:-1,Bein Sports 12
+http://93.120.27.90:1935/live/mobi100g/stv39.m3u8
 #EXTINF:-1 radio="true" group-title="Radio",Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio="true",Altareeq
