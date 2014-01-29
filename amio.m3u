@@ -1075,12 +1075,52 @@ rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:musicchannel?file=mp4:musicc
 http://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
 #EXTINF:-1,Music: Hit Music MD
 rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:hitmusicch?file=mp4:hitmusicch?token=afdd09ee6f082345161cc453727bba89/mp4:hitmusicch
-#EXTINF:-1,PORTUGUESES :VH1
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=vh1 swfUrl=http://www.tvzune.com/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&vh1
-#EXTINF:-1,PORTUGUESES :MTV
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=mtv swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&mtv
+#EXTINF:-1,Music: VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Music: VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Music: VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,Music: VEVO 4
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Music: VEVO 5
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Music: VEVO 6
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,Music: VEVO 7
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+#EXTINF:-1,Music: VEVO 8
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+#EXTINF:-1,Music: VEVO 9
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
 #EXTINF:-1 group-title="EXTRA",BBC 1
 http://nimlive1.giniko.com/bbcone/bbcone.stream/playlist.m3u8
+#EXTINF:-1,CBC
+rtmp://live.cast-tv.us/stream playpath=z00001.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,2
+rtmp://live.cast-tv.us/stream playpath=z00002.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,5
+rtmp://live.cast-tv.us/stream playpath=z00004.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,SYFY
+rtmp://live.cast-tv.us/stream playpath=z00007.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,MSNBC
+rtmp://live.cast-tv.us/stream playpath=z00006.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,Cinemax
+rtmp://live.cast-tv.us/stream playpath=z00014.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,Cinemax 2
+rtmp://live.cast-tv.us/stream playpath=z00015.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,17
+rtmp://live.cast-tv.us/stream playpath=z00017.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,ESPN
+rtmp://live.cast-tv.us/stream playpath=z00018.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,ESPN 2
+rtmp://live.cast-tv.us/stream playpath=z00019.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,C1
+rtmp://live.cast-tv.us/stream playpath=z00021.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,MTV
+rtmp://live.cast-tv.us/stream playpath=z00028.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,E
+rtmp://live.cast-tv.us/stream playpath=z00031.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,USA 
 rtmp://live.cast-tv.us/stream playpath=z00010.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=usa live=true timeout=10
 #EXTINF:-1,TNT
@@ -1091,16 +1131,12 @@ rtmp://live.cast-tv.us/stream playpath=z00009.live swfUrl=http://cast-tv.us/play
 rtmp://live.cast-tv.us/stream playpath=z00013.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=showtime live=true timeout=10
 #EXTINF:-1,PBS
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
-#EXTINF:-1,NBC
-rtmp://5.79.72.3/vl/_definst_ playpath=chan75 swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com/watch?v=chan75 live=true timeout=10
-rtmp://live.cast-tv.us/stream playpath=z00002.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=nbc live=true timeout=10
 #EXTINF:-1,Investigation Discovery
 http://iphone-streaming.ustream.tv/ustreamVideo/14315001/streams/live/playlist.m3u8
 #EXTINF:-1,HBO
 rtmp://live.cast-tv.us/stream playpath=z00012.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=hbo live=true timeout=10
 #EXTINF:-1,FX
 rtmp://live.cast-tv.us/stream playpath=z00027.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=fx live=true timeout=10
-rtmpe://watch.playfooty.tv/live playpath=fxi swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=fxi&vw=670&vh=410 live=true timeout=10
 #EXTINF:-1,FOX
 rtmpe://live.univisionbrazil.com/stream playpath=z00011.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00011 live=true timeout=10
 #EXTINF:-1,Disney
@@ -1113,7 +1149,9 @@ rtmp://live.cast-tv.us/stream playpath=z00003.live swfUrl=http://cast-tv.us/play
 http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/manifest.m3u8
 #EXTINF:-1,Animal Planet
 http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
+#EXTINF:-1,Animal Planet
 rtmp://s01.webport.tv/promo/mtv pageURL=http://www.hqtv.biz swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf live=true timeout=10
+#EXTINF:-1,Animal Planet
 http://31.14.180.28:8000/adnet22031
 #EXTINF:-1,AMC 
 rtmp://live.cast-tv.us/stream playpath=z00025.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=amc
@@ -1133,8 +1171,6 @@ rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgfoot/mp4:gmgfoot swfUrl=http://www.myvid
 rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport/mp4:gmgsport swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport live=1
 #EXTINF:-1,GMG sports 2
 rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport2/mp4:gmgsport2 swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport2 live=1
-#EXTINF:-1,GMM Sport Two HD
-rtmp://58.97.57.150/live playpath=hd04 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
 #EXTINF:-1,Sky Sports 1 HD
 rtmpe://46.246.124.23:1935/redirect playpath=ban1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,Sky Sports 2HD
@@ -1161,106 +1197,172 @@ rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20
 rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=N.SAT
 #EXTINF:-1,BT2
 rtmp://37.220.32.44:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH
-#EXTINF:-1,Bein Sports 1
-http://93.120.27.90:1935/live/mobi101g0/stv39.m3u8
-#EXTINF:-1,Bein Sports 2
-http://93.120.27.90:1935/live/mobi25/stv39.m3u8
-#EXTINF:-1,Bein Sports 3
-http://93.120.27.90:1935/live/mobi3g0/stv39.m3u8
-#EXTINF:-1,Bein Sports 4
-http://93.120.27.90:1935/live/mobi4g/stv39.m3u8
-#EXTINF:-1,Bein Sports 5
-http://93.120.27.90:1935/live/mobi50g/stv39.m3u8
-#EXTINF:-1,Bein Sports 6
-http://93.120.27.90:1935/live/mobi6g5/stv39.m3u8
-#EXTINF:-1,Bein Sports 7
-http://93.120.27.90:1935/live/mobi70g/stv39.m3u8
-#EXTINF:-1,Bein Sports 8
-http://93.120.27.90:1935/live/mobi80g/stv39.m3u8
-#EXTINF:-1,Bein Sports 11
-http://93.120.27.90:1935/live/mobi90g/stv39.m3u8
-#EXTINF:-1,Bein Sports 12
-http://93.120.27.90:1935/live/mobi100g/stv39.m3u8
 #EXTINF:-1,C+Family2 
 rtmp://77.81.98.138/lub/ playpath=ffr swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=ffr&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
 #EXTINF:-1,nSport 
-rtmp://77.81.98.130/lub/ playpath=frf swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=frf&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
+rtmp://77.81.98.130/lub/ playpath=frf swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=frf&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
 #EXTINF:-1,ESP1 
-rtmp://77.81.98.131/lub/ playpath=torbacz1 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=torbacz1&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
-#EXTINF:-1,ESP2 
-rtmp://77.81.98.134/lub/ playpath=torbacz2 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=torbacz2&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
+rtmp://77.81.98.131/lub/ playpath=torbacz1 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=torbacz1&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
 #EXTINF:-1,TVP Sport 
-rtmp://77.81.98.134/lub/ playpath=aa14 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=aa14&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
+rtmp://77.81.98.134/lub/ playpath=aa14 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=aa14&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
 #EXTINF:-1,Polsat Sport 
-rtmp://77.81.98.135/lub/ playpath=encepence swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=encepence&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
+rtmp://77.81.98.135/lub/ playpath=encepence swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=encepence&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
 #EXTINF:-1,NasGero Wild 
-rtmp://77.81.98.130/lub/ playpath=torbacz3 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=torbacz3&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
-#EXTINF:-1,Uniwersal Channel 
-rtmp://77.81.98.136/lub/ playpath=juniversal_goodcast swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=juniversal_goodcast&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
-#EXTINF:-1,TVP1 
-rtmp://77.81.98.137/lub/ playpath=101 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=101&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
-#EXTINF:-1,TVP1 
-rtmp://77.81.98.137/lub/ playpath=102 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=102&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
-#EXTINF:-1,TVN 
-rtmp://rtmp.goodcast.org/liverepeater playpath=134467 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/stream.php?id=134467&width=580&height=400&stretching= 
-#EXTINF:-1,Polsat 
-rtmp://77.81.98.137/lub/ playpath=fcredc swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=fcredc&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
+rtmp://77.81.98.130/lub/ playpath=torbacz3 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=torbacz3&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
 #EXTINF:-1,Canal+Sport 
 rtmp://77.81.98.135/lub/ playpath=fvref swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=fvref&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
-#EXTINF:-1,C+Family 
-rtmp://77.81.98.137/lub/ playpath=ygtrvfd swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=ygtrvfd&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
+#EXTINF:-1,CANAL+ HD SPAIN
+rtmp://50.7.174.50/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_go.php token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1,CANAL+ HD SPAIN
+rtmp://109.123.114.162/live playpath=carapuerco?id=12013 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
 #EXTINF:-1,FOX FAMILY MOVIES/FOX
 http://111.223.33.234:55391/1uedls3nuenfpw9undwjfnvs2dd3sowkf-hd/Fox_FamIlY/playlist.m3u8
-#EXTINF:-1,TVB XING HE/TVB
-http://27.254.63.148:1935/live/fkjrikititumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/fkjrikititumza.stream
 #EXTINF:-1,iConcert HD
 http://202.170.127.27:42785/3KgE47dC3d733sb3Igu-THsz/I_Concert_HD/playlist.m3u8
 #EXTINF:-1,TRUE X-ZYTE
 http://27.254.63.148:1935/live/ffhryjjitumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/ffhryjjitumza.stream
-#EXTINF:-1,FOX THAI
-http://27.254.63.148:1935/live/koiryufhjtumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/koiryufhjtumza.stream
 #EXTINF:-1,GOLF CHANNEL
 http://27.254.63.148:1935/live/loiryfhjtumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/loiryfhjtumza.stream
-#EXTINF:-1,TNN24
-http://202.43.34.236:1935/TNN/s1/playlist.m3u8
-#EXTINF:-1,True Explore 1
-http://203.151.163.35:1135/live/EXP1.stream/playlist.m3u8
-rtmp://203.151.163.35:1135/live/EXP1.stream
-#EXTINF:-1,True Explore 2
-http://203.151.163.35:1135/live/EXP2.stream/playlist.m3u8
-rtmp://203.151.163.35:1135/live/EXP2.stream
-#EXTINF:-1,True Explore 3
-http://203.151.163.35:1135/live/EXP3.stream/playlist.m3u8
-rtmp://203.151.163.35:1135/live/EXP3.stream
-#EXTINF:-1,H2
-rtmp://103.246.17.52:1935/live/h2.stream
-#EXTINF:-1,True10
-http://27.254.63.148:1935/live/weytumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/weytumza.stream
-#EXTINF:-1,True Asian Series
-http://27.254.63.148:1935/live/huoouijnhtumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/huoouijnhtumza.stream
-http://203.151.163.35:1135/live/AsianSeries.stream/playlist.m3u8
-#EXTINF:-1,True FilmAsia
-http://27.254.63.148:1935/live/ytrjflotumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/ytrjflotumza.stream
-#EXTINF:-1,True ThaiFilm
-http://27.254.63.148:1935/live/juytptumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/juytptumza.stream
-#EXTINF:-1,True Movie Hits
-http://27.254.63.148:1935/live/gyttuultumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/gyttuultumza.stream
-#EXTINF:-1,True Series
-http://27.254.63.148:1935/live/juiopptumza.stream/playlist.m3u8
-rtmp://27.254.63.148:1935/live/juiopptumza.stream
-#EXTINF:-1,AXN HD
-rtmp://103.246.17.52:1935/live/hd_axn.stream
-#EXTINF:-1,HBO Hits
-http://27.254.63.148:1935/live/urtlkkkfxtumza.stream/playlist.m3u8
+#EXTINF:-1,CHL TV 
+http://193.232.151.130/hls-live/livepkgr/_1007_/1007/1007-40.m3u8 
+#EXTINF:-1,Our Football 
+http://193.232.151.130/hls-live/livepkgr/_1013_/1013/1013-40.m3u8 
+#EXTINF:-1,NTV + Sport Union 
+http://193.232.151.130/hls-live/livepkgr/_1014_/1014/1014-40.m3u8 
+#EXTINF:-1,NTV + Football 
+http://193.232.151.130/hls-live/livepkgr/_1026_/1026/1026-40.m3u8 
+#EXTINF:-1,NTV + Futbol2 
+http://193.232.151.130/hls-live/livepkgr/_1024_/1024/1024-40.m3u8 
+#EXTINF:-1,NTV + Basketball 
+http://193.232.151.130/hls-live/livepkgr/_1012_/1012/1012-40.m3u8 
+#EXTINF:-1,NTV + Sport 
+http://193.232.151.130/hls-live/livepkgr/_1025_/1025/1025-40.m3u8 
+#EXTINF:-1,NTV + Sport Plus 
+http://193.232.151.130/hls-live/livepkgr/_1009_/1009/1009-40.m3u8 
+#EXTINF:-1,NTV + Sport Hit 
+http://193.232.151.130/hls-live/livepkgr/_1060_/1060/1060-40.m3u8 
+#EXTINF:-1,NTV + Tennis 
+http://193.232.151.130/hls-live/livepkgr/_1011_/1011/1011-40.m3u8
+#EXTINF:-1,TNT
+http://178.49.132.73/streaming/perec/tnt/playlist.m3u8
+#EXTINF:-1,Disney
+http://178.49.132.73/streaming/disney/tvrec/playlist.m3u8
+#EXTINF:-1,Union
+http://178.49.132.73/streaming/soyuz/tvrec/playlist.m3u8
+#EXTINF:-1,World
+http://178.49.132.73/streaming/mir/tvrec/playlist.m3u8
+#EXTINF:-1,Children
+http://178.49.132.73/streaming/forkids/tvrec/playlist.m3u8
+#EXTINF:-1,Children's World
+http://178.49.132.73/streaming/detskij_mir/tvrec/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://178.49.132.73/streaming/nickelodeon/tvrec/playlist.m3u8
+#EXTINF:-1,Tiji
+http://178.49.132.73/streaming/tiji/tvrec/playlist.m3u8
+#EXTINF:-1,JimJam
+http://178.49.132.73/streaming/jim_jam/tvrec/playlist.m3u8
+#EXTINF:-1,Mother and Child
+http://178.49.132.73/streaming/motherchi/tvrec/playlist.m3u8
+#EXTINF:-1,TLC
+http://178.49.132.73/streaming/tlc/tvrec/playlist.m3u8
+#EXTINF:-1,Fashion
+http://178.49.132.73/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,FoxLife
+http://178.49.132.73/streaming/foxlife/tvrec/playlist.m3u8
+#EXTINF:-1,Diva Universal
+http://178.49.132.73/streaming/diva_universal/tvrec/playlist.m3u8
+#EXTINF:-1,India
+http://178.49.132.73/streaming/indiatv/tvrec/playlist.m3u8
+#EXTINF:-1,Discovery Russia
+http://178.49.132.73/streaming/discovery/tvrec/playlist.m3u8
+#EXTINF:-1,Discovery Word
+http://178.49.132.73/streaming/discoveryworld/tvrec/playlist.m3u8
+#EXTINF:-1,Discovery science
+http://178.49.132.73/streaming/discoveryscience/tvrec/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://178.49.132.73/streaming/animalplanet/tvrec/playlist.m3u8
+#EXTINF:-1,Natgeo
+http://178.49.132.73/streaming/natgeo/tvrec/playlist.m3u8
+#EXTINF:-1,Natgeo Wild
+http://178.49.132.73/streaming/nat_geo_wild/tvrec/playlist.m3u8
+#EXTINF:-1,Viasat Nature
+http://178.49.132.73/streaming/viasat_nature/tvrec/playlist.m3u8
+#EXTINF:-1,Viasat History
+http://178.49.132.73/streaming/viasat_history/tvrec/playlist.m3u8
+#EXTINF:-1,Viasat Explorer
+http://178.49.132.73/streaming/viasat_explorer/tvrec/playlist.m3u8
+#EXTINF:-1,My Planet
+http://178.49.132.73/streaming/my_planet/tvrec/playlist.m3u8
+#EXTINF:-1,Travel & Adventure
+http://178.49.132.73/streaming/traveladventure/tvrec/playlist.m3u8
+#EXTINF:-1,DaVinci
+http://178.49.132.73/streaming/da_vinci/tvrec/playlist.m3u8
+#EXTINF:-1,24 Techno
+http://178.49.132.73/streaming/24techno/tvrec/playlist.m3u8
+#EXTINF:-1,Science 2.0
+http://178.49.132.73/streaming/nauka_20/tvrec/playlist.m3u8
+#EXTINF:-1,Time
+http://178.49.132.73/streaming/time/tvrec/playlist.m3u8
+#EXTINF:-1,First Education
+http://178.49.132.73/streaming/1_obraz/tvrec/playlist.m3u8
+#EXTINF:-1,Amazing Life
+http://178.49.132.73/streaming/amazing_life/tvrec/playlist.m3u8
+#EXTINF:-1,365 Days
+http://178.49.132.73/streaming/365_days/tvrec/playlist.m3u8
+#EXTINF:-1,TV Browse
+http://178.49.132.73/streaming/interesnoe_tv/tvrec/playlist.m3u8
+#EXTINF:-1,Fox
+http://178.49.132.73/streaming/fox/tvrec/playlist.m3u8
+#EXTINF:-1,Set
+http://178.49.132.73/streaming/set/tvrec/playlist.m3u8
+#EXTINF:-1,Sony
+http://178.49.132.73/streaming/sonyscifi/tvrec/playlist.m3u8
+#EXTINF:-1,21 TV
+http://178.49.132.73/streaming/tv21/tvrec/playlist.m3u8
+#EXTINF:-1,Comedy
+http://178.49.132.73/streaming/comedytv/tvrec/playlist.m3u8
+#EXTINF:-1,Cinema House
+http://178.49.132.73/streaming/dom_kino/tvrec/playlist.m3u8
+#EXTINF:-1,Universal
+http://178.49.132.73/streaming/universal_channel/tvrec/playlist.m3u8
+#EXTINF:-1,CNN
+http://178.49.132.73/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:-1,Euronews
+http://178.49.132.73/streaming/euronews/tvrec/playlist.m3u8
+#EXTINF:-1,Discovery ID
+http://178.49.132.73/streaming/investigationdiscovery/tvrec/playlist.m3u8
+#EXTINF:-1,Hunting and Fishing
+http://178.49.132.73/streaming/hafi/tvrec/playlist.m3u8
+#EXTINF:-1,Homesteads
+http://178.49.132.73/streaming/usadba/tvrec/playlist.m3u8
+#EXTINF:-1,Auto Plus
+http://178.49.132.73/streaming/auto_plus/tvrec/playlist.m3u8
+#EXTINF:-1,Kitchen TV
+http://178.49.132.73/streaming/kitchentv/tvrec/playlist.m3u8
+#EXTINF:-1,VH1
+http://178.49.132.73/streaming/vh1/tvrec/playlist.m3u8
+#EXTINF:-1,Europa +
+http://178.49.132.73/streaming/europaplustv/tvrec/playlist.m3u8
+#EXTINF:-1,MCM
+http://178.49.132.73/streaming/mcmtop/tvrec/playlist.m3u8
+#EXTINF:-1,Eurosport
+http://178.49.132.73/streaming/eurosport/tvrec/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://178.49.132.73/streaming/eurosport2/tvrec/playlist.m3u8
+#EXTINF:-1,1 Sport
+http://178.49.132.73/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:-1,Sport
+http://178.49.132.73/streaming/sport_2/tvrec/playlist.m3u8
+#EXTINF:-1,Football
+http://178.49.132.73/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1,CHL
+http://178.49.132.73/streaming/khl/tvrec/playlist.m3u8
+#EXTINF:-1,Viasat Sport
+http://178.49.132.73/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1,Fight Club
+http://178.49.132.73/streaming/fight_club/tvrec/playlist.m3u8
+#EXTINF:-1,Extreme Sports
+http://178.49.132.73/streaming/extreme_sports/tvrec/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Radio",Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio="true",Altareeq
