@@ -1,177 +1,177 @@
 #EXTM3U
-#EXTINF:-1 group-title="Christian",Christian: ACC
+#EXTINF:-1 tvg-id="001" tvg-logo="001" group-title="Christian",Christian: ACC
 http://257925-lh.akamaihd.net/ACC_hdflash_600@146109?bandwidthEstimationTest=true&v=3.0.3&fp=WIN%2011,9,900,170&r=OEXPU&g=RWAJHYXDAGTT
-#EXTINF:-1,Christian: Alwaad
+#EXTINF:-1 tvg-id="002" tvg-logo="002",Christian: Alwaad
 http://mediaserver3.stimme-der-hoffnung.de/hcname_iphone.m3u8
-#EXTINF:-1,Christian: ATV SAT
+#EXTINF:-1 tvg-id="050" tvg-logo="050",Christian: ATV SAT
 http://videos.atvsat.com:1935/atvsatlive/atvsatlive1/playlist.m3u8
-#EXTINF:-1,Christian: ABNSAT
+#EXTINF:-1 tvg-id="003" tvg-logo="003",Christian: ABNSAT
 rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=LiveStream
-#EXTINF:-1,Christian: Alfady TV
+#EXTINF:-1 tvg-id="004" tvg-logo="004",Christian: Alfady TV
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
-#EXTINF:-1,Christian: Al Hayat
+#EXTINF:-1 tvg-id="005" tvg-logo="005",Christian: Al Hayat
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
-#EXTINF:-1,Christian: Al Hayat 2
+#EXTINF:-1 tvg-id="006" tvg-logo="006",Christian: Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
-#EXTINF:-1,Christian: Alkarma TV US
+#EXTINF:-1 tvg-id="007" tvg-logo="007",Christian: Alkarma TV US
 rtmp://flash.alkarmatv.com/karmatv_na/karmatv_na2
-#EXTINF:-1,Christian: Alkarma TV AU
+#EXTINF:-1 tvg-id="008" tvg-logo="008",Christian: Alkarma TV AU
 rtmp://flash.alkarmatv.com/karmatv_au/karmatv_au1
-#EXTINF:-1,Christian: Alkarma TV ME
+#EXTINF:-1 tvg-id="009" tvg-logo="009",Christian: Alkarma TV ME
 rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
-#EXTINF:-1,Christian: Alkarma TV PC Only
+#EXTINF:-1 tvg-id="010" tvg-logo="010",Christian: Alkarma TV PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlKarma_Med&port=2077&mode=3&user=&session=32350d86f4a5457e0a373c48d7780118fbf6cb5ccdfbb1b1e32922061678bc13a299017ce29bf1aa
-#EXTINF:-1,Christian: Aghapy TV
+#EXTINF:-1 tvg-id="011" tvg-logo="011",Christian: Aghapy TV
 http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Christian: Aghapy TV PC Only
+#EXTINF:-1 tvg-id="012" tvg-logo="012",Christian: Aghapy TV PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=Aghapy_Med&port=2077&mode=3&user=&session=20cbd46b74fa440c86968e7b8f5e043d288ad7cd33f0b33890de4f3f5f9886c9a299017ce29bf1aa
-#EXTINF:-1,Christian: Alkalema
+#EXTINF:-1 tvg-id="013" tvg-logo="013",Christian: Alkalema
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
-#EXTINF:-1,Christian: CTV
+#EXTINF:-1 tvg-id="014" tvg-logo="014",Christian: CTV
 rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
-#EXTINF:-1,Christian: CTV PC Only
+#EXTINF:-1 tvg-id="015" tvg-logo="015",Christian: CTV PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=CTVEgypt_Med&port=2077&mode=3&user=&session=74a28370a2a61f9ed3a59bc0b6ad67a67af6206ccbf5265e0e2d55a6c6f81013a299017ce29bf1aa
-#EXTINF:-1,Christian: CYC
+#EXTINF:-1 tvg-id="016" tvg-logo="016",Christian: CYC
 http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
-#EXTINF:-1,Christian: Copticsat TV
+#EXTINF:-1 tvg-id="017" tvg-logo="017",Christian: Copticsat TV
 rtmp://154.obj.netromedia.net/Copticsat/Copticsat
-#EXTINF:-1,Christian: CBN
+#EXTINF:-1 tvg-id="018" tvg-logo="018",Christian: CBN
 http://bcoveliveios-i.akamaihd.net/hls/live/201592/734546207001_1/iptv1_iphone.m3u8
-#EXTINF:-1,Christian: CBN News
+#EXTINF:-1 tvg-id="019" tvg-logo="019",Christian: CBN News
 rtmp://cp145180.live.edgefcs.net/live/ playpath=newschannel_1_500@42322 swfUrl=http://www.cbn.com/media/player/player.swf?s=cbnlive-3&isLive=true pageUrl=http://freetvall.com/video/47KYYG4WSX21/CBN-News
-#EXTINF:-1,Christian: Charity
+#EXTINF:-1 tvg-id="020" tvg-logo="020",Christian: Charity
 rtmp://livestreaming.ositcom.net/tvcharity/tvCharityStream
-#EXTINF:-1,Christian: Daystar TV
+#EXTINF:-1 tvg-id="021" tvg-logo="021",Christian: Daystar TV
 http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8
-#EXTINF:-1,Christian: Good Shepherd TV
+#EXTINF:-1 tvg-id="022" tvg-logo="022",Christian: Good Shepherd TV
 http://iphone-streaming.ustream.tv/ustreamVideo/12463854/streams/live/playlist.m3u8
-#EXTINF:-1,Christian: GLC
+#EXTINF:-1 tvg-id="023" tvg-logo="023",Christian: GLC
 rtmp://fss28.streamhoster.com/lv_glc/_definst_/broadcast2
-#EXTINF:-1,Christian: Hope TV
+#EXTINF:-1 tvg-id="024" tvg-logo="024",Christian: Hope TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201459/753071706001-1/index.m3u8
-#EXTINF:-1,Christian: Hope Church Channel
+#EXTINF:-1 tvg-id="025" tvg-logo="025",Christian: Hope Church Channel
 http://bcoveliveios-i.akamaihd.net/hls/live/201459/753071706001-3/index.m3u8
-#EXTINF:-1,Christian: Logos TV
+#EXTINF:-1 tvg-id="026" tvg-logo="026",Christian: Logos TV
 http://68.235.37.110/logoschannel.com/hls/logostv2.m3u8
-#EXTINF:-1,Christian: LLBN PC Only
+#EXTINF:-1 tvg-id="027" tvg-logo="027",Christian: LLBN PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=LLBN_Med&port=2077&mode=3&user=&session=d3ec525eafc4d1b20252b0be7ac4e58b463a97125f4cdddeb61ad3977cccf309a299017ce29bf1aa
-#EXTINF:-1,Christian: Kingdom TV
+#EXTINF:-1 tvg-id="028" tvg-logo="028",Christian: Kingdom TV
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
-#EXTINF:-1,Christian: Kingdom TV PC Only
+#EXTINF:-1 tvg-id="029" tvg-logo="029",Christian: Kingdom TV PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlMalakot_Med&port=2077&mode=3&user=&session=6fe73e8da1c1ed6ca91282457a4dc9851b571eb34c420ce24b38f910c9626bb9a299017ce29bf1aa
-#EXTINF:-1,Christian: KDEC
+#EXTINF:-1 tvg-id="030" tvg-logo="030",Christian: KDEC
 http://79.125.127.107:1935/live/kdec/playlist.m3u8
-#EXTINF:-1,Christian: JCTV
+#EXTINF:-1 tvg-id="031" tvg-logo="031",Christian: JCTV
 http://ooyalahd2-f.akamaihd.net/i/tbn03_delivery@120260/master.m3u8
-#EXTINF:-1,Christian: MESAT
+#EXTINF:-1 tvg-id="032" tvg-logo="032",Christian: MESAT
 rtmp://stream.s15.mediaserve.com/coptictvlive/livestream
-#EXTINF:-1,Christian: Miracle TV
+#EXTINF:-1 tvg-id="033" tvg-logo="033",Christian: Miracle TV
 rtmp://flash0.80205-live0.dna.qbrick.com/80205-live0/troens2
-#EXTINF:-1,Christian: Miracle TV PC Only
+#EXTINF:-1 tvg-id="034" tvg-logo="034",Christian: Miracle TV PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=Miracle_Med&port=2077&mode=3&user=&session=e7785bc30c072851eb19c409aae17ecdf565e3e3be2818d2d44e9e7434b235f8a299017ce29bf1aa
-#EXTINF:-1,Christian: New Life Egypt
+#EXTINF:-1 tvg-id="035" tvg-logo="035",Christian: New Life Egypt
 rtmp://50.16.71.4:1935/KPtG5sK playpath=newlifeegypt swfUrl=http://www.streammonkey.com/_jw/player.swf pageUrl=http://www.streammonkey.com/iframe/517
-#EXTINF:-1,Christian: Noursat AlShabab
+#EXTINF:-1 tvg-id="036" tvg-logo="036",Christian: Noursat AlShabab
 http://fl1.viastreaming.net/nouralchabab/livestream/playlist.m3u8
-#EXTINF:-1,Christian: Noursat
+#EXTINF:-1 tvg-id="037" tvg-logo="037",Christian: Noursat
 http://fl1.viastreaming.net/noursat/livestream/playlist.m3u8
-#EXTINF:-1,Christian: Noursat Alkalima
+#EXTINF:-1 tvg-id="038" tvg-logo="038",Christian: Noursat Alkalima
 http://fl1.viastreaming.net/nouralkalima/livestream/playlist.m3u8
-#EXTINF:-1,Christian: Noursat Alshark
+#EXTINF:-1 tvg-id="039" tvg-logo="039",Christian: Noursat Alshark
 http://fl1.viastreaming.net/nouralshark/livestream/playlist.m3u8
-#EXTINF:-1,Christian: Noursat Kids
+#EXTINF:-1 tvg-id="040" tvg-logo="040",Christian: Noursat Kids
 http://fl1.viastreaming.net/nourkids/livestream/playlist.m3u8
-#EXTINF:-1,Christian: River of Life
+#EXTINF:-1 tvg-id="041" tvg-logo="041",Christian: River of Life
 http://riversoflife.flashedgesvr.com:1935/riversoflifelive/live100/playlist.m3u8
-#EXTINF:-1,Christian: SAT 7
+#EXTINF:-1 tvg-id="042" tvg-logo="042",Christian: SAT 7
 rtmp://unirtmp.tulix.tv/sat7arabic/sat7arabic1
-#EXTINF:-1,Christian: SAT 7 Kids
+#EXTINF:-1 tvg-id="043" tvg-logo="043",Christian: SAT 7 Kids
 rtmp://unirtmp.tulix.tv/sat7kids/sat7kids1
-#EXTINF:-1,Christian: Spirit TV
+#EXTINF:-1 tvg-id="044" tvg-logo="044",Christian: Spirit TV
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:spirit1
-#EXTINF:-1,Christian: Smile of a Child
+#EXTINF:-1 tvg-id="045" tvg-logo="045",Christian: Smile of a Child
 http://ooyalahd2-f.akamaihd.net/i/tbn04_delivery@149649/master.m3u8
-#EXTINF:-1,Christian: TBN
+#EXTINF:-1 tvg-id="046" tvg-logo="046",Christian: TBN
 http://ooyalahd2-f.akamaihd.net/i/tbn01_delivery@120258/master.m3u8
-#EXTINF:-1,Christian: The Church Channel
+#EXTINF:-1 tvg-id="047" tvg-logo="047",Christian: The Church Channel
 http://ooyalahd2-f.akamaihd.net/i/tbn02_delivery@120259/master.m3u8
-#EXTINF:-1,Christian: The Word 
+#EXTINF:-1 tvg-id="048" tvg-logo="048",Christian: The Word 
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
-#EXTINF:-1,Christian: The Freedom
+#EXTINF:-1 tvg-id="049" tvg-logo="049",Christian: The Freedom
 http://ooyalahd2-f.akamaihd.net/i/tbn06_delivery@149652/master.m3u8
-#EXTINF:-1 group-title="News",News: Alarabiya
+#EXTINF:-1 tvg-id="051" tvg-logo="051" group-title="News",News: Alarabiya
 rtmp://tdsiptv.ddns.me/live playpath=ch53?code=cc995e48b7b7754 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf =pageUrl=http://www.livetv.tn/tv-54-2-7-AlArabiaNews.html
-#EXTINF:-1,News: Alarabiya (Alternative Source)
+#EXTINF:-1 tvg-id="052" tvg-logo="052",News: Alarabiya (Alternative Source)
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
-#EXTINF:-1,News: Alarabiya HADAS
+#EXTINF:-1 tvg-id="053" tvg-logo="053",News: Alarabiya HADAS
 http://livestream2.alarabiya.tv/files/hadath.m3u8
-#EXTINF:-1,News: Al Jazeera News Arabic
+#EXTINF:-1 tvg-id="054" tvg-logo="054",News: Al Jazeera News Arabic
 http://hd3.lsops.net/live/aljazeer_ar_372/playlist.m3u8
-#EXTINF:-1,News: Al Jazeera News Arabic alternative
+#EXTINF:-1 tvg-id="055" tvg-logo="055",News: Al Jazeera News Arabic alternative
 http://hd3.lsops.net/live/smil:aljazeer_ar_hls/playlist.m3u8
-#EXTINF:-1,News: Al Jazeera Mubasher alternative
+#EXTINF:-1 tvg-id="056" tvg-logo="056",News: Al Jazeera Mubasher alternative
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,News: Al Jazeera Misr alternative
+#EXTINF:-1 tvg-id="057" tvg-logo="057",News: Al Jazeera Misr alternative
 http://hd1.lsops.net/live/smil:aljamisr_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,News: Al Jazeera News ENG
+#EXTINF:-1 tvg-id="058" tvg-logo="058",News: Al Jazeera News ENG
 http://hd2.lsops.net/live/aljazeer_en_hls.smil/playlist.m3u8
-#EXTINF:-1,News: Al Mayadeen
+#EXTINF:-1 tvg-id="059" tvg-logo="059",News: Al Mayadeen
 http://hd2.lsops.net/live/almayade_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,News: Al Alam
+#EXTINF:-1 tvg-id="060" tvg-logo="060",News: Al Alam
 http://hd6.lsops.net/live/alalam_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,News: Bloomberg
+#EXTINF:-1 tvg-id="061" tvg-logo="061",News: Bloomberg
 http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I/master.m3u8
-#EXTINF:-1,News: Bloomberg
+#EXTINF:-1 tvg-id="062" tvg-logo="062",News: Bloomberg
 rtmp://cp116697.live.edgefcs.net:80/live/ playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/bloomberg.html
-#EXTINF:-1,News: BBC News Arabic
+#EXTINF:-1 tvg-id="063" tvg-logo="063",News: BBC News Arabic
 http://hd7.lsops.net/live/bbcarab_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,News: BBC News Arabic PC Only
+#EXTINF:-1 tvg-id="064" tvg-logo="064",News: BBC News Arabic PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=BBCArabic_Med&port=2077&mode=3&user=&session=dacf074cc66a9545b0ebcb21eb719b2dc7c4a057067f7bc510d53986a7233f0da299017ce29bf1aa
-#EXTINF:-1,News: BBC World News
+#EXTINF:-1 tvg-id="065" tvg-logo="065",News: BBC World News
 http://ca-edge-8.cdn2.streamago.tv:80/streamagoedge/1916/809/anjalo_bbc.m3u8
-#EXTINF:-1,News: CNBC Arabic
+#EXTINF:-1 tvg-id="066" tvg-logo="066",News: CNBC Arabic
 http://livestream-f.akamaihd.net/3102016_1914609_e2ffa5f3_1_678@101498?v=3.0.3&fp=WIN%2011,9,900,170&r=CRKGC&g=BBPEXFAVJWNF
-#EXTINF:-1,News: CNBC Arabic alternative
+#EXTINF:-1 tvg-id="067" tvg-logo="067",News: CNBC Arabic alternative
 rtmp://tdsiptv.ddns.me/live playpath=ch115?code=cc995e48b7b7754 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-120-3-4-CNBC.html
-#EXTINF:-1,News: CNN International
+#EXTINF:-1 tvg-id="068" tvg-logo="068",News: CNN International
 http://hd1.lsops.net:1935/live/cnn_en_145/playlist.m3u8
-#EXTINF:-1,News: CNN 
+#EXTINF:-1 tvg-id="069" tvg-logo="069",News: CNN 
 rtmp://lm04.everyon.tv:1935/ptv4/ playpath=phd16 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/cnn3.html
-#EXTINF:-1,News: CNC
+#EXTINF:-1 tvg-id="070" tvg-logo="070",News: CNC
 http://cnc.lsops.net/live/cnc_en_hls.smil/playlist.m3u8
-#EXTINF:-1,News: DW Arabic
+#EXTINF:-1 tvg-id="071" tvg-logo="071",News: DW Arabic
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,News: DW Europe
+#EXTINF:-1 tvg-id="072" tvg-logo="072",News: DW Europe
 http://dwtvios_europa-i.akamaihd.net/hls/live/200515/dwtveuropa/1/playlist1x.m3u8
-#EXTINF:-1,News: EuroNews AR
+#EXTINF:-1 tvg-id="073" tvg-logo="073",News: EuroNews AR
 http://hd1.lsops.net/live/euronews_ar.smil/playlist.m3u8
-#EXTINF:-1,News: FOX News
+#EXTINF:-1 tvg-id="074" tvg-logo="074",News: FOX News
 rtmp://67.228.235.73/zenex playpath=foxbaq?id=1465 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/foxbaq/1/500/400
-#EXTINF:-1,News: France 24 Arabic
+#EXTINF:-1 tvg-id="075" tvg-logo="075",News: France 24 Arabic
 http://hd7.lsops.net/live/france24_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,News: MSNBC US
+#EXTINF:-1 tvg-id="076" tvg-logo="076",News: MSNBC US
 rtmp://95.211.148.34/wl/channel playpath=987612MSN swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=987612MSN&vw=500&vh=350&
-#EXTINF:-1,News: Nile News
+#EXTINF:-1 tvg-id="077" tvg-logo="077",News: Nile News
 http://live.sis.gov.eg/ch1
-#EXTINF:-1,News: Nile News PC Only
+#EXTINF:-1 tvg-id="078" tvg-logo="078",News: Nile News PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=NileNews_High&port=2077&mode=3&user=&session=ccc5cb6758f2cc3f26efc3ee8b65f771c8bcff21d26b847ba22e4e5421d61ccda299017ce29bf1aa
-#EXTINF:-1,News: Nile TV PC Only
+#EXTINF:-1 tvg-id="079" tvg-logo="079",News: Nile TV PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=NileInt_Med&port=2077&mode=3&user=&session=fc7075ecd6cb4156fd7dad46417e3b4c7615a8360fb76cb17a6c7e06a0757e24a299017ce29bf1aa
-#EXTINF:-1,News: NewsAsia
+#EXTINF:-1 tvg-id="080" tvg-logo="080",News: NewsAsia
 http://cna.lsops.net/live/cna_en_hls.smil/playlist.m3u8
-#EXTINF:-1,News: Press TV 
+#EXTINF:-1 tvg-id="081" tvg-logo="081",News: Press TV 
 http://hd6.lsops.net/live/presstv_en_hls.smil/playlist.m3u8
-#EXTINF:-1,News: Russia Today
+#EXTINF:-1 tvg-id="083" tvg-logo="082",News: Russia Today
 http://rt.api.visionip.tv/live/ASHTTP/RT_Global-MB/playlist.m3u8
-#EXTINF:-1,News: Russia Today Arabic
+#EXTINF:-1 tvg-id="083" tvg-logo="083",News: Russia Today Arabic
 http://rt.ashttp6.visionip.tv/live/Rusiya_Al_Yaum-SDh/playlist.m3u8
-#EXTINF:-1,News: Reuters Live Stream
+#EXTINF:-1 tvg-id="084" tvg-logo="084",News: Reuters Live Stream
 http://hd5.lsops.net/live/reuters_en_hls.smil/playlist.m3u8
-#EXTINF:-1,News: Sky News International
+#EXTINF:-1 tvg-id="085" tvg-logo="085",News: Sky News International
 http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
-#EXTINF:-1,News: Sky News Arabia
+#EXTINF:-1 tvg-id="086" tvg-logo="086",News: Sky News Arabia
 http://hd7.lsops.net/live/skynewsi_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,News: TWiT US
+#EXTINF:-1 tvg-id="087" tvg-logo="087",News: TWiT US
 http://bglive-a.bitgravity.com/twit/live/high
 #EXTINF:-1 group-title="Arabic",Arabic: AlMasria
 rtmp://tdsiptv.ddns.me/live playpath=ch84?code=cc995e48b7b7754 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-89-3-4-AlMasria.html
