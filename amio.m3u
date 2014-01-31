@@ -691,6 +691,12 @@ http://m24.megafun.vn/live.vs?c=vstv078&q=high
 rtmp://s01.webport.tv/promo/mtv live=2
 #EXTINF:-1 tvg-id="285" tvg-logo="285",Documentary: ANIMAL PLANET
 http://31.14.180.28:8000/adnet22031
+#EXTINF:-1 tvg-id="285" tvg-logo="285",Documentary: ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="285" tvg-logo="285",Documentary: ANIMAL PLANET HD
+http://178.49.132.73/streaming/animalplanet/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="285" tvg-logo="285",Documentary: ANIMAL PLANET HD
+rtmp://s01.webport.tv/promo/mtv pageURL=http://www.hqtv.biz swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf live=true timeout=10
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel RUS
 rtmp://online-record.ru:1935/ playpath=discovery_low swfUrl=http://moetv.ucoz.ru/uppod.swf pageUrl=http://moetv.ucoz.ru/index/discovery_vlc/0-197
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel
@@ -703,6 +709,14 @@ http://31.14.180.28:8000/adnet22034
 http://31.14.180.28:8000/adnet22035
 #EXTINF:-1 tvg-id="286" tvg-logo="286",PORTUGUESES :DISCOVERY CHANNEL
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=discovery swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&dicovery
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Russia
+http://178.49.132.73/streaming/discovery/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Word
+http://178.49.132.73/streaming/discoveryworld/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery science
+http://178.49.132.73/streaming/discoveryscience/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery ID
+http://178.49.132.73/streaming/investigationdiscovery/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="287" tvg-logo="287",Documentary: EXPLORER (eng)
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:explorer
 #EXTINF:-1 tvg-id="288" tvg-logo="288",Documentary: HISTORY (eng)
@@ -717,6 +731,10 @@ rtmp://cp76072.live.edgefcs.net/live/ swfUrl="http://www.nasa.gov/templateimages
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="290" tvg-logo="290",PORTUGUESES :NATIONAL GEOGRAPHIC
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=national swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&national
+#EXTINF:-1 tvg-id="290" tvg-logo="290",Documentary: Natgeo
+http://178.49.132.73/streaming/natgeo/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="290" tvg-logo="290",Documentary: Natgeo Wild
+http://178.49.132.73/streaming/nat_geo_wild/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="291" tvg-logo="291",Documentary: NATURE (eng)
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nature
 #EXTINF:-1 tvg-id="292" tvg-logo="292",Documentary: Russian Today Documentary
@@ -725,6 +743,8 @@ rtmp://rt.fms.visionip.tv/live/russia_today-rt_docs-live-25f-4x3_2
 rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:travelchannel
 #EXTINF:-1 tvg-id="293" tvg-logo="293",Documentary: TRAVEL MIX
 http://31.14.180.28:8000/adnet22076
+#EXTINF:-1 tvg-id="293" tvg-logo="293",Documentary: Travel & Adventure
+http://178.49.132.73/streaming/traveladventure/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="294" tvg-logo="294",PORTUGUESES :ODISSEIA
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=odisseia swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&odisseia
 #EXTINF:-1 tvg-id="295" tvg-logo="295" group-title="Kids",Kids: Cartoon Network AR
@@ -733,30 +753,42 @@ rtmp://tdsiptv.ddns.me/live playpath=ch65?code=cc995e48b7b7754 swfUrl=http://www
 http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="295" tvg-logo="295",Kids: CARTOON NETWORK
 http://31.14.180.28:8000/adnet22012
-#EXTINF:-1 tvg-id="295" tvg-logo="295",Cartoon Network
+#EXTINF:-1 tvg-id="295" tvg-logo="295",Kids: Cartoon Network
 rtmp://198.105.219.132/live playpath=cartoon10?id=1981 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1 tvg-id="295" tvg-logo="295",Kids: Cartoon Network
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/manifest.m3u8
 #EXTINF:-1 tvg-id="296" tvg-logo="296",Kids: BOOMERANG
 http://31.14.180.28:8000/adnet22013
 #EXTINF:-1 tvg-id="297" tvg-logo="297",Kids: ANIMATED FILMS
 mms://72.13.93.186/animatedfilms
-#EXTINF:-1 tvg-id="298" tvg-logo="298",Disney CineMagic
+#EXTINF:-1 tvg-id="298" tvg-logo="298",Kids: Disney CineMagic
 rtmp://watch.ilive.to/edge playpath=lp0o8c3i376ds1l swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4  
-#EXTINF:-1 tvg-id="299" tvg-logo="299",Disney  XD
+#EXTINF:-1 tvg-id="299" tvg-logo="299",Kids: Disney  XD
 rtmp://109.123.123.68/live playpath=dxd10?id=1986 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/dxd10/1/585/385 Conn=S:OK --live
-#EXTINF:-1 tvg-id="299" tvg-logo="299",Disney  XD 2
+#EXTINF:-1 tvg-id="299" tvg-logo="299",Kids: Disney  XD 2
 rtmp://watch.ilive.to/edge playpath=qv2jfe1v02fqgaa swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4  
-#EXTINF:-1 tvg-id="299" tvg-logo="299",Disney Junior
+#EXTINF:-1 tvg-id="299" tvg-logo="299",Kids: Disney Junior
 rtmp://46.28.53.18/live playpath=junior10?id=1980 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1 tvg-id="299" tvg-logo="299",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="299" tvg-logo="299",Kids: DISNEY CHANNEL
 rtmp://198.105.219.132/live playpath=disney10?id=1983 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/disney10/1/585/385 Conn=S:OK --live
 #EXTINF:-1 tvg-id="299" tvg-logo="299",PORTUGUESES :DISNEY CHANNEL
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=disney swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&disney
+#EXTINF:-1 tvg-id="299" tvg-logo="299",Kids: Disney
+rtmp://live.cast-tv.us/stream playpath=z00020.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=disney live=true timeout=10
+#EXTINF:-1 tvg-id="299" tvg-logo="299",Kids: Disney
+http://178.49.132.73/streaming/disney/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="300" tvg-logo="300",NICKELODEON
 rtmp://206.190.140.36/live playpath=nick10?id=1984 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1 tvg-id="300" tvg-logo="300",NICKELODEON
+http://178.49.132.73/streaming/nickelodeon/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="301" tvg-logo="301",PORTUGUESES :PANDA
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=panda swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&panda
 #EXTINF:-1 tvg-id="302" tvg-logo="302" group-title="Movies",Movies: CINEMAX
 rtsp://173.193.20.150:1935/mtv/53
+#EXTINF:-1 tvg-id="302" tvg-logo="302",Movies: CINEMAX
+rtmp://live.cast-tv.us/stream playpath=z00014.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1 tvg-id="302" tvg-logo="302",Movies: CINEMAX 2
+rtmp://live.cast-tv.us/stream playpath=z00015.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1 tvg-id="303" tvg-logo="303",Movies: Cinema Pictures
 mms://72.13.93.186/moviesofthe50s?MSWMExt=.asf
 #EXTINF:-1 tvg-id="304" tvg-logo="304",Movies: OSN 1
@@ -771,6 +803,8 @@ http://212.68.33.139:8003
 rtmp://77.81.98.132/lub playpath=setmax swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=setmax&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
 #EXTINF:-1 tvg-id="307" tvg-logo="307",Movies: STAR PLUS
 rtmp://77.81.98.132/dms playpath=starplushd swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
+#EXTINF:-1 tvg-id="307" tvg-logo="307",Movies: STAR MOVIES
+http://m24.megafun.vn/live.vs?c=vstv038&q=high
 #EXTINF:-1 tvg-id="308" tvg-logo="308",Movies: Sky Movies Action
 rtmp://31.220.0.134:1935/live playpath=movaction swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=movaction&vw=620&vh=490
 #EXTINF:-1 tvg-id="308" tvg-logo="308",Movies: Sky Movies Greats
@@ -799,131 +833,153 @@ mms://72.13.93.186/comedymovies?MSWMExt=.asf
 mms://72.13.93.186/calvinandthecolonel?MSWMExt=.asf 
 #EXTINF:-1 tvg-id="311" tvg-logo="311",Movies: TubTub Roundup Westerns
 mms://72.13.93.186/rangerider?MSWMExt=.asf
-#EXTINF:-1,Movies: C+ 1
+#EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: C+ 1
 rtmp://23.227.167.10/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Movies: CANAL+ 1 (Opcion 2)
+#EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: C+Family2 
+rtmp://77.81.98.138/lub/ playpath=ffr swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=ffr&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
+#EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: CANAL+ 1 (Opcion 2)
 rtmp://109.123.114.162/live playpath=gatoturco?id=11916 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,Movies: CANAL+ 1 (Opcion 4)
+#EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: CANAL+ 1 (Opcion 4)
 rtmp://173.192.200.78:443/kuyo playpath=caramierda2 swfUrl=http://yukons.net/yplay2.swf live=1 pageUrl=http://yukons.net/
-#EXTINF:-1,Movies: Canal+ Toros
+#EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: CANAL+ HD SPAIN
+rtmp://50.7.174.50/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_go.php token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: CANAL+ HD SPAIN
+rtmp://109.123.114.162/live playpath=carapuerco?id=12013 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1 tvg-id="313" tvg-logo="313",Movies: Canal+ Toros
 rtmp://206.190.128.116/stream playpath=cacato?id=112571 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
-#EXTINF:-1,Movies: Canal+ Toros 2
+#EXTINF:-1 tvg-id="313" tvg-logo="313",Movies: Canal+ Toros 2
 rtmp://173.192.200.78:443/kuyo playpath=torossssssss swfUrl=http://yukons.net/yplay.swf live=1 pageUrl=http://yukons.net/
-#EXTINF:-1,Movies: C+ ACCION 
+#EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: C+ ACCION 
 rtmp://23.227.165.66/iguide playpath=uqgivhxc58hqdj7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Movies: C+ COMEDIA HD
+#EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: C+ COMEDIA HD
 rtmp://cdn.flashstreaming.mobi/live playpath=pcomedia swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1&kpublica=12760 live=1 pageUrl=http://flashstreaming.mobi/ flashVer=WIN11,9,900,170
-#EXTINF:-1,Movies: CANAL+ DCINE
+#EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: CANAL+ DCINE
 rtmp://23.92.70.42/iguide playpath=3rlt1uu9s5swpp8 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Movies: Hollywood 
+#EXTINF:-1 tvg-id="314" tvg-logo="314",Movies: Hollywood 
 rtmp://50.7.69.122/edge playpath=jr6a9z19y27abhu swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4    
-#EXTINF:-1,Movies: Paramount Channel
-rtmp://50.7.133.122/iguide playpath=ne5tulphjoqojsa swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Movies: Xtrm
-rtmp://50.7.69.234/edge playpath=l886gblcix3g7rt swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4    
-#EXTINF:-1,Movies: ABC Family Español
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chabcfamily/2008/08/18/be099cc9-897f-4c0a-bd7f-da4393e4530d
-#EXTINF:-1,Movies: FOX 
-rtmp://watch.ilive.to/edge playpath=x16a702jdt5cw0r swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4  
-#EXTINF:-1,Movies: Fox HD
-rtmp://23.227.165.66/iguide playpath=ebeywjpcgx1m61u swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Movies: AXN
-rtmp://208.53.164.18/iguide playpath=3zm6ql4d0xotejz swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Movies: AXN 3
-rtmp://watch.ilive.to:1935/edge/qf6d3hdupyv0s2d pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/ token=12345dsagf4  
-#EXTINF:-1,TNT HD
-rtmp://watch.ilive.to/edge playpath=lhz1koxd78ok7it swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4  
-#EXTINF:-1,TNT HD 1
-rtmp://23.92.70.26/iguide playpath=imgh6mewxagfoq1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,TNT Latino
-rtmp://206.190.139.28/live playpath=tnt10?id=1978 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK
-#EXTINF:-1,Movies: FOX Crime
-rtmp://50.7.69.138/edge playpath=58i18lx0ngwjkbk swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4  
-#EXTINF:-1,alXnxtv
-rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_alx_nxtv swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/ timeout=10 token=balls2u
-#EXTINF:-1,SYFY
-rtmp://watch.ilive.to/edge playpath=uc7be9ku8rmpfr4 swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4 
-#EXTINF:-1,Movies: AXN
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axn swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axn
-#EXTINF:-1,Movies: AXN BLACK
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnblack swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnblack
-#EXTINF:-1,Movies: AXN WHITE
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnwhite swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnwhite
-#EXTINF:-1,Movies: FOX
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=fox swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&fox
-#EXTINF:-1,Movies: FOX MOVIES
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxmovies swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxmovies
-#EXTINF:-1,Movies: FOX CRIME
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxcrime swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxcrime
-#EXTINF:-1,Movies: FOX LIFE
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxlife swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxlife
-#EXTINF:-1,Movies: HOLLYWOOD
+#EXTINF:-1 tvg-id="314" tvg-logo="314",Movies: HOLLYWOOD
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=hollywood swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&hollywood
-#EXTINF:-1,Movies: MOV
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=mov swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&mov
-#EXTINF:-1,Movies: SYFY
+#EXTINF:-1 tvg-id="314" tvg-logo="314",Movies: HOLLYWOOD
+rtmp://50.7.69.122/edge playpath=jr6a9z19y27abhu swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf41
+#EXTINF:-1 tvg-id="315" tvg-logo="315",Movies: Paramount Channel
+rtmp://50.7.133.122/iguide playpath=ne5tulphjoqojsa swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-id="316" tvg-logo="316",Movies: Xtrm
+rtmp://50.7.69.234/edge playpath=l886gblcix3g7rt swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4    
+#EXTINF:-1 tvg-id="317" tvg-logo="317",Movies: ABC Family Español
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chabcfamily/2008/08/18/be099cc9-897f-4c0a-bd7f-da4393e4530d
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX 
+rtmpe://live.univisionbrazil.com/stream playpath=z00011.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00011 live=true timeout=10 
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX 
+http://178.49.132.73/streaming/fox/tvrec/playlist.m3u8 
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: Fox HD
+rtmp://23.227.165.66/iguide playpath=ebeywjpcgx1m61u swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX Crime
+rtmp://50.7.69.138/edge playpath=58i18lx0ngwjkbk swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=fox swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&fox
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX MOVIES
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxmovies swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxmovies
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX FAMILY MOVIES/FOX
+http://111.223.33.234:55391/1uedls3nuenfpw9undwjfnvs2dd3sowkf-hd/Fox_FamIlY/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX CRIME
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxcrime swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxcrime
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX LIFE
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxlife swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxlife
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX LIFE
+http://178.49.132.73/streaming/foxlife/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN
+rtmp://208.53.164.18/iguide playpath=3zm6ql4d0xotejz swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+#EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN 2
+rtmp://watch.ilive.to:1935/edge/qf6d3hdupyv0s2d pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/ token=12345dsagf4  
+#EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axn swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axn
+#EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN BLACK
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnblack swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnblack
+#EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN WHITE
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnwhite swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnwhite
+#EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO
+rtmp://live.cast-tv.us/stream playpath=z00012.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=hbo live=true timeout=10
+#EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO
+http://m24.megafun.vn/live.vs?c=vstv013&q=high
+#EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO
+http://m24.megafun.vn/live.vs?c=vstv036&q=high
+#EXTINF:-1 tvg-id="124" tvg-logo="124",Movies: FX
+rtmp://live.cast-tv.us/stream playpath=z00027.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=fx live=true timeout=10
+#EXTINF:-1 tvg-id="319" tvg-logo="319",Movies: TNT HD
+rtmp://watch.ilive.to/edge playpath=lhz1koxd78ok7it swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf4  
+#EXTINF:-1 tvg-id="319" tvg-logo="319",Movies: TNT HD 1
+rtmp://23.92.70.26/iguide playpath=imgh6mewxagfoq1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+#EXTINF:-1 tvg-id="319" tvg-logo="319",Movies: TNT
+rtmp://live.cast-tv.us/stream playpath=z00008.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=tnt live=true timeout=10
+#EXTINF:-1 tvg-id="319" tvg-logo="319",Movies: TNT
+http://178.49.132.73/streaming/perec/tnt/playlist.m3u8
+#EXTINF:-1 tvg-id="319" tvg-logo="319",TNT Latino
+rtmp://206.190.139.28/live playpath=tnt10?id=1978 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK
+#EXTINF:-1 tvg-id="320" tvg-logo="320",Movies: SYFY
+rtmp://live.cast-tv.us/stream playpath=z00007.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1 tvg-id="320" tvg-logo="320",Movies: SYFY
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=syfy swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&syfy
-#EXTINF:-1 group-title="Music",Music: MTV
+#EXTINF:-1 tvg-id="327" tvg-logo="327",Movies: Showtime
+rtmp://live.cast-tv.us/stream playpath=z00013.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=showtime live=true timeout=10
+#EXTINF:-1 tvg-id="321" tvg-logo="321",Movies: MOV
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=mov swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&mov
+#EXTINF:-1 tvg-id="322" tvg-logo="322" group-title="Music",Music: MTV
 rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf?red5Server=rtmp://83.218.202.202/live&stream=wt_mtv.stream live=1
-#EXTINF:-1,Music: MTV Dance
+#EXTINF:-1 tvg-id="322" tvg-logo="322",Music: MTV Dance
 rtmp://94.242.221.176:1937/live/ playpath=stream80 swfUrl=http://www.portaltv.ro/jw6/jwplayer.flash.swf live=1
-#EXTINF:-1,Music: MTV Hits
+#EXTINF:-1 tvg-id="322" tvg-logo="322",Music: MTV Hits
 rtmp://94.242.221.176:1937/live/ playpath=stream153 swfUrl=http://www.portaltv.ro/jw6/jwplayer.flash.swf live=1
-#EXTINF:-1,Music: VEVO 1
+#EXTINF:-1 tvg-id="322" tvg-logo="322",Music: MTV
+rtmp://live.cast-tv.us/stream playpath=z00028.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 2
+#EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 3
+#EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:-1,Music: LIVE CLASSIC HD
-http://91.201.78.3:1935/live/classicshd/playlist.m3u8?wowzasessionid=350623067&publisher=4
-#EXTINF:-1,Music: LIVE DANCE HD
-http://91.201.78.3:1935/live/dancehd/playlist.m3u8?publisher=2
-#EXTINF:-1,Music: LIVE JAZZ HD
-http://91.201.78.3:1935/live/jazzhd/playlist.m3u8?publisher=6
-#EXTINF:-1,Music: LIVE MIX HD
-http://91.201.78.3:1935/live/onehdhd/playlist.m3u8?publisher=5
-#EXTINF:-1,Music: LIVE POP HD
-http://91.201.78.3:1935/live/pophd/playlist.m3u8?publisher=1
-#EXTINF:-1,Music: LIVE ROCK HD
-http://91.201.78.3:1935/live/rockhd/playlist.m3u8?publisher=3
-#EXTINF:-1,Music: Mooz dance MD
-rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozdance?file=mp4:moozdance?token=c4801bfc1a350b9d9e28677352aef4d6/mp4:moozdance
-#EXTINF:-1,Music: Mooz HD MD
-rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozhd?file=mp4:moozhd?token=d1289563c702bb8e1f40e3f7da9456ca/mp4:moozhd
-#EXTINF:-1,Music: Mooz Hits MD
-rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozhits?file=mp4:moozhits?token=4dea5640f78e193c2c8b32179db065fa/mp4:moozhits
-#EXTINF:-1,Music: Mooz Ro MD
-rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozro?file=mp4:moozro?token=83eecd493f1f5a62094bd81067cba725/mp4:moozro
-#EXTINF:-1,Music: Kiss TV MD
-rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:kiss?file=mp4:kiss?token=1db72f90a37ec4d985a486f1c2e0b365/mp4:kiss
-#EXTINF:-1,Music: 1 Music Channl
-http://77.36.61.45:8010/MusicChannel.m3u8
-#EXTINF:-1,Music: 1 Music Channl MD
-rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:musicchannel?file=mp4:musicchannel?token=635a1f98cbe31dd24e8b7407fac20956/mp4:musicchannel
-#EXTINF:-1,Music: Europa TV
-http://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
-#EXTINF:-1,Music: Hit Music MD
-rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:hitmusicch?file=mp4:hitmusicch?token=afdd09ee6f082345161cc453727bba89/mp4:hitmusicch
-#EXTINF:-1,Music: VEVO 1
+#EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 2
+#EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 3
+#EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 4
+#EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 4
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 5
+#EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 5
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 6
+#EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 6
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 7
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 8
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:-1,Music: VEVO 9
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:-1 group-title="EXTRA",BBC 1
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: LIVE CLASSIC HD
+http://91.201.78.3:1935/live/classicshd/playlist.m3u8?wowzasessionid=350623067&publisher=4
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: LIVE DANCE HD
+http://91.201.78.3:1935/live/dancehd/playlist.m3u8?publisher=2
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: LIVE JAZZ HD
+http://91.201.78.3:1935/live/jazzhd/playlist.m3u8?publisher=6
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: LIVE MIX HD
+http://91.201.78.3:1935/live/onehdhd/playlist.m3u8?publisher=5
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: LIVE POP HD
+http://91.201.78.3:1935/live/pophd/playlist.m3u8?publisher=1
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: LIVE ROCK HD
+http://91.201.78.3:1935/live/rockhd/playlist.m3u8?publisher=3
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: Mooz dance MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozdance?file=mp4:moozdance?token=c4801bfc1a350b9d9e28677352aef4d6/mp4:moozdance
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: Mooz HD MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozhd?file=mp4:moozhd?token=d1289563c702bb8e1f40e3f7da9456ca/mp4:moozhd
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: Mooz Hits MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozhits?file=mp4:moozhits?token=4dea5640f78e193c2c8b32179db065fa/mp4:moozhits
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: Mooz Ro MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:moozro?file=mp4:moozro?token=83eecd493f1f5a62094bd81067cba725/mp4:moozro
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: Kiss TV MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:kiss?file=mp4:kiss?token=1db72f90a37ec4d985a486f1c2e0b365/mp4:kiss
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: Music Channl
+http://77.36.61.45:8010/MusicChannel.m3u8
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: 1 Music Channl MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:musicchannel?file=mp4:musicchannel?token=635a1f98cbe31dd24e8b7407fac20956/mp4:musicchannel
+#EXTINF:-1 tvg-id="325" tvg-logo="325",Music: Europa TV
+http://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="324" tvg-logo="324",Music: Hit Music MD
+rtmp://portaltv.best.fsv.me:554/live3/ playpath=mp4:hitmusicch?file=mp4:hitmusicch?token=afdd09ee6f082345161cc453727bba89/mp4:hitmusicch
+#EXTINF:-1 tvg-id="326" tvg-logo="326" group-title="EXTRA",BBC 1
 http://nimlive1.giniko.com/bbcone/bbcone.stream/playlist.m3u8
 #EXTINF:-1,CBC
 rtmp://live.cast-tv.us/stream playpath=z00001.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
@@ -931,60 +987,30 @@ rtmp://live.cast-tv.us/stream playpath=z00001.live swfUrl=http://cast-tv.us/play
 rtmp://live.cast-tv.us/stream playpath=z00002.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,5
 rtmp://live.cast-tv.us/stream playpath=z00004.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
-#EXTINF:-1,SYFY
-rtmp://live.cast-tv.us/stream playpath=z00007.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,MSNBC
 rtmp://live.cast-tv.us/stream playpath=z00006.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
-#EXTINF:-1,Cinemax
-rtmp://live.cast-tv.us/stream playpath=z00014.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
-#EXTINF:-1,Cinemax 2
-rtmp://live.cast-tv.us/stream playpath=z00015.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,17
 rtmp://live.cast-tv.us/stream playpath=z00017.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,C1
 rtmp://live.cast-tv.us/stream playpath=z00021.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
-#EXTINF:-1,MTV
-rtmp://live.cast-tv.us/stream playpath=z00028.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,E
 rtmp://live.cast-tv.us/stream playpath=z00031.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,USA 
 rtmp://live.cast-tv.us/stream playpath=z00010.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=usa live=true timeout=10
-#EXTINF:-1,TNT
-rtmp://live.cast-tv.us/stream playpath=z00008.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=tnt live=true timeout=10
 #EXTINF:-1,TBS
 rtmp://live.cast-tv.us/stream playpath=z00009.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=tbs live=true timeout=10
-#EXTINF:-1,Showtime
-rtmp://live.cast-tv.us/stream playpath=z00013.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=showtime live=true timeout=10
 #EXTINF:-1,PBS
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
 #EXTINF:-1,Investigation Discovery
 http://iphone-streaming.ustream.tv/ustreamVideo/14315001/streams/live/playlist.m3u8
-#EXTINF:-1,HBO
-rtmp://live.cast-tv.us/stream playpath=z00012.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=hbo live=true timeout=10
-#EXTINF:-1,FX
-rtmp://live.cast-tv.us/stream playpath=z00027.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=fx live=true timeout=10
-#EXTINF:-1,FOX
-rtmpe://live.univisionbrazil.com/stream playpath=z00011.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00011 live=true timeout=10
-#EXTINF:-1,Disney
-rtmp://live.cast-tv.us/stream playpath=z00020.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=disney live=true timeout=10
 #EXTINF:-1,Comedy Central 
 rtmp://95.211.168.161/wl/channel/comed136 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=7861121BR&vw=640&vh=480&domain=superusvoxtv.com live=true timeout=10 
 #EXTINF:-1,CBS
 rtmp://live.cast-tv.us/stream playpath=z00003.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=cbs live=true timeout=10
-#EXTINF:-1,Cartoon Network
-http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/manifest.m3u8
-#EXTINF:-1,Animal Planet
-http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
-#EXTINF:-1,Animal Planet
-rtmp://s01.webport.tv/promo/mtv pageURL=http://www.hqtv.biz swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf live=true timeout=10
-#EXTINF:-1,Animal Planet
-http://31.14.180.28:8000/adnet22031
 #EXTINF:-1,AMC 
 rtmp://live.cast-tv.us/stream playpath=z00025.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=amc
 #EXTINF:-1,ABC 
 rtmpe://watch.playfooty.tv/live playpath=abcc10 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=abcc10&vw=670&vh=410 live=true timeout=10
-#EXTINF:-1,C+Family2 
-rtmp://77.81.98.138/lub/ playpath=ffr swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=ffr&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
 #EXTINF:-1,nSport 
 rtmp://77.81.98.130/lub/ playpath=frf swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=frf&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
 #EXTINF:-1,ESP1 
@@ -997,12 +1023,6 @@ rtmp://77.81.98.135/lub/ playpath=encepence swfUrl=http://www.castok.com/jwplaye
 rtmp://77.81.98.130/lub/ playpath=torbacz3 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=torbacz3&vw=630&vh=350&typeplayer=0&domain=goodcast.tv
 #EXTINF:-1,Canal+Sport 
 rtmp://77.81.98.135/lub/ playpath=fvref swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=fvref&vw=630&vh=350&typeplayer=0&domain=goodcast.tv 
-#EXTINF:-1,CANAL+ HD SPAIN
-rtmp://50.7.174.50/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_go.php token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1,CANAL+ HD SPAIN
-rtmp://109.123.114.162/live playpath=carapuerco?id=12013 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,FOX FAMILY MOVIES/FOX
-http://111.223.33.234:55391/1uedls3nuenfpw9undwjfnvs2dd3sowkf-hd/Fox_FamIlY/playlist.m3u8
 #EXTINF:-1,iConcert HD
 http://202.170.127.27:42785/3KgE47dC3d733sb3Igu-THsz/I_Concert_HD/playlist.m3u8
 #EXTINF:-1,GOLF CHANNEL
@@ -1027,10 +1047,6 @@ http://193.232.151.130/hls-live/livepkgr/_1009_/1009/1009-40.m3u8
 http://193.232.151.130/hls-live/livepkgr/_1060_/1060/1060-40.m3u8 
 #EXTINF:-1,NTV + Tennis 
 http://193.232.151.130/hls-live/livepkgr/_1011_/1011/1011-40.m3u8
-#EXTINF:-1,TNT
-http://178.49.132.73/streaming/perec/tnt/playlist.m3u8
-#EXTINF:-1,Disney
-http://178.49.132.73/streaming/disney/tvrec/playlist.m3u8
 #EXTINF:-1,Union
 http://178.49.132.73/streaming/soyuz/tvrec/playlist.m3u8
 #EXTINF:-1,World
@@ -1039,8 +1055,6 @@ http://178.49.132.73/streaming/mir/tvrec/playlist.m3u8
 http://178.49.132.73/streaming/forkids/tvrec/playlist.m3u8
 #EXTINF:-1,Children's World
 http://178.49.132.73/streaming/detskij_mir/tvrec/playlist.m3u8
-#EXTINF:-1,Nickelodeon
-http://178.49.132.73/streaming/nickelodeon/tvrec/playlist.m3u8
 #EXTINF:-1,Tiji
 http://178.49.132.73/streaming/tiji/tvrec/playlist.m3u8
 #EXTINF:-1,JimJam
@@ -1051,24 +1065,10 @@ http://178.49.132.73/streaming/motherchi/tvrec/playlist.m3u8
 http://178.49.132.73/streaming/tlc/tvrec/playlist.m3u8
 #EXTINF:-1,Fashion
 http://178.49.132.73/streaming/fashion/tvrec/playlist.m3u8
-#EXTINF:-1,FoxLife
-http://178.49.132.73/streaming/foxlife/tvrec/playlist.m3u8
 #EXTINF:-1,Diva Universal
 http://178.49.132.73/streaming/diva_universal/tvrec/playlist.m3u8
 #EXTINF:-1,India
 http://178.49.132.73/streaming/indiatv/tvrec/playlist.m3u8
-#EXTINF:-1,Discovery Russia
-http://178.49.132.73/streaming/discovery/tvrec/playlist.m3u8
-#EXTINF:-1,Discovery Word
-http://178.49.132.73/streaming/discoveryworld/tvrec/playlist.m3u8
-#EXTINF:-1,Discovery science
-http://178.49.132.73/streaming/discoveryscience/tvrec/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://178.49.132.73/streaming/animalplanet/tvrec/playlist.m3u8
-#EXTINF:-1,Natgeo
-http://178.49.132.73/streaming/natgeo/tvrec/playlist.m3u8
-#EXTINF:-1,Natgeo Wild
-http://178.49.132.73/streaming/nat_geo_wild/tvrec/playlist.m3u8
 #EXTINF:-1,Viasat Nature
 http://178.49.132.73/streaming/viasat_nature/tvrec/playlist.m3u8
 #EXTINF:-1,Viasat History
@@ -1077,8 +1077,6 @@ http://178.49.132.73/streaming/viasat_history/tvrec/playlist.m3u8
 http://178.49.132.73/streaming/viasat_explorer/tvrec/playlist.m3u8
 #EXTINF:-1,My Planet
 http://178.49.132.73/streaming/my_planet/tvrec/playlist.m3u8
-#EXTINF:-1,Travel & Adventure
-http://178.49.132.73/streaming/traveladventure/tvrec/playlist.m3u8
 #EXTINF:-1,DaVinci
 http://178.49.132.73/streaming/da_vinci/tvrec/playlist.m3u8
 #EXTINF:-1,24 Techno
@@ -1095,8 +1093,6 @@ http://178.49.132.73/streaming/amazing_life/tvrec/playlist.m3u8
 http://178.49.132.73/streaming/365_days/tvrec/playlist.m3u8
 #EXTINF:-1,TV Browse
 http://178.49.132.73/streaming/interesnoe_tv/tvrec/playlist.m3u8
-#EXTINF:-1,Fox
-http://178.49.132.73/streaming/fox/tvrec/playlist.m3u8
 #EXTINF:-1,Set
 http://178.49.132.73/streaming/set/tvrec/playlist.m3u8
 #EXTINF:-1,Sony
@@ -1113,8 +1109,6 @@ http://178.49.132.73/streaming/universal_channel/tvrec/playlist.m3u8
 http://178.49.132.73/streaming/cnn/tvrec/playlist.m3u8
 #EXTINF:-1,Euronews
 http://178.49.132.73/streaming/euronews/tvrec/playlist.m3u8
-#EXTINF:-1,Discovery ID
-http://178.49.132.73/streaming/investigationdiscovery/tvrec/playlist.m3u8
 #EXTINF:-1,Hunting and Fishing
 http://178.49.132.73/streaming/hafi/tvrec/playlist.m3u8
 #EXTINF:-1,Homesteads
@@ -1153,10 +1147,7 @@ rtmp://109.123.114.162/live playpath=carapuerco?id=12013 swfUrl=http://www.ezcas
 rtmp://23.227.165.66/iguide playpath=uqgivhxc58hqdj7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,CANAL+ DCINE
 rtmp://23.92.70.42/iguide playpath=3rlt1uu9s5swpp8 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,Hollywood 
-rtmp://50.7.69.122/edge playpath=jr6a9z19y27abhu swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf41   
-#EXTINF:-1,Paramount Channel
-rtmp://50.7.133.122/iguide playpath=ne5tulphjoqojsa swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
 #EXTINF:-1,Xtrm
 rtmp://50.7.69.234/edge playpath=l886gblcix3g7rt swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf41    
 #EXTINF:-1,Fox HD
@@ -1227,34 +1218,32 @@ http://m24.megafun.vn/live.vs?c=vstv032&q=high
 http://m24.megafun.vn/live.vs?c=vstv041&q=high
 #EXTINF:-1,FOX SPORTS
 http://m24.megafun.vn/live.vs?c=vstv042&q=high
-#EXTINF:-1,HBO
-http://m24.megafun.vn/live.vs?c=vstv013&q=high
-#EXTINF:-1,HBO
-http://m24.megafun.vn/live.vs?c=vstv036&q=high
 #EXTINF:-1,MTV VIET
 http://m24.megafun.vn/live.vs?c=vstv040&q=high
-#EXTINF:-1,STAR MOVIES
-http://m24.megafun.vn/live.vs?c=vstv038&q=high
 #EXTINF:-1,STAR SPORTS
 http://m24.megafun.vn/live.vs?c=vstv033&q=high
 #EXTINF:-1,STAR WORLD
 http://m24.megafun.vn/live.vs?c=vstv039&q=high
-#EXTINF:-1,TCM 
-http://31.14.180.28:8000/adnet22050
-#EXTINF:-1,Animal Planet 
-http://31.14.180.28:8000/adnet22031
-#EXTINF:-1,Discovery Id 
-http://31.14.180.28:8000/adnet22035
-#EXTINF:-1,Discovery Science 
-http://31.14.180.28:8000/adnet22033
-#EXTINF:-1,Discovery World 
-http://31.14.180.28:8000/adnet22034
-#EXTINF:-1,Cartoon Network 
-http://31.14.180.28:8000/adnet22012
-#EXTINF:-1,Music Channel 
-http://77.36.61.45:8010/MusicChannel.m3u8
-#EXTINF:-1,Travel Mix 
-http://31.14.180.28:8000/adnet22076 
+#EXTINF:-1,NOVA RS
+http://178.63.199.70:8007
+#EXTINF:-1,NOVA TV
+http://178.63.199.70:8017
+#EXTINF:-1,OBN
+http://146.255.59.3:8154
+#EXTINF:-1,PINK
+http://178.63.199.70:8004
+#EXTINF:-1,PINK 2
+http://178.63.199.70:8016
+#EXTINF:-1,PINK 3
+http://178.63.199.70:8011
+#EXTINF:-1,PINK BH
+http://178.63.199.70:8002
+#EXTINF:-1,PINK FILM
+http://178.63.199.70:8015
+#EXTINF:-1,PINK PLUS
+http://178.63.199.70:8014
+#EXTINF:-1,PINK REALITY
+http://178.63.199.70:8013
 #EXTINF:-1 tvg-id="R1" tvg-logo="R1" radio="true" group-title="Radio",Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 tvg-id="R2" tvg-logo="R2" radio="true",Altareeq
