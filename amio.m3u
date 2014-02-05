@@ -399,12 +399,6 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassSDp1/ad_37s16.m3u8
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1 tvg-id="185" tvg-logo="185",Sport: ARENASPORT 1
 http://213.202.73.8:1337/
-#EXTINF:-1 tvg-id="185" tvg-logo="185",ARENAVISION 4
-rtmp://23.227.165.2/iguide playpath=u7qanvn6kf0bva1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,BeinÑ
-rtmp://50.7.69.170/direct2watch playpath=vhx96yckmpaxpq5 swfUrl=http://www.direct2watch.com/player/player_embed_iguide.swf live=1 pageUrl=http://www.direct2watch.com/ token=tokelow1
-#EXTINF:-1,BeinÑ Multi
-rtmp://50.7.69.186/direct2watch playpath=m2cw1o5butg9dcr swfUrl=http://www.direct2watch.com/player/player_embed_iguide.swf live=1 pageUrl=http://www.direct2watch.com/ token=tokelow1
 #EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS HD1
 rtmp://31.220.0.133:1935/live playpath=jsc1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc1&vw=620&vh=490
 #EXTINF:-1 tvg-id="187" tvg-logo="187",Sport: BEIN SPORTS HD2
@@ -700,13 +694,9 @@ rtmp://80.82.70.239:443/share/live3-qszlx swfUrl=http://adbuck.cc/player/player2
 #EXTINF:-1 tvg-id="274" tvg-logo="274",Sport: SportTV Live
 rtmp://89.248.162.212:443/share/live4-w04by swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live4-w04by
 #EXTINF:-1 tvg-id="274" tvg-logo="274",PORTUGUESES :SPORT TV 1
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttv1 swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttv1
+rtmp://93.174.93.50/liveedge/ playpath=sporttv1 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/chn.php?ch=sporttv1 –live
 #EXTINF:-1 tvg-id="274" tvg-logo="274",PORTUGUESES :SPORT TV 2
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttv2 swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttv2
-#EXTINF:-1 tvg-id="274" tvg-logo="274",PORTUGUESES :SPORT TV 3
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttv3 swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttv3
-#EXTINF:-1 tvg-id="274" tvg-logo="274",PORTUGUESES :SPORT TV LIVE
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttvlive swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttvlive
+rtmp://93.174.93.50/liveedge/ playpath=sporttv2 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/chn.php?ch=sporttv2 –live
 #EXTINF:-1 tvg-id="275" tvg-logo="275",Sport: TV4 SPORT XTRA HD
 http://tvhdslive-f.akamaihd.net/i/EDCXTRAHDS_1@108871/index_4_av-b.m3u8?
 #EXTINF:-1 tvg-id="276" tvg-logo="276",Sport: Ten Sports
