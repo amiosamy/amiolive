@@ -1053,6 +1053,102 @@ rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_
 rtmp://202.162.77.38/live/ playpath=iSMM.sdp swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=SMMTV
 #EXTINF:-1,MNC
 rtmp://edge.okeinfo.net/live// playpath=mncoke12_256.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=MNC
+#EXTINF:-1 group-title="SPANISH",Canal+HD DeporteS
+rtmp://5.79.72.3/vl/_definst_ playpath=ayquemecaigo swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
+#EXTINF:-1,Canal + 1 Hd
+rtmp://146.185.25.154/live playpath=dadadat?id=12191 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1/1/645/395 conn=S:OK --live
+#EXTINF:-1,Canal + 1 Hd 2
+rtmp://162.251.160.18/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+#EXTINF:-1,Canal + 1 Hd 3
+rtmp://208.53.164.2/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php? token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1,Canal + 1 hd 4
+rtmp://live3.flashstreaming.mobi/live?token=KM9VVKYBnfBkO9EyBU0o7gExpired=1391703973 playpath=plus4 swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=plus4&w=650&h=400 flashVer=WIN11,9,900,170
+#EXTINF:-1,Canal + Accion
+rtmp://46.23.67.68/live playpath=accionhd?id=12146 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,Canal + Accion 2
+rtmp://37.130.228.52/live playpath=accionhd?id=12146 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,Canal + Accion 3
+rtmp://live3.flashstreaming.mobi/live?token=gAytSfHQezcvTzJ7o0pakgExpired=1391704088 playpath=accions swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=accions&w=650&h=400 flashVer=WIN11,9,900,170
+#EXTINF:-1,Xtrm
+rtmp://watch.ilive.to:1935/edge playpath=l886gblcix3g7rt swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=abc109h3
+#EXTINF:-1,Xtrm 2
+rtmp://live.freelivetv.tv/live?token=NqfH37eANtuHjxktU_RzoAExpired=1391704199 playpath=xtremss swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=xtremss&w=650&h=400 flashVer=WIN11,9,900,170
+#EXTINF:-1,Hollywood
+rtmp://watch.ilive.to/edge playpath=jr6a9z19y27abhu swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/  token=abc109h3
+#EXTINF:-1,Hollywood 2
+rtmp://live.freelivetv.tv/live?token=8JLveEspVZgq4ZZb0EfTsAExpired=1391704441 playpath=hollywood11 swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=hollywood11&w=580&h=380 flashVer=WIN11,9,900,170
+#EXTINF:-1,Syfy
+rtmp://live.freelivetv.tv/live?token=W8mGB_sQXuncun9QoNMxcgExpired=1391704343 playpath=sysf33 swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=sysf33&w=650&h=400 flashVer=WIN11,9,900,170
+#EXTINF:-1,Alx Syfy
+rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_alx_nxtv swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/ timeout=10 token=balls2u
+#EXTINF:-1,alXnxtv
+rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_alx_nxtv swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/ timeout=10 token=balls2u
+#EXTINF:-1,Canal + Series
+rtmp://live.freelivetv.tv/live?token=1iSJcTTQN4Zlq7WKkGdZ3gExpired=1391705921 playpath=plusseriess1432934a073efa0de43708506a9d7fe7 swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=plusseriess&w=650&h=400 flashVer=WIN11,9,900,170
+#EXTINF:-1,Gol tv
+rtmp://173.192.209.69/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/goltvucaster/1/650/400 conn=S:OK
+#EXTINF:-1,Gol Tv 2
+rtmp://50.22.223.52/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/goltvucaster/1/650/400 conn=S:OK
+#EXTINF:-1,Gol Tv 3
+rtmp://174.37.222.57/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/goltvucaster/1/650/400 conn=S:OK
+#EXTINF:-1,Gol Tv 4
+rtmp://live.freelivetv.tv/live?token=kytnFtgUYRuOblNLh6UN1QExpired=1391704817 playpath=goltvss swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=goltvss&w=670&h=400 flashVer=WIN11,9,900,170
+#EXTINF:-1,Canal + Liga Ono
+rtmp://50.7.181.34/iguide playpath=x4xacom3nv091wu swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_go.php? token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1,Canal + Liga
+rtmp://live3.flashstreaming.mobi/live?token=XDER29hG8DbsjUaKo0ximwExpired=1391705096 playpath=ligahdss swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=ligahdss&w=670&h=400 flashVer=WIN11,9,900,170
+#EXTINF:-1,Canal + Futbol
+rtmp://109.123.116.154/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/futbolmas/1/650/400 conn=S:OK
+#EXTINF:-1,Canal + Futbol 2
+rtmp://live.freelivetv.tv/live?token=C_naiBXexc4UCENR7Jr1VgExpired=1391705413 playpath=plusfutbolss swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=plusfutbolss&w=670&h=400 flashVer=WIN11,9,900,170
+#EXTINF:-1,Canal + Deporte
+rtmp://208.53.164.66/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php? token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1,Canal + Deporte 2
+rtmp://live.freelivetv.tv/live?token=PpoBxBIXZ2zlona1OwtLUQExpired=1391705655 playpath=plusdeporte swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=plusdeporte&w=650&h=400 flashVer=WIN11,9,900,170
+#EXTINF:-1,Canal + Champions
+rtmp://live.freelivetv.tv/live?token=HzegqqiQIKHqKb1SekdGIAExpired=1391705783 playpath=lcampeone swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=lcampeone&w=650&h=400 flashVer=WIN11,9,900,17
+#EXTINF:-1,Canal + Champions
+rtmp://46.28.53.18/live playpath=caramierda7?id=6256 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1,Dance TV
+rtmp://91.82.85.71:1935/relay10 playpath=dancetv1.sdp swfUrl=http://video72.onstreaming.de/uniplayer/player.swf live=1 pageUrl=http://video72.onstreaming.de/uniplayer/powermedia_inc.php?autostart=true&serveripport=91.82.85.71:1935&livepoint=relay10&streamname=dancetv1.sdp&image=http://www.dancetv.hu/playerbg/1mobil.jpg&logourl=http://www.dancetv.hu/playerlogo/1.swf&logolink=http://www.dancetv.hu/index.html
+#EXTINF:-1,Pink TV Ruso
+rtmp://78.140.209.14/live/ playpath=piktv2pik2tv swfUrl=http://pik-tv.com/uppod.swf live=1 pageUrl=http://pik-tv.com/online/
+#EXTINF:-1,Clubbing tv
+rtmp://204.107.26.252:8086/live/691.high.stream
+#EXTINF:-1,Deluxe DISCO
+rtmp://flash1.ipercast.net/deluxemusic.tv playpath=mp4:staging/120228-disco-deluxe-catchup.mp4.mp4 swfUrl=http://static.staging.deluxemusic.tv.dl1.ipercast.net/theme/deluxemusic.tv/flash/player.swf pageUrl=http://deluxemusic.tv.staging.ipercast.net/?live_playlist_id=26&policy=4c63b58575744&Playlist;********** live=1
+#EXTINF:-1,IBIZA ON TV
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+#EXTINF:-1,GALAXIE DANCE CLASSICS
+rtmp://live61.la3.edge.filmon.com:1935/ app=live/?id=1ad5aac39bb13fbeb74863ba9c14825eb26cda251f98babedd26b78d96f8ce051f38abe6f98c42dd4852a7c0899ad155883c297f79421a79e435fbab78b821c830d91221d8fe774088153a8de81237ef773515b54c7b015f78e0b29875f37667444008fd52e32417b18aae3dc765690424a61867c0ec123edd9e8d0b8a219a74ec7c6b17d92f3674652c11c72c50563df83f9da07ce50e2a pageUrl=https://www.filmon.com/ swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=28 conn=O:1 conn=O:0 playpath=653.high.stream buffer=96000000
+#EXTINF:-1,GALAXIE DANCE CLUBBN'
+rtmp://live61.la3.edge.filmon.com:1935/ app=live/?id=1ad5aac39bb13fbeb74863ba9c14825e0e63d4a7b69cfc95e36f5cb397dff611b1e6765b889a9005ed2fc54caccc38805309fc9a1f53d3a82e16734aedb0490246b73cc6ea70079ca10b233565606c1bab7f180500ed25d9f9b6d0fbd37c55a2d76c3d239c60e2e5b1dfecf91490d7960628dcca0170c9d0b493eed2256dce0c8ac0ec62ce08eb20bb3a77ad9a656274108a82860433eec8 pageUrl=https://www.filmon.com/ swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=28 conn=O:1 conn=O:0 playpath=617.high.stream buffer=96000000
+#EXTINF:-1,Kiss Tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf live=1 pageUrl=http://www.kisstelevision.es/
+#EXTINF:-1,Maxima Fm
+http://5293.live.streamtheworld.com/MAXIMAFMAAC?&uuid=1513DB00-0000-0001-BEE2-148075A0A900
+#EXTINF:-1,La Fresca Fm
+http://www.solucionesradios.com:9050/;stream.nsv
+#EXTINF:-1,NRJ Dance
+http://95.81.146.7/3757/nrj_3757.mp3?type=.flv&amsparams=playerid:WebPlayer+5.0;skey:1389974384
+#EXTINF:-1,MDT Radio
+http://srv3021.lcinternet.com:8002/stream
+#EXTINF:-1,Dance 1
+http://streaming207.radionomy.com/Dance-1?group=158&countrycode=ES&similarprocess=0&crashed=0&ad=radionoweb
+#EXTINF:-1,Dance 90
+http://streaming205.radionomy.com/Dance90?group=158&countrycode=ES&similarprocess=0&crashed=0&ad=radionoweb --live
+#EXTINF:-1,Holiday Gym
+http://prositel1.com:9001/holidaygym
+#EXTINF:-1,Hotmixradio 80´S
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+#EXTINF:-1,ALX SYfy VLC
+http://edge3.video.vaughnsoft.net:443/live/live_alx_nxtv/playlist.m3u8
+#EXTINF:-1,Sky Soprt
+http://bit.do/SKY-SPORTS-TV-vlc-eu-pn
+#EXTINF:-1,Bt Sport VLC
+http://80.7.137.85:8001/1:0:1:C4BD:819:2:11A0000:0:0:0:
+#EXTINF:-1,Fox Sport Central VLC
+http://edge1.video.vaughnsoft.net:443/live/live_ch0chera /playlist.m3u8
 #EXTINF:-1,CANAL+ LIGA
 rtmp://50.7.133.90/iguide playpath=x4xacom3nv091wu swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve
 #EXTINF:-1,CANAL+ LIGA
@@ -1169,8 +1265,66 @@ http://217.115.145.185:1935/live/alexlivetv.smil/chunklist_w473279836_b1000000.m
 http://154.51.134.20:1935/vod361/_definst_/mp4:361/2013/06/18/1248727_1371549902.mp4/stml.m3u8
 #EXTINF:-1,NAPOLÝ TV
 http://154.51.134.20:1935/vod359/_definst_/mp4:359/2013/06/20/1249069_1371723542.mp4/stml.m3u8
-#EXTINF:-1,Canal+HD DeporteS
-rtmp://5.79.72.3/vl/_definst_ playpath=ayquemecaigo swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
+#EXTINF:-1 group-title="PORTUGUESES",SPORT TV 1
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttv1 swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttv1
+#EXTINF:-1,SPORT TV 2
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttv2 swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttv2
+#EXTINF:-1,SPORT TV 3
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttv3 swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttv3
+#EXTINF:-1,SPORT TV LIVE
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttvlive swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttvlive
+#EXTINF:-1,BENFICA TV
+rtmp://live.2caster.com/live playpath=btv3 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.xuuby.com/
+#EXTINF:-1,BENFICA TV 2
+rtmp://watch.ilive.to/edge playpath=67o0whf5rt6jiet swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=abc109h3
+#EXTINF:-1,EUROSPORT
+rtmp://50.7.69.138/edge playpath=yo8fwgz5fs1e45k swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=abc109h3
+#EXTINF:-1,SPORT TV 1
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttv1 swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttv1
+#EXTINF:-1,SPORT TV 2
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttv2 swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttv2
+#EXTINF:-1,SPORT TV 3
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttv3 swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttv3
+#EXTINF:-1,SPORT TV LIVE
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sporttvlive swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sporttvlive
+#EXTINF:-1,AXN
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axn swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axn
+#EXTINF:-1,AXN BLACK
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnblack swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnblack
+#EXTINF:-1,AXN WHITE
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnwhite swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnwhite
+#EXTINF:-1,FOX
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=fox swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&fox
+#EXTINF:-1,FOX MOVIES
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxmovies swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxmovies
+#EXTINF:-1,FOX CRIME
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxcrime swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxcrime
+#EXTINF:-1,FOX LIFE
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxlife swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxlife
+#EXTINF:-1,HOLLYWOOD
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=hollywood swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&hollywood
+#EXTINF:-1,MOV
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=mov swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&mov
+#EXTINF:-1,PANDA
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=panda swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&panda
+#EXTINF:-1,DISCOVERY CHANNEL
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=discovery swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&dicovery
+#EXTINF:-1,SYFY
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=syfy swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&syfy
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=national swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&national
+#EXTINF:-1,ODISSEIA
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=odisseia swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&odisseia
+#EXTINF:-1,HISTORIA
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=historia swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&historia
+#EXTINF:-1,VH1
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=vh1 swfUrl=http://www.tvzune.com/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&vh1
+#EXTINF:-1,MTV
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=mtv swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&mtv
+#EXTINF:-1,PORTO CANAL
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=porto swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&porto
+#EXTINF:-1,MOTORS TV
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=motorstv swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&motors
 #EXTINF:-1 tvg-id="R1" tvg-logo="R1" radio="true" group-title="Radio",Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 tvg-id="R2" tvg-logo="R2" radio="true",Altareeq
