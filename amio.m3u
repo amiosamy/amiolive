@@ -10,7 +10,7 @@ rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=Liv
 #EXTINF:-1 tvg-id="004" tvg-logo="004",Christian: Alfady TV
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1 tvg-id="005" tvg-logo="005",Christian: Al Hayat
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p
 #EXTINF:-1 tvg-id="006" tvg-logo="006",Christian: Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="007" tvg-logo="007",Christian: Alkarma TV US
@@ -193,6 +193,8 @@ http://bglive-a.bitgravity.com/twit/live/high
 rtmp://tdsiptv.ddns.me/live playpath=ch84?code=w_c6dc662787ec306 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-89-3-4-AlMasria.html
 #EXTINF:-1 tvg-id="088" tvg-logo="088",Arabic: AlMasria PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlMasriyah_Med&port=2077&mode=3&user=&session=cdf425e6906a3bc6e03042f5191977f8dabaca6304514687fcc318f53da8bb65
+#EXTINF:-1 tvg-id="088" tvg-logo="088",Arabic: Alola
+http://4.31.30.145:9084
 #EXTINF:-1 tvg-id="090" tvg-logo="090",Arabic: AlThania
 rtmp://tdsiptv.ddns.me/live playpath=ch89?code=w_c6dc662787ec306 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-94-3-4-AlThania.html
 #EXTINF:-1 tvg-id="090" tvg-logo="090",Arabic: AlThania PC Only
@@ -223,6 +225,8 @@ rtmp://tdsiptv.ddns.me/live playpath=ch79?code=w_c6dc662787ec306 swfUrl=http://w
 rtmp://tdsiptv.ddns.me/live playpath=ch96?code=w_c6dc662787ec306 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-101-3-4-AlHayat.html
 #EXTINF:-1 tvg-id="103" tvg-logo="103",Arabic: Alhayat Cinema
 rtmp://tdsiptv.ddns.me/live playpath=ch97?code=w_c6dc662787ec306 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-102-3-4-AlHayatCinema.html
+#EXTINF:-1 tvg-id="103" tvg-logo="103",Arabic: Alhayat Cinema
+http://4.31.30.145:9067
 #EXTINF:-1 tvg-id="104" tvg-logo="104",Arabic: Alhayat Series
 rtmp://tdsiptv.ddns.me/live playpath=ch21?code=w_1240300b12a6b20 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-22-2-7-HayatSeries.html
 #EXTINF:-1 tvg-id="103" tvg-logo="103",Arabic: Alhayat Cinema PC Only
@@ -314,25 +318,25 @@ rtmp://tdsiptv.ddns.me/live playpath=ch127?code=w_37a424df3f534f5 swfUrl=http://
 #EXTINF:-1 tvg-id="145" tvg-logo="145",Arabic: Melody
 rtmp://tdsiptv.ddns.me/live playpath=ch147?code=w_37a424df3f534f5 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-152-3-4-Melody.html
 #EXTINF:-1 tvg-id="145" tvg-logo="145",Arabic: Melody Aflam 
-rtmp://38.96.148.206/Melody playpath=MAflamWeb swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/1 live=1 timeout=15
+rtmp://38.96.148.206/Melody/MAflamWeb
 #EXTINF:-1 tvg-id="145" tvg-logo="145",Arabic: Melody Aflam(Alternative Source)
 rtmp://38.96.148.24/MelodyAflam playpath=MAflam_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/1 live=1 timeout=15
 #EXTINF:-1 tvg-id="145" tvg-logo="145",Arabic: Melody Aflam(Alternative Source)
 rtmp://tdsiptv.ddns.me/live playpath=ch130?code=w_37a424df3f534f5  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf  pageUrl=http://www.livetv.tn/tv-135-3-4-MelodyAflem.html
 #EXTINF:-1 tvg-id="147" tvg-logo="147",Arabic: Melody Drama
-rtmp://38.96.148.206/Melody playpath=MDramaWeb swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/17 live=1 timeout=15
+rtmp://38.96.148.206/Melody/MDramaWeb
 #EXTINF:-1 tvg-id="147" tvg-logo="147",Arabic: Melody Drama (Alternative Source)
 http://38.96.148.24/MelodyDrama/MDrama_576p/playlist.m3u8
 #EXTINF:-1 tvg-id="149" tvg-logo="149",Arabic: Melody Classic
-rtmp://38.96.148.206/Melody playpath=MClassicWeb swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/25 live=1 timeout=15
+rtmp://38.96.148.206/Melody/MClassicWeb
 #EXTINF:-1 tvg-id="149" tvg-logo="149",Arabic: Melody Classic (Alternative Source)
 rtmp://38.96.148.24/MelodyClassic playpath=MClassic_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://www.melody.net/halilou.com live=1 timeout=15
 #EXTINF:-1 tvg-id="151" tvg-logo="151",Arabic: Melody Hits
-rtmp://38.96.148.206/Melody playpath=MHitsWeb swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/18 live=1 timeout=15
+rtmp://38.96.148.206/Melody/MHitsWeb
 #EXTINF:-1 tvg-id="151" tvg-logo="151",Arabic: Melody Hits (Alternative Source)
 rtmp://38.96.148.24/MelodyHits/MHits_576p
 #EXTINF:-1 tvg-id="153" tvg-logo="153",Arabic: Melody Arabia
-rtmp://38.96.148.206/Melody playpath=MArabiaWeb swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/24 live=1 timeout=15
+rtmp://38.96.148.206/Melody/MArabiaWeb
 #EXTINF:-1 tvg-id="153" tvg-logo="153",Arabic: Melody Arabia (Alternative Souce)
 rtmp://38.96.148.24/MelodyArabia playpath=MArabia_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/24 live=1 timeout=15
 #EXTINF:-1 tvg-id="155" tvg-logo="155",Arabic: Moga Comedy
@@ -385,6 +389,8 @@ http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=2077&mode=3&user=&session=53ee58da44ab17db6801311bafbe1ba85ec7d48d52d8a31945d22a60a4b8d633
 #EXTINF:-1 tvg-id="174" tvg-logo="174",Arabic: Panorama Action
 rtmp://tdsiptv.ddns.me/live playpath=ch142?code=w_0f8985c1ecbd254 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-147-3-4-Panorama.html
+#EXTINF:-1 tvg-id="174" tvg-logo="174",Arabic: Panaroma Film
+http://4.31.30.145:9075
 #EXTINF:-1 tvg-id="175" tvg-logo="175",Arabic: ROTANA CLIP
 rtmp://tdsiptv.ddns.me/live playpath=ch135?code=w_0f8985c1ecbd254 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-140-3-4-RotanaClip.html
 #EXTINF:-1 tvg-id="176" tvg-logo="176",Arabic: ROTANA MUSIC
@@ -403,6 +409,8 @@ rtmp://tdsiptv.ddns.me/live playpath=ch141?code=w_1240300b12a6b20 swfUrl=http://
 rtmp://tdsiptv.ddns.me/live playpath=ch102?code=w_1240300b12a6b20 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-107-3-4-TopMovies.html
 #EXTINF:-1 tvg-id="181" tvg-logo="181",Arabic: Time Comedy
 rtmp://tdsiptv.ddns.me/live playpath=ch47?code=w_1240300b12a6b20 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-48-2-7-TimeComedy.html
+#EXTINF:-1 tvg-id="181" tvg-logo="181",Arabic: TIME CINEMA
+http://4.31.30.145:9062
 #EXTINF:-1 tvg-id="181" tvg-logo="181",Arabic: Zee Aflam
 rtmp://tdsiptv.ddns.me/live playpath=ch74?code=w_1240300b12a6b20  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-75-3-4-ZeeAflem.html
 #EXTINF:-1 tvg-id="182" tvg-logo="182" group-title="Sport",Sport: ALAHLY PC Only
@@ -816,7 +824,7 @@ rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=disney swfUrl=http://www.tv
 #EXTINF:-1 tvg-id="299" tvg-logo="299",Kids: Disney
 rtmp://live.cast-tv.us/stream playpath=z00020.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=disney live=true timeout=10
 #EXTINF:-1 tvg-id="299" tvg-logo="299",Kids: Disney
-http://178.49.132.73/streaming/disney/tvrec/playlist.m3u8
+http://202.76.72.141:30080/Entry/8124?m3u8
 #EXTINF:-1 tvg-id="300" tvg-logo="300",Kids: NICKELODEON
 rtmp://206.190.140.36/live playpath=nick10?id=1984 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
 #EXTINF:-1 tvg-id="300" tvg-logo="300",Kids: NICKELODEON
@@ -826,7 +834,7 @@ rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=panda swfUrl=http://www.tvz
 #EXTINF:-1 tvg-id="318" tvg-logo="318" group-title="Movies",Movies: AXN
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axn swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axn
 #EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN
-rtmp://208.53.164.18/iguide playpath=hivbxdufq2bgmn4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+http://202.76.72.141:30080/Entry/8138?m3u8
 #EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN BLACK
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnblack swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnblack
 #EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN WHITE
@@ -875,6 +883,8 @@ rtmp://23.227.167.10/iguide playpath=enxqlk26tnzfbly swfUrl=http://www.iguide.to
 rtmp://live.cast-tv.us/stream playpath=z00027.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=fx live=true timeout=10
 #EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO
 rtmp://live.cast-tv.us/stream playpath=z00012.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=hbo live=true timeout=10
+#EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO
+http://205.196.209.208:55008
 #EXTINF:-1 tvg-id="314" tvg-logo="314",Movies: HOLLYWOOD
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=hollywood swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&hollywood
 #EXTINF:-1 tvg-id="321" tvg-logo="321",Movies: MOV
@@ -931,6 +941,8 @@ rtmp://94.242.221.176:1937/live/ playpath=stream80 swfUrl=http://www.portaltv.ro
 rtmp://94.242.221.176:1937/live/ playpath=stream153 swfUrl=http://www.portaltv.ro/jw6/jwplayer.flash.swf live=1
 #EXTINF:-1 tvg-id="322" tvg-logo="322",Music: MTV
 rtmp://live.cast-tv.us/stream playpath=z00028.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1 tvg-id="322" tvg-logo="322",Music: MTV
+http://202.76.72.141:30080/Entry/8087?m3u8
 #EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 #EXTINF:-1 tvg-id="323" tvg-logo="323",Music: VEVO 2
@@ -1267,6 +1279,66 @@ rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=mtv swfUrl=http://www.tvzun
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=porto swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&porto
 #EXTINF:-1,MOTORS TV
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=motorstv swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&motors
+#EXTINF:-1 group-title="BOX",Bbox Actu Tv
+mmsh://wm.live.tv-radio.com/bouygues/all/channel11.wmv
+#EXTINF:-1,Docubox
+http://spi-live.ercdn.net/spi/docuboxhd_0_1/chunklist.m3u8
+#EXTINF:-1,Fast And Fun
+http://spi-live.ercdn.net/spi/fastnfunhd_0_1/chunklist.m3u8
+#EXTINF:-1,Fightbox
+http://spi-live.ercdn.net/spi/fightboxhd_0_1/chunklist.m3u8
+#EXTINF:-1,Fashionbox
+http://spi-live.ercdn.net/spi/fashionboxhd_0_1/chunklist.m3u8
+#EXTINF:-1,Filmbox Extra
+http://spi-live.ercdn.net/spi/_definst_/smil:filmboxextrasd_pl_0.smil/chunklist_b400000.m3u8
+#EXTINF:-1,360 Tunebox HD
+http://spi-live.ercdn.net:80/spi/360tuneboxhd_0_1/playlist.m3u8
+#EXTINF:-1,Fbart House HD
+http://spi-live.ercdn.net:80/spi/fbarthousehd_0_1/playlist.m3u8
+#EXTINF:-1,Filmox ArtHouse
+http://spi-live.ercdn.net:80/spi/fbarthousehd_0_1/playlist.m3u8
+#EXTINF:-1,Filmbox Basic SD
+http://spi-live.ercdn.net:80/spi/filmboxbasicsd_pl_0_1/playlist.m3u8
+#EXTINF:-1,Filmbox Extra SD
+http://spi-live.ercdn.net:80/spi/filmboxextrasd_pl_0_1/playlist.m3u8
+#EXTINF:-1,Filmbox Extra1 SD
+http://spi-live.ercdn.net:80/spi/filmboxextra1sd_czhurosd_0_1/playlist.m3u8
+#EXTINF:-1,Filmbox Plus SD
+http://spi-live.ercdn.net:80/spi/filmboxplussd_hu_0_1/playlist.m3u8
+#EXTINF:-1,Filmbox Family SD
+http://spi-live.ercdn.net:80/spi/filmboxfamilysd_plczhuro_0_1/playlist.m3u8
+#EXTINF:-1 group-title="Indian",Ten HD
+http://202.76.72.141:30080/Entry/8100?m3u8
+#EXTINF:-1,ZEE ANMOL
+http://202.76.72.141:30080/Entry/8101?m3u8
+#EXTINF:-1,Life OK
+http://202.76.72.141:30080/Entry/8102?m3u8
+#EXTINF:-1,Neo Prime
+http://202.76.72.141:30080/Entry/8105?m3u8
+#EXTINF:-1,Pogo
+http://202.76.72.141:30080/Entry/8109?m3u8
+#EXTINF:-1,Geo Super
+http://202.76.72.141:30080/Entry/8112?m3u8
+#EXTINF:-1,Star Sports 1
+http://202.76.72.141:30080/Entry/8113?m3u8
+#EXTINF:-1,DD NTIONAL
+http://202.76.72.141:30080/Entry/8114?m3u8
+#EXTINF:-1,Sony TV
+http://202.76.72.141:30080/Entry/8117?m3u8
+#EXTINF:-1,Hum TV
+http://202.76.72.141:30080/Entry/8118?m3u8
+#EXTINF:-1,Zee TV
+http://202.76.72.141:30080/Entry/8119?m3u8
+#EXTINF:-1,Zee Cinema
+http://202.76.72.141:30080/Entry/8120?m3u8
+#EXTINF:-1,Star Movies HD
+http://202.76.72.141:30080/Entry/8130?m3u8
+#EXTINF:-1,BBC News
+http://202.76.72.141:30080/Entry/8133?m3u8
+#EXTINF:-1,ABP News
+http://202.76.72.141:30080/Entry/8086?m3u8
+#EXTINF:-1,MH ONE
+http://202.76.72.141:30080/Entry/8099?m3u8
 #EXTINF:-1 tvg-id="R1" tvg-logo="R1" radio="true" group-title="Radio",Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 tvg-id="R2" tvg-logo="R2" radio="true",Altareeq
