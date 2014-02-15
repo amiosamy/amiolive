@@ -246,6 +246,16 @@ http://localhost:4500/channel.flv?server=38.99.146.69&channel=Tahrir_Med&port=20
 rtmp://tdsiptv.ddns.me/live playpath=ch40?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-41-2-7-ARTAflem1.html
 #EXTINF:-1 tvg-id="094" tvg-logo="094",Arabic: ART Aflam 2
 rtmp://tdsiptv.ddns.me/live playpath=ch41?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-42-2-7-ARTAflem2.html
+#EXTINF:-1 tvg-id="093" tvg-logo="093",Arabic: ART Cinema
+http://50957244:54@50.7.158.82:9903
+#EXTINF:-1 tvg-id="093" tvg-logo="093",Arabic: ART Haykyat
+http://50957244:54@50.7.158.82:9905
+#EXTINF:-1 tvg-id="093" tvg-logo="093",Arabic: ART Haykyat 2
+http://50957244:54@50.7.158.82:9908
+#EXTINF:-1 tvg-id="093" tvg-logo="093",Arabic: ART Aflam 2
+http://50957244:54@50.7.158.82:9906
+#EXTINF:-1 tvg-id="093" tvg-logo="093",Arabic: ART Haykyat 3
+http://50957244:54@50.7.158.82:9905
 #EXTINF:-1 tvg-id="095" tvg-logo="095",Arabic: Al Nahar
 rtmp://50.7.180.18/nahar1 playpath=nahar1.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
 #EXTINF:-1 tvg-id="096" tvg-logo="096",Arabic: Al Nahar +2
@@ -255,7 +265,7 @@ rtmp://50.7.180.18/nahar1 playpath=alnahardrama.stream_480p swfUrl=http://demos.
 #EXTINF:-1 tvg-id="098" tvg-logo="098",Arabic: Al Nahar Drama (Alternative Source)
 rtmp://tdsiptv.ddns.me/live playpath=ch59?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-60-2-7-AlNaharDrama.html
 #EXTINF:-1 tvg-id="099" tvg-logo="099",Arabic: Abu Dhabi TV1
-rtmp://tdsiptv.ddns.me/live playpath=ch80?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-85-3-4-AbuDhabi.html
+http://50957244:54@50.7.158.82:9911
 #EXTINF:-1 tvg-id="099" tvg-logo="099",Arabic: Abu Dhabi TV1 PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=ADAlOula_Med&port=2077&mode=3&user=&session=bada2f0e677ab24a744b938fc659e07848502155bf191ff12f65a94d914839bc
 #EXTINF:-1 tvg-id="100" tvg-logo="100",Arabic: Abu Dhabi Drama
@@ -338,6 +348,8 @@ rtmp://livestreaming4.onlinehorizons.net/MehwarTVDRAMA playpath=livestream swfUr
 rtmp://tdsiptv.ddns.me/live playpath=ch30?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-31-2-7-MBC1.html
 #EXTINF:-1 tvg-id="134" tvg-logo="134",Arabic: MBC
 http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-id="134" tvg-logo="134",Arabic: MBC
+http://50957244:54@50.7.158.82:9918
 #EXTINF:-1 tvg-id="136" tvg-logo="136",Arabic: MBC 2
 rtmp://tdsiptv.ddns.me/live playpath=ch31?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-32-2-7-MBC2.html
 #EXTINF:-1 tvg-id="137" tvg-logo="137",Arabic: MBC 3
@@ -346,8 +358,12 @@ rtmp://tdsiptv.ddns.me/live playpath=ch32?code=w_fde6e590a2c6f4d swfUrl=http://w
 rtmp://tdsiptv.ddns.me/live playpath=ch33?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-34-2-7-MBC4.html
 #EXTINF:-1 tvg-id="139" tvg-logo="139",Arabic: MBC Action
 rtmp://tdsiptv.ddns.me/live playpath=ch34?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-35-2-7-MBCAction.html
+#EXTINF:-1 tvg-id="139" tvg-logo="139",Arabic: MBC Action
+http://50957244:54@50.7.158.82:9907
 #EXTINF:-1 tvg-id="140" tvg-logo="140",Arabic: MBC Drama
 rtmp://tdsiptv.ddns.me/live playpath=ch36?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-37-2-7-MBCDrama.html
+#EXTINF:-1 tvg-id="140" tvg-logo="140",Arabic: MBC Drama
+http://50957244:54@50.7.158.82:9900
 #EXTINF:-1 tvg-id="141" tvg-logo="141",Arabic: MBC Masr
 rtmp://tdsiptv.ddns.me/live playpath=ch37?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-38-2-7-MBCMasr.html
 #EXTINF:-1 tvg-id="142" tvg-logo="142",Arabic: MBC Max
@@ -566,6 +582,16 @@ rtmpe://93.120.27.84/live playpath=jsc08 swfUrl=http://www.dcast.tv/player/playe
 rtmpe://93.120.27.84/live playpath=jsc09 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
 #EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 12HQ 
 rtmpe://93.120.27.84/live playpath=jsc10 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
+#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: bein-SPORT1
+http://50957244:54@50.7.158.82:9912
+#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: bein-SPORT2
+http://50957244:54@50.7.158.82:9913
+#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: bein-SPORT3
+http://50957244:54@50.7.158.82:9914
+#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: bein-SPORT4
+http://50957244:54@50.7.158.82:9915
+#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: bein-SPORT5
+http://50957244:54@50.7.158.82:9916
 #EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1
 rtmpe://play.finecast.tv/live/hqbt1 pageUrl=http://www.finecast.tv/
 #EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1
@@ -573,11 +599,13 @@ rtmp://31.220.0.104:1935/live playpath=bt1 swfUrl=ttp://www.eucast.tv/player5.9.
 #EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1
 rtmpe://46.246.124.23:1935/redirect playpath=ban6 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1
-rtmpe://46.246.124.14:1935/redirect playpath=BT1HD swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+rtmpe://46.246.124.23:1935/redirect/BT1HD pageurl=http://hdcast.org
 #EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT SPORT 1
 rtmp://31.220.0.82:1935/live playpath=c12 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
-#EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1
-rtmp://77.81.98.133/pub/ playpath=pa1 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=pa1&vw=600&vh=450&typeplayer=0&domain=hdembed.com
+#EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1 Pogo
+rtmp://77.81.98.134/tv/ playpath=bt1h28qn?v=0cb1717fbb62da783c7059d77daa80b1 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=bt1&vw=600&vh=450&typeplayer=0&domain=hdembed.com
+#EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 2 Pogo
+rtmp://77.81.98.132/tv/ playpath=bt2eduxc?v=c74e826da5f15e2063a7fe61fa18f1c2 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=bt1&vw=600&vh=450&typeplayer=0&domain=hdembed.com
 #EXTINF:-1 tvg-id="232" tvg-logo="232",Sport: BT Sport 2
 rtmp://31.220.0.133:1935/live playpath=bt2s swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490
 #EXTINF:-1 tvg-id="232" tvg-logo="232",Sport: BT Sport 2
@@ -586,6 +614,8 @@ rtmpe://46.246.124.23:1935/redirect playpath=ban7 swfUrl=http://www.udemy.com/st
 rtmp://37.220.32.44:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH
 #EXTINF:-1 tvg-id="232" tvg-logo="232",Sport: BT Sport 2
 rtmpe://play.finecast.tv/live/hqbt2 pageUrl=http://www.finecast.tv/
+#EXTINF:-1 tvg-id="232" tvg-logo="232",Sport: BT Sport 2
+rtmpe://46.246.124.23:1935/redirect/BT2HD pageurl=http://hdcast.org/
 #EXTINF:-1 tvg-id="235" tvg-logo="235",Sport: Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
 #EXTINF:-1,C More Live 4
@@ -785,13 +815,17 @@ rtmp://37.220.32.43:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20
 #EXTINF:-1 tvg-id="264" tvg-logo="264",Sport: Sky Sports 4
 rtmp://37.220.32.53:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1ratus pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 tvg-id="261" tvg-logo="261",SKY SPORTS 1
-rtmp://77.81.98.138/live/1141123111m52dk pageUrl=http://www.9flash.tv/
+rtmpe://46.246.124.23:1935/redirect/janu1 pageurl=http://hdcast.org/
 #EXTINF:-1 tvg-id="262" tvg-logo="262",SKY SPORTS 2
-rtmpe://89.248.170.198:443/liveedge1/sfdasdfa189 pageUrl=http://srvadsense.com/
+rtmpe://46.246.124.23:1935/redirect/janu2 pageurl=http://hdcast.org/
 #EXTINF:-1 tvg-id="263" tvg-logo="263",SKY SPORTS 3
-rtmp://77.81.98.138/live/12341231111hk80r pageUrl=http://www.9flash.tv/
+rtmpe://46.246.124.23:1935/redirect/janu3 pageurl=http://hdcast.org/
 #EXTINF:-1 tvg-id="264" tvg-logo="264",SKY SPORTS 4
-rtmp://77.81.98.136/lub/aky1pah pageUrl=http://www.castok.com/
+rtmpe://46.246.124.23:1935/redirect/janu4 pageurl=http://hdcast.org/
+#EXTINF:-1 tvg-id="265" tvg-logo="265",Sport: Sky Sports News
+rtmpe://46.246.124.23:1935/redirect/janu5 pageurl=http://hdcast.org/
+#EXTINF:-1 tvg-id="266" tvg-logo="266",Sport: SKY F1
+rtmpe://46.246.124.23:1935/redirect/janu1 pageurl=http://hdcast.org/
 #EXTINF:-1 tvg-id="261" tvg-logo="261",SKY SPORTS 1
 rtmpe://46.246.124.23:1935/redirect playpath=ban1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1 tvg-id="262" tvg-logo="262",SKY SPORTS 2
@@ -804,10 +838,12 @@ rtmpe://46.246.124.23:1935/redirect playpath=ban4 swfUrl=http://www.udemy.com/st
 rtmpe://46.246.124.23:1935/redirect playpath=ban20 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1 tvg-id="266" tvg-logo="266",Sport: SKY F1
 rtmpe://46.246.124.23:1935/redirect playpath=ban5 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="261" tvg-logo="261",SKY SPORTS 1
-rtmp://77.81.98.138/pub/ playpath=yoo1 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=yoo1&vw=600&vh=450&typeplayer=0&domain=hdembed.com
+#EXTINF:-1 tvg-id="261" tvg-logo="261",SKY SPORTS 1 Pogo
+rtmp://77.81.98.138/tv/ playpath=sky1y46jj?v=fe74ee3f42f4d581b22b1443d4ef40d1 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=sky1&vw=600&vh=450&typeplayer=0&domain=hdembed.com
 #EXTINF:-1 tvg-id="262" tvg-logo="262",SKY SPORTS 2
-rtmpe://93.120.27.58/live playpath=hq22 swfUrl=http://ukcast.tv/player//player.swf live=1 pageUrl=http://www.ukcast.tv/
+rtmp://77.81.98.137/tv/ playpath=sky22wla9?v=a387073266db2b09a1b4ac2aeee4e3b0 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=sky2&vw=600&vh=450&typeplayer=0&domain=hdembed.com
+#EXTINF:-1 tvg-id="263" tvg-logo="263",SKY SPORTS 3
+rtmp://77.81.98.132/tv/ playpath=sky3rnl70?v=c4f2b5521e6bd638b02f501b886a08c9 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=sky3&vw=600&vh=450&typeplayer=0&domain=hdembed.com
 #EXTINF:-1 tvg-id="266" tvg-logo="266",Sport: SKY F1
 rtmp://31.220.0.133:1935/live playpath=ss1111 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
 #EXTINF:-1 tvg-id="267" tvg-logo="267",Sport: SKY Calcio HD
