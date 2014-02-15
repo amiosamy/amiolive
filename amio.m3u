@@ -989,7 +989,7 @@ rtmp://tdsiptv.ddns.me/live playpath=ch52?code=w_fde6e590a2c6f4d swfUrl=http://w
 #EXTINF:-1 tvg-id="284" tvg-logo="284",Documentary: Al Jazeera Docu (Alternative Source)
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player/player.swf?274354545150&arabichannels.com&copyright=2013&provider=rtmp&streamer=rtmp://arabichannels.com pageUrl=http://arabichannels.com/aljazeera_doc.php live=1 timeout=15 swfVfy=1 conn=S:OK
 #EXTINF:-1 tvg-id="285" tvg-logo="285",Documentary: ANIMAL PLANET HD
-rtmp://s01.webport.tv/promo/mtv live=2
+rtsp://173.193.20.150:1935/mtv/30/
 #EXTINF:-1 tvg-id="285" tvg-logo="285",Documentary: ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="285" tvg-logo="285",Documentary: ANIMAL PLANET HD
@@ -1019,6 +1019,24 @@ http://m24.megafun.vn/live.vs?c=vstv044&q=high
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel
 rtmp://27.254.84.3:1935/live/rdddis.stream
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel
+rtsp://173.193.20.150:1935/mtv/master04
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Turbo
+rtsp://173.193.20.150:1935/mtv/92
+#EXTINF:-1,DISCOVERY TURBO HD
+rtsp://173.193.20.150:1935/mtv/92hd
+#EXTINF:-1,Discovery Science
+rtsp://173.193.20.136:1935/mtv/130
+#EXTINF:-1,Discovery Science HD
+rtsp://173.193.20.136:1935/mtv/130hd
+#EXTINF:-1,DISC. SCIENCE
+http://212.33.237.113:8047/
+#EXTINF:-1,Discovery Civilization
+rtsp://173.193.20.150:1935/mtv/109
+#EXTINF:-1,Discovery HD Theater
+rtsp://173.193.20.136:1935/mtv/discohd
+#EXTINF:-1,Discovery ID
+rtsp://173.193.20.150:1935/mtv/105
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel
 rtmp://watch.ilive.to/edge playpath=53yj0tcxzl4cqey swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=abc109h34 
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery MAX
 rtmp://50.7.133.146/iguide playpath=z49otzfw6ta3jn2 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
@@ -1044,6 +1062,8 @@ rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=national swfUrl=http://www.
 http://178.49.132.73/streaming/natgeo/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="290" tvg-logo="290",Documentary: Natgeo Wild
 http://178.49.132.73/streaming/nat_geo_wild/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="290" tvg-logo="290",Documentary: Natgeo Wild
+rtsp://173.193.20.150:1935/mtv/animal
 #EXTINF:-1 tvg-id="290" tvg-logo="290",Documentary: National Geographic
 rtmp://50.7.133.154/iguide playpath=durxqupub2pshej swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1 tvg-id="291" tvg-logo="291",Documentary: NATURE (eng)
@@ -1152,6 +1172,8 @@ rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnwhite swfUrl=http://www.
 rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chabcfamily/2008/08/18/be099cc9-897f-4c0a-bd7f-da4393e4530d
 #EXTINF:-1 tvg-id="302" tvg-logo="302",Movies: CINEMAX
 rtsp://173.193.20.150:1935/mtv/53
+#EXTINF:-1 tvg-id="302" tvg-logo="302",Movies: CINEMAX
+http://m24.megafun.vn/live.vs?c=vstv037&q=high
 #EXTINF:-1 tvg-id="302" tvg-logo="302",Movies: CINEMAX
 rtmp://live.cast-tv.us/stream playpath=z00014.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1 tvg-id="303" tvg-logo="303",Movies: Cinema Pictures
@@ -1390,14 +1412,12 @@ http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e26_wcif.sdp/e26_wcif.sdp-mr25
 http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e722_wcif.sdp/e722_wcif.sdp-mr2548k.m3u8
 #EXTINF:-1,BBC World News
 http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e751_wcif.sdp/e751_wcif.sdp-mr2548k.m3u8
-#EXTINF:-1,C1
-rtmp://live.cast-tv.us/stream playpath=z00021.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1,Bio HD
+rtsp://173.193.20.150:1935/mtv/hishd
 #EXTINF:-1,CBS
 rtmp://77.81.98.134/hot/ playpath=ocbs?v=16b95aa17548db352f528e84ad5c4b9a  swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf  pageUrl=http://www.castok.com/embed.php?v=ocbs&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
 #EXTINF:-1,CBS
 rtmp://live.cast-tv.us/stream playpath=z00003.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=cbs live=true timeout=10
-#EXTINF:-1,Comedy Central 
-rtmp://95.211.168.161/wl/channel/comed136 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=7861121BR&vw=640&vh=480&domain=superusvoxtv.com live=true timeout=10 
 #EXTINF:-1,CHEF TV BR
 rtmp://flashd.localmidia.com.br/cheftv playpath=aovivo  swfUrl=http://www.assistatvonline.com/fucku2.swf live=1  pageUrl=http://www.assistatvonline.com/canais/chef-tv.php
 #EXTINF:-1,DW
@@ -1406,12 +1426,12 @@ http://m24.megafun.vn/live.vs?c=vstv085&q=high
 rtmp://live.cast-tv.us/stream playpath=z00031.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,Fashiontv
 http://m24.megafun.vn/live.vs?c=vstv041&q=high
+#EXTINF:-1,Home and Health
+rtsp://173.193.20.150:1935/mtv/106
 #EXTINF:-1,KTLA
 rtmp://live.cast-tv.us/stream playpath=z00004.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,MSNBC
 rtmp://live.cast-tv.us/stream playpath=z00006.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
-#EXTINF:-1,MMTV
-rtmp://202.162.77.38/live/ playpath=iSMM.sdp swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=SMMTV
 #EXTINF:-1,MNC
 rtmp://edge.okeinfo.net/live// playpath=mncoke12_256.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=MNC
 #EXTINF:-1,NBC
@@ -1423,7 +1443,7 @@ rtmp://live.cast-tv.us/stream playpath=z00009.live swfUrl=http://cast-tv.us/play
 #EXTINF:-1,TLC
 http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e772_wcif.sdp/e772_wcif.sdp-mr2548k.m3u8
 #EXTINF:-1,TLC
-http://m24.megafun.vn/live.vs?c=vstv084&q=high 
+http://m24.megafun.vn/live.vs?c=vstv084&q=high
 #EXTINF:-1,TLC
 rtmp://77.81.98.132/hot/ playpath=otlchd?v=9e87379e92a291cdbe4e9c67deea6597  swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf  pageUrl=http://www.castok.com/embed.php?v=otlchd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
 #EXTINF:-1,Viasat 3
