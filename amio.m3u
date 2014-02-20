@@ -979,7 +979,7 @@ http://178.49.132.73/streaming/animalplanet/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="285" tvg-logo="285",Documentary: ANIMAL PLANET HD
 rtmp://s01.webport.tv/promo/mtv pageURL=http://www.hqtv.biz swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf live=true timeout=10
 #EXTINF:-1 tvg-id="285" tvg-logo="285",Documentary: ANIMAL PLANET HD
-rtmp://5.254.100.90/fms22/ playpath=animalhd  swfUrl=http://tags.kbcast.com/jwplayer/jwplayer.flash.swf  pageUrl=http://www.kbcast.com/embed.php?live=animalhd&vw=600&vh=450
+rtmp://5.254.100.90/fms22/ playpath=animalhd swfUrl=http://tags.kbcast.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.kbcast.com/embed.php?live=animalhd&vw=600&vh=450
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel RUS
 rtmp://online-record.ru:1935/ playpath=discovery_low swfUrl=http://moetv.ucoz.ru/uppod.swf pageUrl=http://moetv.ucoz.ru/index/discovery_vlc/0-197
 #EXTINF:-1 tvg-id="286" tvg-logo="286",PORTUGUESES :DISCOVERY CHANNEL
@@ -995,7 +995,7 @@ http://178.49.132.73/streaming/investigationdiscovery/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery ID
 http://iphone-streaming.ustream.tv/ustreamVideo/14315001/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel
-rtmp://50.7.69.170/edge playpath=53yj0tcxzl4cqey swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=12345dsagf41 
+http://109.251.1.100:3021/
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel
 http://m24.megafun.vn/live.vs?c=vstv044&q=high
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel
@@ -1026,10 +1026,10 @@ rtmp://watch.ilive.to/edge playpath=53yj0tcxzl4cqey swfUrl=http://www.ilive.to/p
 rtmp://50.7.133.146/iguide playpath=z49otzfw6ta3jn2 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel
 rtmp://77.81.98.136/lub/ playpath=odiscovery?v=d4091aae555a19793369d30f20bc9857  swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf  pageUrl=http://www.castok.com/embed.php?v=odiscovery&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="287" tvg-logo="287",Documentary: EXPLORER (eng)
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:explorer
-#EXTINF:-1 tvg-id="288" tvg-logo="288",Documentary: HISTORY (eng)
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:history
+#EXTINF:-1 tvg-id="287" tvg-logo="287",Documentary: EXPLORER
+http://109.251.1.100:3003/
+#EXTINF:-1 tvg-id="288" tvg-logo="288",Documentary: HISTORY
+http://109.251.1.100:3004/
 #EXTINF:-1 tvg-id="288" tvg-logo="288",Documentary: HISTORY
 rtmp://77.81.98.134/lub/ playpath=ohistory?v=05f9a5d912b0c3357a8b7e89e435392c  swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf  pageUrl=http://www.castok.com/embed.php?v=ohistory&vw=600&vh=450&typeplayer=0&domain=hdembed.com
 #EXTINF:-1 tvg-id="288" tvg-logo="288",PORTUGUESES :HISTORIA
@@ -1049,9 +1049,9 @@ http://178.49.132.73/streaming/nat_geo_wild/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="290" tvg-logo="290",Documentary: Natgeo Wild
 rtsp://173.193.20.150:1935/mtv/animal
 #EXTINF:-1 tvg-id="290" tvg-logo="290",Documentary: National Geographic
-rtmp://50.7.133.154/iguide playpath=durxqupub2pshej swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1 tvg-id="291" tvg-logo="291",Documentary: NATURE (eng)
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nature
+http://109.251.1.100:3020/
+#EXTINF:-1 tvg-id="291" tvg-logo="291",Documentary: NATURE
+http://109.251.1.100:3002/
 #EXTINF:-1 tvg-id="294" tvg-logo="294",PORTUGUESES :ODISSEIA
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=odisseia swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&odisseia
 #EXTINF:-1 tvg-id="294" tvg-logo="294",PORTUGUESES :ODISSEIA
