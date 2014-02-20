@@ -1004,20 +1004,22 @@ rtmp://27.254.84.3:1935/live/rdddis.stream
 rtsp://173.193.20.150:1935/mtv/master04
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Turbo
 rtsp://173.193.20.150:1935/mtv/92
-#EXTINF:-1,DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: DISCOVERY TURBO HD
 rtsp://173.193.20.150:1935/mtv/92hd
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Science
 rtsp://173.193.20.136:1935/mtv/130
-#EXTINF:-1,Discovery Science HD
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Science HD
 rtsp://173.193.20.136:1935/mtv/130hd
-#EXTINF:-1,DISC. SCIENCE
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: DISC. SCIENCE
 http://212.33.237.113:8047/
-#EXTINF:-1,Discovery Civilization
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Civilization
 rtsp://173.193.20.150:1935/mtv/109
-#EXTINF:-1,Discovery HD Theater
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery HD Theater
 rtsp://173.193.20.136:1935/mtv/discohd
-#EXTINF:-1,Discovery ID
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery ID
 rtsp://173.193.20.150:1935/mtv/105
+#EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: DISCOVERY WORLD HD
+http://27.254.84.3:1935/live/rdddis.stream/zgs.m3u8
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery Channel
 rtmp://watch.ilive.to/edge playpath=53yj0tcxzl4cqey swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=abc109h34 
 #EXTINF:-1 tvg-id="286" tvg-logo="286",Documentary: Discovery MAX
@@ -1088,6 +1090,8 @@ http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e45_wcif.sdp/e45_wcif.sdp-mr25
 rtmp://tdsiptv.ddns.me/live playpath=ch65?code=w_fde6e590a2c6f4d  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf  pageUrl=http://www.livetv.tn/tv-66-3-4-CartoonNetworkAR.html
 #EXTINF:-1 tvg-id="295" tvg-logo="295",Kids: Cartoon Network AR
 http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="295" tvg-logo="295",Kids: CARTOON NETWORK
+http://27.254.84.3:1935/live/dfrcar.stream/zgs.m3u8
 #EXTINF:-1 tvg-id="295" tvg-logo="295",Kids: Cartoon Network
 rtmp://198.105.219.132/live playpath=cartoon10?id=1981 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
 #EXTINF:-1 tvg-id="295" tvg-logo="295",Kids: Cartoon Network
@@ -1140,6 +1144,8 @@ rtmp://204.45.108.34/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.
 rtmp://175.103.51.2:1935/live/kids1.stream
 #EXTINF:-1 tvg-id="318" tvg-logo="318" group-title="Movies",Movies: AXN
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axn swfUrl=http://www.tvzune.org/jwplayer/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axn
+#EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN HD
+http://27.254.84.3:1935/live/tgdaxn.stream/zgs.m3u8
 #EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN
 http://202.76.72.141:30080/Entry/8138?m3u8
 #EXTINF:-1 tvg-id="318" tvg-logo="318",Movies: AXN
@@ -1175,7 +1181,11 @@ rtmp://23.227.165.66/iguide playpath=uqgivhxc58hqdj7 swfUrl=http://cdn.iguide.to
 #EXTINF:-1 tvg-id="312" tvg-logo="312",Movies: CANAL+ DCINE
 rtmp://23.92.70.42/iguide playpath=3rlt1uu9s5swpp8 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
 #EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX 
-http://178.49.132.73/streaming/fox/tvrec/playlist.m3u8 
+http://178.49.132.73/streaming/fox/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX MOVIES HD
+http://27.254.84.3:1935/live/tdifox.stream/zgs.m3u8
+#EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX MOVIE PREMIUM HD
+http://27.254.84.3:1935/live/tdifox.stream/zgs.m3u8 
 #EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX  HD
 rtmp://50.7.133.122/iguide playpath=qy1labxlexlgr65 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1 tvg-id="126" tvg-logo="126",Movies: FOX MOVIE PREMIUM HD
@@ -1198,6 +1208,12 @@ http://178.49.132.73/streaming/foxlife/tvrec/playlist.m3u8
 rtmp://live.cast-tv.us/stream playpath=z00027.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=fx live=true timeout=10
 #EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO
 http://m24.megafun.vn/live.vs?c=vstv036&q=high
+#EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO HD
+http://27.254.84.3:1935/live/tdnhbo.stream/zgs.m3u8
+#EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO SIGNATURE HD
+http://27.254.84.3:1935/live/tidhbo.stream/zgs.m3u8
+#EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO HITS HD
+http://27.254.84.3:1935/live/fdihbo.stream/zgs.m3u8
 #EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO
 rtmp://live.cast-tv.us/stream playpath=z00012.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=hbo live=true timeout=10
 #EXTINF:-1 tvg-id="328" tvg-logo="328",Movies: HBO
@@ -1271,7 +1287,7 @@ rtmp://live.cast-tv.us/stream playpath=z00008.live swfUrl=http://cast-tv.us/play
 #EXTINF:-1 tvg-id="319" tvg-logo="319",Movies: TNT
 http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e721_wcif.sdp/e721_wcif.sdp-mr2548k.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL
-rtmp://27.254.84.3:1935/live/tdifox.stream
+http://27.254.84.3:1935/live/tdifox.stream/chengye.m3u8
 #EXTINF:-1,UNIVERSAL
 rtmp://204.45.157.234/app playpath=16091 swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a4d324d545a6c4e7a51324f545a6c4e6a5932597a59784e7a4d3d/49f79823dff6 conn=S:OK --live
 #EXTINF:-1 tvg-id="322" tvg-logo="322" group-title="Music",Music: MTV
@@ -1436,6 +1452,152 @@ rtmp://77.81.98.138/hot/ playpath=ousanet?v=e961d6deb3491c71ab2e4711077ddede  sw
 rtmp://live.cast-tv.us/stream playpath=z00010.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=usa live=true timeout=10
 #EXTINF:-1,2
 rtmp://live.cast-tv.us/stream playpath=z00002.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
+#EXTINF:-1 group-title="Spain",Sportmania
+rtmp://37.130.228.52/live playpath=mitsus?id=12333 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,Sportmania
+rtmp://146.185.23.154/live playpath=mitsus?id=12333 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,Gol Tv
+http://194.140.12.113:1935/live/GolTV.stream/playlist.m3u8
+#EXTINF:-1,Gol Tv
+rtmp://50.7.174.50/iguide playpath=yr9edw1f4e8s567 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Gol Tv
+rtmp://50.22.223.52/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/goltvucaster/1/650/400 Conn=S:OK
+#EXTINF:-1,Gol Tv
+rtmp://173.192.209.69/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,Gol Tv
+rtmp://146.185.25.74/live playpath=mitsug?id=12336 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/mitsug/1/645/395 Conn=S:OK --live
+#EXTINF:-1,Gol Tv
+rtmp://50.7.137.82/iguide playpath=yfkjgpfktr9m8jc swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Gol Tv
+rtmp://50.7.133.106/iguide playpath=yfkjgpfktr9m8jc swfUrl=http://cdn.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Gol Tv
+rtmp://46.23.67.114/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,Gol Tv
+rtmp://174.36.251.140/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/goltvucaster/1/650/400 Conn=S:OK
+EXTINF:-1,Gol Tv
+rtmp://109.123.114.162/live playpath=mitsug?id=12336 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/mitsug/1/645/395 conn=S:OK --live
+#EXTINF:-1,Gol Tv
+rtmp://5.63.149.180/live playpath=mitsug?id=12336 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,CANAL+ FUTBOL
+rtmp://109.123.126.10/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,CANAL+ FUTBOL
+rtmp://46.23.67.68/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,CANAL+ FUTBOL
+rtmp://146.185.25.130/live playpath=hola8?id=12461 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ conn=S:OK --live
+#EXTINF:-1,CANAL+ FUTBOL
+rtmp://50.7.28.234/flash playpath=18265 swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/YzZTk4NmFmNzM3MWMwOWIxNGIyNWZmMTQ6OTNmMmZkZGYzOTVi M2ZlYTg3MGFkMTlhNDlkM2Q1MDU_/YWQ5MzhhMDVlYjU0OmE5NmY2NDZmNjY3NTc0NjI2ZjZjOmJmZT Q5ODM2MTU2YjI2YW
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://159.253.143.20/stream playpath=mitsud?id=115202 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/mitsud/1/645/395 Conn=S:OK --live
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://50.7.174.50/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://50.7.189.66/iguide playpath=41mpv2b0gssazjw swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=11028&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://46.165.251.74/stream playpath=mitsud?id=115202 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://50.7.133.90/iguide playpath=41mpv2b0gssazjw swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=11028&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://50.7.181.90/iguide playpath=41mpv2b0gssazjw swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=11028&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://50.7.137.98/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=11028&autoplay=true  token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://50.7.133.106/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=11028&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://206.190.128.108/stream playpath=mitsud?id=115202 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://50.7.133.122/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDve
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://50.7.133.138/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1,Canal+ Deportes
+rtmp://50.7.133.154/iguide playpath=41mpv2b0gssazjw swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=11028&autoplay=true token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1,Canal+ Deportes
+rtmp://50.7.137.178/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=11028&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ Deportes
+rtmp://50.7.137.210/iguide playpath=41mpv2b0gssazjw swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ Deportes
+rtmp://109.123.114.218/stream playpath=mitsud?id=115202 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/mitsud/1/645/395 conn=S:OK --live
+#EXTINF:-1,Canal+ Deportes
+rtmp://50.7.191.234/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=400&channel=11028&autoplay=true token=#ed%h0#w18623jsda6523lDGDgondu
+#EXTINF:-1,Canal+ Liga de Campeones
+rtmp://206.190.140.20/live playpath=mitsulc?id=7088 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1,Canal+ Liga de Campeones
+rtmp://46.28.53.38/live playpath=mitsulc?id=7088 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/mitsulc/1/645/395 Conn=S:OK --live
+#EXTINF:-1,Canal+ Liga de Campeones
+rtmp://50.7.174.50/iguide playpath=i42a82irjwitu7j swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ Liga de Campeones
+rtmp://93.120.27.66/live playpath=fslimites400 swfUrl=http://www.yocast.tv/jl/player.swf live=1 pageUrl=http://www.yocast.tv/embed.php
+#EXTINF:-1,Canal+ Liga de Campeones
+rtmp://159.253.131.73/live playpath=mitsulc?id=7088 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1,Canal+ LIGA
+rtmp://edge3.video.vaughnsoft.net:443/live playpath=live_biophobia swfUrl=http://vaughnlive.tv/ token=balls2u
+#EXTINF:-1,Canal+ LIGA
+rtmp://208.53.164.2/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://89.248.168.21/liveedge/ playpath=portugaldesportivo3 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen5.php
+#EXTINF:-1,Canal+ LIGA?
+rtmp://174.36.1.31/shqstream/ playpath=dgdgreyrty645745cc?keys=0Mcc5c9lacdRQCO5a3kFyw&keyt=1390079403 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 pageUrl=http://hqstream.tv/player.php?streampage=dgdgreyrty645745cc&width=600&height=500
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.181.34/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://37.130.228.52/live playpath=mitsul?id=12377 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.189.66/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.191.66/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.137.82/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=10141&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.133.90/iguide playpath=x4xacom3nv091wu swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.137.90/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=395&channel=11949&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.133.106/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.137.106/iguide playpath=x4xacom3nv091wu swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.133.122/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=400&channel=10141&autoplay=true token=#ed%h0#w18623jsda6523lDGDgondu
+#EXTINF:-1,Canal+ LIGA
+rtmp://146.185.25.130/live playpath=mitsul?id=12377 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.133.138/iguide playpath=x4xacom3nv091wu swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.133.146/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.133.154/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=400&channel=10141&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://174.37.252.206/live playpath=elgoles005?id=194248 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/elgoles005/1/720/410 conn=S:OK --live
+#EXTINF:-1,Canal+ LIGA
+rtmp://208.53.154.250/iguide playpath=p5pnm1hdemv061k swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=700&height=400&channel=16286&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Canal+ LIGA
+rtmp://50.7.173.250/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,BeinÑ Sports-Español
+rtmp://146.185.25.130/live playpath=mitsul?id=12377 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/mitsul/1/645/395 Conn=S:OK --live
+#EXTINF:-1,tv galicia 2-Baloncesto (Liga ACB): Laboral Kutxa - Real Madrid
+rtmp://50.7.174.50/iguide playpath=37c0ligs8y2v7qf swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,tv galicia 2-Baloncesto (Liga ACB): Laboral Kutxa - Real Madrid
+rtmp://50.7.133.154/iguide playpath=p5pnm1hdemv061k swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,tv galicia 2
+rtmp://50.7.133.122/iguide playpath=37c0ligs8y2v7qf swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,EUROSPORT(español)
+rtmp://93.120.27.2/live playpath=fslimites400 swfUrl=http://www.yocast.tv/jl/player.swf live=1 pageUrl=http://www.yocast.tv/embed.php
+#EXTINF:-1,Sevilla FC-AZBOX
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:-1,Teledeporte
+http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+#EXTINF:-1,Teledeporte
+rtmp://rtvegeofs.fplive.net:443/rtvegeo-live-live?ovpfv=2.1.2 playpath=RTVE_TDP_LV3_WEB_GEO swfUrl=http://www.irtve.es/swf/4.1.16/RTVEPlayerVideo.swf pageUrl=http://verlatvendirecto.com/canales/deportes/teledeporte/ swfVfy=true live=true timeout=10
+#EXTINF:-1,Teledeporte
+rtmp://5.63.151.44/stream playpath=teledeportelive?id=99872 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/teledeportelive/1/650/400 Conn=S:OK
+#EXTINF:-1,Teledeporte
+rtmp://208.53.164.50/iguide playpath=tsi2nxaeoech2hu swfUrl=http://cdn.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/16397/lasalader token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Teledeporte
+rtmp://208.43.81.145/stream playpath=teledeportelive?id=99872 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/teledeportelive/1/650/400 Conn=S:OK --live
+#EXTINF:-1, REAL MADRID
+rtmp://50.7.181.34/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1, REAL MADRID
+rtmp://50.7.181.90/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=400&channel=11111&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1, REAL MADRID
+rtmp://50.7.133.122/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1 group-title="Indian",Ten HD
 http://202.76.72.141:30080/Entry/8100?m3u8
 #EXTINF:-1,ZEE ANMOL
