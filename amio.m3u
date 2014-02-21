@@ -476,36 +476,36 @@ rtmp://31.220.0.134:1935/live playpath=bein10 swfUrl=http://p.jwpcdn.com/6/8/jwp
 rtmp://31.220.0.134:1935/live playpath=bein9 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein9&vw=620&vh=490
 #EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS HD12
 rtmp://31.220.0.134:1935/live playpath=bein10 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein10&vw=620&vh=490
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS HD1 BTS
-rtmpe://46.246.124.6:1935/redirect playpath=BST1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="187" tvg-logo="187",Sport: BEIN SPORTS HD2
-rtmpe://46.246.124.6:1935/redirect playpath=BST2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="188" tvg-logo="188",Sport: BEIN SPORTS HD3
-rtmpe://46.246.124.6:1935/redirect playpath=BST3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="189" tvg-logo="189",Sport: BEIN SPORTS HD4
-rtmpe://46.246.124.6:1935/redirect playpath=BST4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="190" tvg-logo="190",Sport: BEIN SPORTS HD5
-rtmpe://46.246.124.6:1935/redirect playpath=BST5 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="191" tvg-logo="191",Sport: BEIN SPORTS HD6
-rtmpe://46.246.124.6:1935/redirect playpath=BST6 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="192" tvg-logo="192",Sport: BEIN SPORTS HD7
-rtmpe://46.246.124.6:1935/redirect playpath=BST7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="193" tvg-logo="193",Sport: BEIN SPORTS HD8
-rtmpe://46.246.124.6:1935/redirect playpath=BST8 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="194" tvg-logo="194",Sport: BEIN SPORTS HD9
-rtmpe://46.246.124.6:1935/redirect playpath=BST9 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="195" tvg-logo="195",Sport: BEIN SPORTS HD10
-rtmpe://46.246.124.6:1935/redirect playpath=BST10 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="196" tvg-logo="196",Sport: BEIN SPORTS HD11
-rtmpe://46.246.124.6:1935/redirect playpath=BST11 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS HD12
-rtmpe://46.246.124.6:1935/redirect playpath=BST12 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="218" tvg-logo="218",Sport: BEIN SPORTS HD13
-rtmpe://46.246.124.6:1935/redirect playpath=BST13 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="219" tvg-logo="219",Sport: BEIN SPORTS HD14
-rtmpe://46.246.124.6:1935/redirect playpath=BST14 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="220" tvg-logo="220",Sport: BEIN SPORTS HD15
-rtmpe://46.246.124.6:1935/redirect playpath=BST15 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 1
+rtmpe://46.246.124.7:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 2 BST
+rtmpe://46.246.124.7:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 3
+rtmpe://46.246.124.7:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 4
+rtmpe://46.246.124.7:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 5
+rtmpe://46.246.124.7:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 6
+rtmpe://46.246.124.7:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 7
+rtmpe://46.246.124.7:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 8
+rtmpe://46.246.124.7:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 9
+rtmpe://46.246.124.7:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 10
+rtmpe://46.246.124.7:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 11
+rtmpe://46.246.124.7:1935/redirect playpath=BST11 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 12
+rtmpe://46.246.124.7:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 13
+rtmpe://46.246.124.7:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 14
+rtmpe://46.246.124.7:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS 15
+rtmpe://46.246.124.7:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1
 rtmp://31.220.0.103:1935/live playpath=bt1rr swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1rr&vw=620&vh=490
 #EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1
@@ -1479,13 +1479,9 @@ rtmp://50.7.133.138/iguide playpath=x4xacom3nv091wu swfUrl=http://cdn.iguide.to/
 #EXTINF:-1,Canal+ LIGA
 rtmp://50.7.133.146/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,Canal+ LIGA
-rtmp://50.7.133.154/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=400&channel=10141&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,Canal+ LIGA
 rtmp://174.37.252.206/live playpath=elgoles005?id=194248 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/elgoles005/1/720/410 conn=S:OK --live
 #EXTINF:-1,Canal+ LIGA
 rtmp://208.53.154.250/iguide playpath=p5pnm1hdemv061k swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=700&height=400&channel=16286&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,Canal+ LIGA
-rtmp://50.7.173.250/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,BeinÑ Sports-Español
 rtmp://146.185.25.130/live playpath=mitsul?id=12377 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/mitsul/1/645/395 Conn=S:OK --live
 #EXTINF:-1,tv galicia 2-Baloncesto (Liga ACB): Laboral Kutxa - Real Madrid
@@ -1510,10 +1506,131 @@ rtmp://208.53.164.50/iguide playpath=tsi2nxaeoech2hu swfUrl=http://cdn.iguide.to
 rtmp://208.43.81.145/stream playpath=teledeportelive?id=99872 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/teledeportelive/1/650/400 Conn=S:OK --live
 #EXTINF:-1, REAL MADRID
 rtmp://50.7.181.34/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1, REAL MADRID
-rtmp://50.7.181.90/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=400&channel=11111&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1, REAL MADRID
-rtmp://50.7.133.122/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,CANAL+ 1 HD
+rtmp://146.185.25.130/live playpath=canallhd?id=12341 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-,Canal+ Toros 
+rtmp://206.190.128.228/stream playpath=mitsut?id=114886 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
+
+#EXTINF:-1,C+ ACCION 
+rtmp://146.185.25.130/live playpath=accionhd1?id=12491 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,CANAL+ DCINE
+rtmp://50.22.223.51/live playpath=dconehd1?id=63118 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK 
+
+#EXTINF:-1,Fox HD
+rtmp://37.130.228.52/live playpath=foxhd1?id=12492 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,AXN
+rtmp://5.63.149.180/live playpath=axnhd1?id=12488 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,TNT HD
+rtmp://146.185.23.154/live playpath=tnthd1?id=12487 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,Canal+ LIGA HD
+rtmp://146.185.23.154/live playpath=cagarruter?id=12531 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,Canal+ futbol HD 
+rtmp://46.23.67.68/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+
+#EXTINF:-1,CANAL+ LIGA DE CAMPEONES 
+rtmp://159.253.131.73/live playpath=mitsulc?id=7088 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+
+#EXTINF:-1,SPORTMANIA 
+rtmp://146.185.23.154/live playpath=mitsus?id=12333 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,Gol TV 3
+rtmp://146.185.23.154/live playpath=golrincon2?id=12481 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,CANAL+ DEPORTES HD
+rtmp://37.130.228.52/live playpath=pdeportes1?id=12490 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,DISCOVERY CHANNEL
+rtmp://37.130.228.52/live playpath=discoveryrincon?id=11373 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,tve 1
+rtmp://rtvefs.fplive.net:1935/rtve-live-live?ovpfv=2.1.2 playpath=RTVE_LA1_LV3_WEB_NOG swfUrl=http://swf.rtve.es/swf/4.2.26/RTVEPlayerVideo.swf pageUrl=http://www.rtve.es/noticias/directo-la-1/ swfVfy=true live=true timeout=10
+
+#EXTINF:-1,Cuatro
+rtmp://146.185.25.154/live playpath=cuatrorincon?id=11384 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,Telecinco HD
+rtmp://50.7.189.66/iguide playpath=gfhf1e0pyvgi6of swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,La***ta
+rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ playpath=stream-la***ta_1 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://biophobia.es/?p=343
+
+#EXTINF:-1,Nova
+rtmp://146.185.23.154/live playpath=novanuevo44?id=11573 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ conn=S:OK --live
+
+#EXTINF:-1,Divinity
+rtmp://109.123.114.162/live playpath=lacuatrotvrojadirecta?id=5971 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lacuatrotvrojadirecta/1/650/400 conn=S:OK --live
+
+#EXTINF:-1,LaSiete
+rtmp://109.123.114.162/live playpath=lasiete7?id=6266 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ conn=S:OK --live
+
+#EXTINF:-1,NITRO 
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/ playpath=stream-eventos6_1 swfUrl=http://www.longtailvideo.com/
+
+#EXTINF:-1,etb sat
+rtmp://cp70268.live.edgefcs.net/live playpath=eitb-ETBSat@5219 swfUrl=http://www.eitb.com/resources/flash/video_player.swf live=1 pageUrl=http://www.omegateam.byethost7.com/ch/i-etb-sat.php --live
+
+#EXTINF:-1,IB3 Islas Baleares TV
+rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live playpath=streamib3 swfUrl=http://www.jaxe.net/player/player-o...&skin=http://www.jaxe.net/player/dangdang.swflive=1 pageUrl=http://www.tutvendirecto.com/2013/01/ver-ib3-islas-baleares-tv-online-en.html
+
+#EXTINF:-1,TV Extremadura
+rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo
+
+#EXTINF:-1,Levante Tv
+rtmp://teledifusion.tv:1935/levantetvlive playpath=levantetvlive swfUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent live=1 pageUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent --live
+
+#EXTINF:-1,Castilla la Mancha tv
+rtmp://teledifusion.tv/rtvcm playpath=rtvcmlive1 swfUrl=http://rtvcm.es/templates/marco/endirecto/player.swf live=1 pageUrl=http://rtvcm.es/templates/marco/endirecto/ 
+
+#EXTINF:-1,Huelva tv
+rtmp://flash3.todostreaming.es/huelvatv playpath=livestream swfUrl=http://www.huelvatv.com/plugins/con....es/huelvatv&autostart=true&wmode=transparent live=1 pageUrl=http://www.huelvatv.com/plugins/con....es/huelvatv&autostart=true&wmode=transparent –live
+
+#EXTINF:-1,Tv Galicia
+rtmp://media3.crtvg.es:80/live playpath=tvge swfUrl=http://www.crtvg.es/flowplayer3/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://www.omegateam.byethost7.com/ch/i-tv-galicia.php --live
+
+#EXTINF:-1,Aragon tv
+rtmp://aragontvlivefs.fplive.net/aragontvlive-live playpath=stream_normal_abt swfUrl=http://alacarta.aragontelevision.es/streaming/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://alacarta.aragontelevision.es/streaming/streaming.html --live
+
+#EXTINF:-1,CINE INFANTIL
+rtmp://204.45.157.234/app playpath=16091 swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a4d324d545a6c4e7a51324f545a6c4e6a5932597a59784e7a4d3d/49f79823dff6 conn=S:OK --live
+
+#EXTINF:-1,WARNER
+rtmp://46.28.53.38/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+
+#EXTINF:-1,FX
+rtmp://198.105.219.132/live playpath=fxtve?id=4123 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+
+#EXTINF:-1,CANAL SONY
+rtmp://159.253.131.73/live playpath=sonytve?id=4122 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+
+#EXTINF:-1,CINE Canal 2
+rtmp://50.7.28.178/app playpath=16414 swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a4d324d54637a4e7a4d324f4459784d6d51324e6a59354e6d4d325a44637a/818c2409275e
+
+#EXTINF:-1,SPACE
+rtmp://159.253.131.73/live playpath=space10?id=1979 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+
+#EXTINF:-1,UNIVERSAL
+rtmp://159.253.131.73/live playpath=universaltv?id=4124 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+
+#EXTINF:-1,AXN BLACK
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnblack swfUrl=http://www.tvzune.info/jwplayer/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnblack
+
+#EXTINF:-1,HOLLYWOOD
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=hollywood swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&hollywood
+
+#EXTINF:-1,MOV
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=mov swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&mov
+
+#EXTINF:-1,SYFY
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=syfy swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&syfy
+
+#EXTINF:-1,ODISSEIA
+rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=odisseia swfUrl=http://www.tvzune.info/jwplayer3/player3.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&odisseia
 #EXTINF:-1 group-title="Indian",Ten HD
 http://202.76.72.141:30080/Entry/8100?m3u8
 #EXTINF:-1,ZEE ANMOL
