@@ -254,8 +254,6 @@ rtmp://50.7.180.18/nahar1/alnahar2.stream_480p swfUrl=http://demos.streamtrix.co
 rtmp://50.7.180.18/nahar1 playpath=alnahardrama.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnahardrama/
 #EXTINF:-1 tvg-id="098" tvg-logo="098",Arabic: Al Nahar Drama (Alternative Source)
 rtmp://tdsiptv.ddns.me/live playpath=ch59?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-60-2-7-AlNaharDrama.html
-#EXTINF:-1 tvg-id="099" tvg-logo="099",Arabic: Abu Dhabi TV1
-http://50957244:54@50.7.158.82:9911
 #EXTINF:-1 tvg-id="099" tvg-logo="099",Arabic: Abu Dhabi TV1 PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=ADAlOula_Med&port=2077&mode=3&user=&session=bada2f0e677ab24a744b938fc659e07848502155bf191ff12f65a94d914839bc
 #EXTINF:-1 tvg-id="100" tvg-logo="100",Arabic: Abu Dhabi Drama
@@ -454,12 +452,6 @@ rtmp://27.254.84.3:1935/live/uiciyd.stream
 rtmp://27.254.84.3:1935/live/tttyud.stream
 #EXTINF:-1 ,Sport: ASTRO SUPERSPORT 3
 rtmp://27.254.84.3:1935/live/47c85d.stream
-#EXTINF:-1 tvg-id="185" tvg-logo="185",Sport: ARENASPORT 1
-http://213.202.73.8:1337/
-#EXTINF:-1 tvg-id="185" tvg-logo="185",Sport: ARENASPORT 3
-http://213.202.73.8:1338/
-#EXTINF:-1,Sport: Bein sports
-rtmp://31.7.58.122:1935/stream/ playpath=ffe84f5ed.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Sky
 #EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS HD1
 rtmp://31.220.0.82:1935/live playpath=bein1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein1&vw=620&vh=490
 #EXTINF:-1 tvg-id="187" tvg-logo="187",Sport: BEIN SPORTS HD2
@@ -514,56 +506,6 @@ rtmpe://46.246.124.6:1935/redirect playpath=BST13 swfUrl=http://www.udemy.com/st
 rtmpe://46.246.124.6:1935/redirect playpath=BST14 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1 tvg-id="220" tvg-logo="220",Sport: BEIN SPORTS HD15
 rtmpe://46.246.124.6:1935/redirect playpath=BST15 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS HD1 Pogu
-rtmp://77.81.98.138/lub/ playpath=be1?v=90b4ab4ae272049af61f55891461aa4b swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=be1&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="187" tvg-logo="187",Sport: BEIN SPORTS HD2
-rtmp://77.81.98.132/lub/ playpath=bein2pogo?v=de2159a5ab776d3d5305bf45813d5806 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=bein2pogo&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="188" tvg-logo="188",Sport: BEIN SPORTS HD3
-rtmp://77.81.98.135/lub/ playpath=bein3pogo?v=d41bb48c574d8fd5c27cc7ad597e83af swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=bein3pogo&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="189" tvg-logo="189",Sport: BEIN SPORTS HD4
-rtmp://77.81.98.134/lub/ playpath=bein4pogo?v=122edbb6335974c635a1b0ce20589649 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=bein4pogo&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="190" tvg-logo="190",Sport: BEIN SPORTS HD5
-rtmp://77.81.98.137/lub/ playpath=bein5pogo?v=6328b27c777dd7d512d23dca683c98bb swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=bein5pogo&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="191" tvg-logo="191",Sport: BEIN SPORTS HD6
-rtmp://77.81.98.134/lub/ playpath=bein6pogo?v=cb929d608e5fc04bb8019c4bd4523f06 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=bein6pogo&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="192" tvg-logo="192",Sport: BEIN SPORTS HD7
-rtmp://77.81.98.132/lub/ playpath=bein7pogo?v=ad286919012ce2b0a2e880a56965a12e swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=bein7pogo&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="193" tvg-logo="193",Sport: BEIN SPORTS HD8
-rtmp://77.81.98.134/lub/ playpath=be8?v=e6f7adc65585c3099ae51b5538bd3dcb swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=be8&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="196" tvg-logo="196",Sport: BEIN SPORTS HD11
-rtmp://77.81.98.138/lub/ playpath=be11?v=e3004730bf2745d2e20cdb1d754c7e8f swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=be11&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="197" tvg-logo="197",Sport: BEIN SPORTS HD12
-rtmp://77.81.98.138/lub/ playpath=be12?v=26845fb70739fc9c0bd4ebca946f79d2 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=be12&vw=600&vh=450&typeplayer=0&domain=hdembed.com
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 1HQ
-rtmpe://93.120.27.84/live playpath=jsc01 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 2HQ
-rtmpe://93.120.27.84/live playpath=jsc02 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 3HQ
-rtmpe://93.120.27.84/live playpath=jsc03 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 4HQ
-rtmpe://93.120.27.84/live playpath=jsc04 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 5HQ
-rtmpe://93.120.27.84/live playpath=jsc05 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 6HQ
-rtmpe://93.120.27.84/live playpath=jsc06 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS7HQ
-rtmpe://93.120.27.84/live playpath=jsc07 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 8HQ
-rtmpe://93.120.27.84/live playpath=jsc08 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 11HQ
-rtmpe://93.120.27.84/live playpath=jsc09 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 12HQ 
-rtmpe://93.120.27.84/live playpath=jsc10 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 1HQ
-http://50957244:54@50.7.158.82:9912
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 2HQ
-http://50957244:54@50.7.158.82:9913
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 3HQ
-http://50957244:54@50.7.158.82:9914
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 4HQ
-http://50957244:54@50.7.158.82:9915
-#EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS 5HQ
-http://50957244:54@50.7.158.82:9916
 #EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1
 rtmp://31.220.0.103:1935/live playpath=bt1rr swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1rr&vw=620&vh=490
 #EXTINF:-1 tvg-id="231" tvg-logo="231",Sport: BT Sport 1
@@ -578,24 +520,6 @@ rtmp://31.220.0.104:1935/live playpath=bttt2222 swfUrl=http://p.jwpcdn.com/6/8/j
 rtmpe://46.246.124.23:1935/redirect/BT2HD pageurl=http://hdcast.org/
 #EXTINF:-1 tvg-id="235" tvg-logo="235",Sport: Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
-#EXTINF:-1,C More Live 4
-http://cmorehlsedc-i.akamaihd.net/hls/live/208153/cmlive4/cmlive4.m3u8
-#EXTINF:-1,C More Live 3
-http://cmorehlsedc-i.akamaihd.net/hls/live/208152/cmlive3/cmlive3.m3u8
-#EXTINF:-1,C More Live 2
-http://cmorehlsedc-i.akamaihd.net/hls/live/208151/cmlive2/cmlive2.m3u8
-#EXTINF:-1,C More Live HD
-http://cmorehlsedc-i.akamaihd.net/hls/live/208150/cmlivehd/cmlivehd.m3u8
-#EXTINF:-1,C More Tennis
-http://cmorehlsedc-i.akamaihd.net/hls/live/208147/cmtennis/cmtennis.m3u8
-#EXTINF:-1,C More Extreme
-http://cmorehlsedc-i.akamaihd.net/hls/live/208148/cmextreme/cmextreme.m3u8
-#EXTINF:-1,C More Hockey
-http://cmorehlsedc-i.akamaihd.net/hls/live/208149/cmhockey/cmhockey.m3u8
-#EXTINF:-1,C More Footbol
-http://cmorehlsedc-i.akamaihd.net/hls/live/208154/cmfotboll/cmfotboll.m3u8
-#EXTINF:-1,C More Sport HD
-http://cmorehlsedc-i.akamaihd.net/hls/live/208145/cmsporthd/cmsporthd.m3u8
 #EXTINF:-1 tvg-id="237" tvg-logo="237",Sport: Canal+ Futbol
 rtmp://95.211.148.33/vl/_definst_ playpath=calasparra swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
 #EXTINF:-1 tvg-id="238" tvg-logo="238",Sport: Canal+ Liga
@@ -632,14 +556,6 @@ http://dmiLiveDubaiSports3.http.internapcdn.net/dmiLiveDubaiSports3/dubaiSports3
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=DubaiSports_Med&port=2077&mode=3&user=&session=5e1d60d6962628b06753116199cf93c73e60b00d426fbaef24dfdd11b082f696
 #EXTINF:-1 tvg-id="239" tvg-logo="239",Sport: Dubai Sports 3
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
-#EXTINF:-1,DIGISPORT 1 
-http://205.196.209.208:55001 
-#EXTINF:-1,Digi Sport1 
-http://205.196.209.208:55001 
-#EXTINF:-1,Digi Sport2 
-http://205.196.209.208:55002 
-#EXTINF:-1,Digi Sport3 
-http://205.196.209.208:55003
 #EXTINF:-1 tvg-id="243" tvg-logo="243",Sport: Eurosport 1
 rtmp://31.220.0.134:1935/live playpath=euro1j swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1j&vw=620&vh=490
 #EXTINF:-1 tvg-id="243" tvg-logo="243",Sport: Eurosport 2
