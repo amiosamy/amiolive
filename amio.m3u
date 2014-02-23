@@ -10,7 +10,7 @@ rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=Liv
 #EXTINF:-1 tvg-id="004" tvg-logo="004",Christian: Alfady TV
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1 tvg-id="005" tvg-logo="005",Christian: Al Hayat
-rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p
+http://media.islamexplained.com:1935/live/ngrp:ahme.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="006" tvg-logo="006",Christian: Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="007" tvg-logo="007",Christian: Alkarma TV US
@@ -26,6 +26,7 @@ http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="011" tvg-logo="011",Christian: Aghapy TV PC Only
 http://localhost:4500/channel.flv?server=38.99.146.69&channel=Aghapy_Med&port=2077&mode=3&user=&session=066bb3bc57837b62586a5151e41674b2cabbd0a2a20513ca4393d7d5d283312c
 #EXTINF:-1 tvg-id="013" tvg-logo="013",Christian: Alkalema
+http://www.alkalema.tv/extra/fms/liveevent.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" ",Christian: Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1 tvg-id="014" tvg-logo="014",Christian: CTV
@@ -37,9 +38,9 @@ http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
 #EXTINF:-1 tvg-id="017" tvg-logo="017",Christian: Copticsat TV
 rtmp://154.obj.netromedia.net/Copticsat/Copticsat
 #EXTINF:-1 tvg-id="018" tvg-logo="018",Christian: CBN
-http://bcoveliveios-i.akamaihd.net/hls/live/201592/734546207001_1/iptv1_iphone.m3u8
+rtmp://cp145180.live.edgefcs.net/live//iptv1_1_500@42325
 #EXTINF:-1 tvg-id="018" tvg-logo="018",Christian: CBN News
-rtmp://cp145180.live.edgefcs.net/live/ playpath=newschannel_1_500@42322 swfUrl=http://www.cbn.com/media/player/player.swf?s=cbnlive-3&isLive=true pageUrl=http://freetvall.com/video/47KYYG4WSX21/CBN-News
+rtmp://cp145180.live.edgefcs.net/live//newschannel_1_500@42322
 #EXTINF:-1 tvg-id="020" tvg-logo="020",Christian: Charity
 rtmp://livestreaming.ositcom.net/tvcharity/tvCharityStream
 #EXTINF:-1 tvg-id="021" tvg-logo="021",Christian: Daystar TV
@@ -49,13 +50,13 @@ http://iphone-streaming.ustream.tv/ustreamVideo/12463854/streams/live/playlist.m
 #EXTINF:-1 tvg-id="023" tvg-logo="023",Christian: GLC
 rtmp://fss28.streamhoster.com/lv_glc/_definst_/broadcast2
 #EXTINF:-1 tvg-id="024" tvg-logo="024",Christian: Hope TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201459/753071706001-1/index.m3u8
+rtmp://cp101680.live.edgefcs.net/live?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=/HopeChannelNorthAmerica_1@52768?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=
 #EXTINF:-1 tvg-id="024" tvg-logo="024",Christian: Hope Church Channel
-http://bcoveliveios-i.akamaihd.net/hls/live/201459/753071706001-3/index.m3u8
+rtmp://cp101680.live.edgefcs.net/live?videoId=867654092001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=/HopeChurchChannel_1@52768?videoId=867654092001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=
 #EXTINF:-1 tvg-id="026" tvg-logo="026",Christian: Logos TV
 http://68.235.37.110/logoschannel.com/hls/logostv2.m3u8
 #EXTINF:-1 tvg-id="027" tvg-logo="027",Christian: LLBN
-rtmp://tdsiptv.ddns.me/live playpath=ch157?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-158-3-4-LLBNLebanon.html
+rtmp://cp45648.live.edgefcs.net/live/T01587-3@58798
 #EXTINF:-1 tvg-id="028" tvg-logo="028",Christian: Kingdom TV
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
 #EXTINF:-1 tvg-id="028" tvg-logo="028",Christian: Kingdom TV PC Only
