@@ -454,7 +454,7 @@ rtmp://27.254.84.3:1935/live/tttyud.stream
 #EXTINF:-1 ,Sport: ASTRO SUPERSPORT 3
 rtmp://27.254.84.3:1935/live/47c85d.stream
 #EXTINF:-1 tvg-id="186" tvg-logo="186",Sport: BEIN SPORTS HD1
-rtmp://31.220.0.82:1935/live playpath=bein11x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein11x&vw=620&vh=490
+rtmp://31.220.0.82:1935/live playpath=beee1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=beee1&vw=620&vh=490
 #EXTINF:-1 tvg-id="187" tvg-logo="187",Sport: BEIN SPORTS HD2
 rtmp://31.220.0.133:1935/live playpath=bein2xx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein2xx&vw=620&vh=490
 #EXTINF:-1 tvg-id="188" tvg-logo="188",Sport: BEIN SPORTS HD3
