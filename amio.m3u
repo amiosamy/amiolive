@@ -102,8 +102,6 @@ http://www.alkalema.tv/extra/fms/liveevent.m3u8
 #EXTINF:-1 tvg-id="049" tvg-logo="049",Christian: The Freedom
 http://ooyalahd2-f.akamaihd.net/i/tbn06_delivery@149652/master.m3u8
 #EXTINF:-1 tvg-id="051" tvg-logo="051" group-title="News",News: Alarabiya
-rtmp://tdsiptv.ddns.me/live playpath=ch53?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-54-2-7-AlArabiaNews.html
-#EXTINF:-1 tvg-id="051" tvg-logo="051",News: Alarabiya (Alternative Source)
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="051" tvg-logo="051",News: Alarabiya HADAS
 http://livestream2.alarabiya.tv/files/hadath.m3u8
@@ -355,20 +353,16 @@ rtmp://tdsiptv.ddns.me/live playpath=ch38?code=w_fde6e590a2c6f4d swfUrl=http://w
 rtmp://tdsiptv.ddns.me/live playpath=ch35?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-36-2-7-MBCBollywood.html
 #EXTINF:-1 tvg-id="144" tvg-logo="144",Arabic: Masrawi Aflam
 rtmp://tdsiptv.ddns.me/live playpath=ch127?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-132-3-4-MasrawiAflem.html
-#EXTINF:-1 tvg-id="145" tvg-logo="145",Arabic: Melody
-rtmp://tdsiptv.ddns.me/live playpath=ch147?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-152-3-4-Melody.html
-#EXTINF:-1 tvg-id="145" tvg-logo="145",Arabic: Melody Aflam(Alternative Source)
-rtmp://38.96.148.24/MelodyAflam playpath=MAflam_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/1 live=1 timeout=15
-#EXTINF:-1 tvg-id="145" tvg-logo="145",Arabic: Melody Aflam(Alternative Source)
-rtmp://tdsiptv.ddns.me/live playpath=ch130?code=w_fde6e590a2c6f4d  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf  pageUrl=http://www.livetv.tn/tv-135-3-4-MelodyAflem.html
-#EXTINF:-1 tvg-id="147" tvg-logo="147",Arabic: Melody Drama (Alternative Source)
+#EXTINF:-1 tvg-id="145" tvg-logo="145",Arabic: Melody Aflam
+rtmp://38.96.148.24/MelodyAflam/MAflam_576p
+#EXTINF:-1 tvg-id="145" tvg-logo="145",Arabic: Melody Aflam
+rtmp://38.96.148.24/MelodyClassic/MClassic_576p
+#EXTINF:-1 tvg-id="147" tvg-logo="147",Arabic: Melody Drama
 http://38.96.148.24/MelodyDrama/MDrama_576p/playlist.m3u8
-#EXTINF:-1 tvg-id="149" tvg-logo="149",Arabic: Melody Classic (Alternative Source)
-rtmp://38.96.148.24/MelodyClassic playpath=MClassic_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://www.melody.net/halilou.com live=1 timeout=15
-#EXTINF:-1 tvg-id="151" tvg-logo="151",Arabic: Melody Hits (Alternative Source)
+#EXTINF:-1 tvg-id="151" tvg-logo="151",Arabic: Melody Hits
 rtmp://38.96.148.24/MelodyHits/MHits_576p
-#EXTINF:-1 tvg-id="153" tvg-logo="153",Arabic: Melody Arabia (Alternative Souce)
-rtmp://38.96.148.24/MelodyArabia playpath=MArabia_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/24 live=1 timeout=15
+#EXTINF:-1 tvg-id="153" tvg-logo="153",Arabic: Melody Arabia
+rtmp://38.96.148.24/MelodyArabia/MArabia_576p
 #EXTINF:-1 tvg-id="155" tvg-logo="155",Arabic: Moga Comedy
 rtmp://tdsiptv.ddns.me/live playpath=ch67?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-68-3-4-MogaComedy.html
 #EXTINF:-1 tvg-id="156" tvg-logo="156",Arabic: MTV Lebanon
@@ -1664,6 +1658,40 @@ http://202.76.72.141:30080/Entry/8133?m3u8
 http://202.76.72.141:30080/Entry/8086?m3u8
 #EXTINF:-1,MH ONE
 http://202.76.72.141:30080/Entry/8099?m3u8
+#EXTINF:-1 group-title="Brasil",CINEMAX
+rtmp://31.204.128.75/live/ playpath=cinemax swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,TNT
+rtmp://31.204.128.74/live/ playpath=master77 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,AXN
+rtmp://31.204.128.76/live/ playpath=master52 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,FOX
+rtmp://31.204.128.75/live/ playpath=fox swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,UNIVERSAL
+rtmp://31.204.128.73/live/ playpath=master20 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,SYFY
+rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/
+#EXTINF:-1,HBO Plus
+rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/
+#EXTINF:-1,FOX Sport
+rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,TC Premium
+rtmp://31.204.128.75/live/ playpath=master19 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,TC Accion
+rtmp://31.204.128.73/live/ playpath=master17 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,TC Fun
+rtmp://109.200.202.124/live playpath=fun2 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/
+#EXTINF:-1,TC Pipota
+rtmp://31.204.128.74/live/ playpath=master18 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,TC Touch
+rtmp://109.200.202.124/live playpath=touch swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/
+#EXTINF:-1,SPACE
+rtmp://109.200.202.124/live playpath=space swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/
+#EXTINF:-1,FX
+rtmp://31.204.128.73/live/ playpath=master25 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,WARNER
+rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1,SONY
+rtmp://109.200.202.124/live playpath=sony swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/
 #EXTINF:-1 tvg-id="R1" tvg-logo="R1" radio="true" group-title="Radio",Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 tvg-id="R2" tvg-logo="R2" radio="true",Altareeq
