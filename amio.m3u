@@ -20,7 +20,7 @@ rtmp://flash.alkarmatv.com/karmatv_au/karmatv_au1
 #EXTINF:-1 tvg-id="007" tvg-logo="007",Christian: Alkarma TV ME
 rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
 #EXTINF:-1 tvg-id="007" tvg-logo="007",Christian: Alkarma TV PC Only
-http://localhost:4500/channel.flv?server=38.99.146.69&channel=AlKarma_Med&port=2077&mode=3&user=&session=1764a221b070e961ccd2a8fac9706c9500d6acc4c9de3174adfb624e16009707a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlKarma_Med&port=2077&mode=3&user=&session=1764a221b070e961ccd2a8fac9706c9500d6acc4c9de3174adfb624e16009707a299017ce29bf1aa
 #EXTINF:-1 tvg-id="011" tvg-logo="011",Christian: Aghapy TV
 http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="011" tvg-logo="011",Christian: Aghapy TV PC Only
