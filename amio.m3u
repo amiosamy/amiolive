@@ -1126,229 +1126,231 @@ rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.cdnbr.biz/swf/pla
 #EXTINF:-1,SONY
 rtmp://109.200.202.124/live playpath=sony swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/
 #EXTINF:-1 group-title="Teledunet",Rotana Aflam
-rtmp://www.teledunet.com:1935/teledunet/rotana_aflam swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=rotana_aflam pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/rotana_aflam swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=rotana_aflam pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Rotana Cinema
-rtmp://www.teledunet.com:1935/teledunet/rotana_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=rotana_cinema pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/rotana_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=rotana_cinema pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Rotana classic
-rtmp://www.teledunet.com:1935/teledunet/rotana_classic swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=rotana_classic pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/rotana_classic swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=rotana_classic pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Rotana Clip
-rtmp://www.teledunet.com:1935/teledunet/rotana_clip swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=rotana_clip pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/rotana_clip swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=rotana_clip pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Rotana Khaligi
-rtmp://www.teledunet.com:1935/teledunet/rotana_khaligi swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=rotana_khaligi pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/rotana_khaligi swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=rotana_khaligi pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Rotana Masriya
-rtmp://www.teledunet.com:1935/teledunet/rotana_masriya swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=rotana_masriya pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/rotana_masriya swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=rotana_masriya pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Rotana Music
-rtmp://www.teledunet.com:1935/teledunet/rotana_music swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=rotana_music pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/rotana_music swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=rotana_music pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Russia Alyaum
-rtmp://www.teledunet.com:1935/teledunet/russia_alyaum swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=russia_alyaum pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/russia_alyaum swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=russia_alyaum pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Abu Dhabi
-rtmp://www.teledunet.com:1935/teledunet/abu_dhabi swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=abu_dhabi pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/abu_dhabi swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=abu_dhabi pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Abu Dhabi Drama
-rtmp://www.teledunet.com:1935/teledunet/abu_dhabi_drama swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=abu_dhabi_drama pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/abu_dhabi_drama swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=abu_dhabi_drama pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Abu Dhabi Sports
-rtmp://www.teledunet.com:1935/teledunet/abu_dhabi_sports_1 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=abu_dhabi_sports_1 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/abu_dhabi_sports_1 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=abu_dhabi_sports_1 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Al-Hurria
-rtmp://www.teledunet.com:1935/teledunet/al_hurria swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=al_hurria pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/al_hurria swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=al_hurria pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Al-Nahar Drama
-rtmp://www.teledunet.com:1935/teledunet/al_nahar_drama swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=al_nahar_drama pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/al_nahar_drama swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=al_nahar_drama pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Al Haneen Music
-rtmp://www.teledunet.com:1935/teledunet/al_haneen_music swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=al_haneen_music pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/al_haneen_music swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=al_haneen_music pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:0,Al Jazeera
-rtmp://www.teledunet.com:1935/teledunet/aljazeera swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=aljazeera pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/aljazeera swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=aljazeera pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:0,Al Jazeera Children
-rtmp://www.teledunet.com:1935/teledunet/aljazeera_children swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=aljazeera_children pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/aljazeera_children swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=aljazeera_children pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:0,Al Jazeera Documentation
-rtmp://www.teledunet.com:1935/teledunet/aljazeera_doc swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=aljazeera_doc pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/aljazeera_doc swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=aljazeera_doc pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:0,Al Jazeera Mubasher Masr
-rtmp://www.teledunet.com:1935/teledunet/aljazeera_mubasher_masr swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=aljazeera_mubasher_masr pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/aljazeera_mubasher_masr swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=aljazeera_mubasher_masr pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:0,Al Jazeera Sport Global
-rtmp://www.teledunet.com:1935/teledunet/aljazeera_sport_global swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=aljazeera_sport_global pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/aljazeera_sport_global swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=aljazeera_sport_global pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:0,ART Aflam 2
-rtmp://www.teledunet.com:1935/teledunet/art_aflam_2 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=art_aflam_2 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/art_aflam_2 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=art_aflam_2 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:0,ART Cinema
-rtmp://www.teledunet.com:1935/teledunet/art_aflam_1 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=art_aflam_1 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/art_aflam_1 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=art_aflam_1 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Al Masriyah
-rtmp://www.teledunet.com:1935/teledunet/al_masriyah swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=al_masriyah pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/al_masriyah swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=al_masriyah pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Al mayaden
-rtmp://www.teledunet.com:1935/teledunet/al_mayaden swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=al_mayaden pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/al_mayaden swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=al_mayaden pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Al Thaniya
-rtmp://www.teledunet.com:1935/teledunet/al_thaniya swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=al_thaniya pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/al_thaniya swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=al_thaniya pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Alarabiya
-rtmp://www.teledunet.com:1935/teledunet/alarabiya swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=alarabiya pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/alarabiya swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=alarabiya pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Alhayat-Series
-rtmp://www.teledunet.com:1935/teledunet/alhayat_series swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=alhayat_series pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/alhayat_series swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=alhayat_series pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Alhayat 1
-rtmp://www.teledunet.com:1935/teledunet/alhayat_1 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=alhayat_1 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/alhayat_1 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=alhayat_1 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Alhayat Cinema
-rtmp://www.teledunet.com:1935/teledunet/alhayat_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=alhayat_cinema pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/alhayat_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=alhayat_cinema pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Arabica Music
-rtmp://www.teledunet.com:1935/teledunet/arabica_music swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=arabica_music pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/arabica_music swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=arabica_music pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Arrabia
-rtmp://www.teledunet.com:1935/teledunet/arrabia swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=arrabia pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/arrabia swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=arrabia pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Baraem
-rtmp://www.teledunet.com:1935/teledunet/baraem swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=baraem pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/baraem swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=baraem pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,BBC Arabic
-rtmp://www.teledunet.com:1935/teledunet/bbc_arabic swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=bbc_arabic pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/bbc_arabic swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=bbc_arabic pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 1
-rtmp://www.teledunet.com:1935/teledunet/jsc_1 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_1 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_1 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_1 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 2
-rtmp://www.teledunet.com:1935/teledunet/jsc_2 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_2 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_2 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_2 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 3
-rtmp://www.teledunet.com:1935/teledunet/jsc_3 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_3 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_3 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_3 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 4
-rtmp://www.teledunet.com:1935/teledunet/jsc_4 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_4 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_4 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_4 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 5
-rtmp://www.teledunet.com:1935/teledunet/jsc_5 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_5 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_5 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_5 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 6
-rtmp://www.teledunet.com:1935/teledunet/jsc_6 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_6 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_6 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_6 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 7
-rtmp://www.teledunet.com:1935/teledunet/jsc_7 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_7 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_7 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_7 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 8
-rtmp://www.teledunet.com:1935/teledunet/jsc_8 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_8 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_8 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_8 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 9
-rtmp://www.teledunet.com:1935/teledunet/jsc_9 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_9 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_9 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_9 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 10
-rtmp://www.teledunet.com:1935/teledunet/jsc_10 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=jsc_10 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/jsc_10 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=jsc_10 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 1 HD
-rtmp://www.teledunet.com:1935/teledunet/tele_1_hd swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=tele_1_hd pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/tele_1_hd swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=tele_1_hd pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 2 HD
-rtmp://www.teledunet.com:1935/teledunet/tele_2_hd swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=tele_2_hd pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/tele_2_hd swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=tele_2_hd pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 3 HD
-rtmp://www.teledunet.com:1935/teledunet/tele_3_hd swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=tele_3_hd pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/tele_3_hd swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=tele_3_hd pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,beIN Sports 4 HD
-rtmp://www.teledunet.com:1935/teledunet/tele_4_hd swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=tele_4_hd pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/tele_4_hd swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=tele_4_hd pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Canal Plus
-rtmp://www.teledunet.com:1935/teledunet/canal_plus swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=canal_plus pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/canal_plus swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=canal_plus pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Cairo Cinema
-rtmp://www.teledunet.com:1935/teledunet/cairo_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=cairo_cinema pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/cairo_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=cairo_cinema pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Cairo Drama
-rtmp://www.teledunet.com:1935/teledunet/cairo_drama swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=cairo_drama pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/cairo_drama swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=cairo_drama pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:0,Cartoon Network
-rtmp://www.teledunet.com:1935/teledunet/cartoon_network swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=cartoon_network pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/cartoon_network swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=cartoon_network pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,CBC Drama
-rtmp://www.teledunet.com:1935/teledunet/cbc_drama swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=cbc_drama pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/cbc_drama swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=cbc_drama pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,CBC Tv
-rtmp://www.teledunet.com:1935/teledunet/cbc_tv swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=cbc_tv pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/cbc_tv swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=cbc_tv pageUrl=http://www.teledunet.com/ live=1
+#EXTINF:-1,CBC Sofra
+rtmp://www.teledunet.com:1935/teledunet/cbc_sofra swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=cbc_sofra pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Cima
-rtmp://www.teledunet.com:1935/teledunet/cima swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=cima pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/cima swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=cima pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Dream 1
-rtmp://www.teledunet.com:1935/teledunet/dream_1 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=dream_1 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/dream_1 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=dream_1 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Dubai One
-rtmp://www.teledunet.com:1935/teledunet/dubai_one swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=dubai_one pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/dubai_one swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=dubai_one pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Dubai Sport 1
-rtmp://www.teledunet.com:1935/teledunet/dubai_sport_1 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=dubai_sport_1 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/dubai_sport_1 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=dubai_sport_1 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Dubai Sport 2
-rtmp://www.teledunet.com:1935/teledunet/dubai_sport_2 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=dubai_sport_2 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/dubai_sport_2 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=dubai_sport_2 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Dubai
-rtmp://www.teledunet.com:1935/teledunet/dubai swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=dubai pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/dubai swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=dubai pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Euro Sport 1
-rtmp://www.teledunet.com:1935/teledunet/euro_sport_1 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=euro_sport_1 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/euro_sport_1 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=euro_sport_1 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Fatafeat
-rtmp://www.teledunet.com:1935/teledunet/fatafeat swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=fatafeat pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/fatafeat swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=fatafeat pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Fox Movies
-rtmp://www.teledunet.com:1935/teledunet/fox_movies swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=fox_movies pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/fox_movies swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=fox_movies pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Fox
-rtmp://www.teledunet.com:1935/teledunet/fox swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=fox pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/fox swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=fox pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,France24 Arabic
-rtmp://www.teledunet.com:1935/teledunet/france24_arabic swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=france24_arabic pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/france24_arabic swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=france24_arabic pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Fx Arabia
-rtmp://www.teledunet.com:1935/teledunet/fx_arabia swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=fx_arabia pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/fx_arabia swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=fx_arabia pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Ghinwa
-rtmp://www.teledunet.com:1935/teledunet/ghinwa swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=ghinwa pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/ghinwa swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=ghinwa pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Hi music
-rtmp://www.teledunet.com:1935/teledunet/hi_music swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=hi_music pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/hi_music swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=hi_music pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Infinity
-rtmp://www.teledunet.com:1935/teledunet/infinity swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=infinity pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/infinity swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=infinity pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,JSC Sport 1
-rtmp://www.teledunet.com:1935/teledunet/aljazeera_sport_1 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=aljazeera_sport_1 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/aljazeera_sport_1 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=aljazeera_sport_1 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,JSC Sport 2
-rtmp://www.teledunet.com:1935/teledunet/aljazeera_sport_2 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=aljazeera_sport_2 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/aljazeera_sport_2 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=aljazeera_sport_2 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Lbc Europe
-rtmp://www.teledunet.com:1935/teledunet/lbc_europe swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=lbc_europe pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/lbc_europe swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=lbc_europe pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Lbc
-rtmp://www.teledunet.com:1935/teledunet/lbc swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=lbc pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/lbc swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=lbc pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,LLBN
-rtmp://www.teledunet.com:1935/teledunet/llbn swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=llbn pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/llbn swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=llbn pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Masrawi Aflam
-rtmp://www.teledunet.com:1935/teledunet/masrawi_aflam swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=masrawi_aflam pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/masrawi_aflam swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=masrawi_aflam pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Mazeka zoom
-rtmp://www.teledunet.com:1935/teledunet/mazeka_zoom swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mazeka_zoom pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mazeka_zoom swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mazeka_zoom pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Mazzika
-rtmp://www.teledunet.com:1935/teledunet/mazzika swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mazzika pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mazzika swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mazzika pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,MBC 1
-rtmp://www.teledunet.com:1935/teledunet/mbc_1 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mbc_1 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mbc_1 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mbc_1 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,MBC 2
-rtmp://www.teledunet.com:1935/teledunet/mbc_2 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mbc_2 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mbc_2 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mbc_2 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,MBC 3
-rtmp://www.teledunet.com:1935/teledunet/mbc_3 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mbc_3 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mbc_3 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mbc_3 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,MBC 4
-rtmp://www.teledunet.com:1935/teledunet/mbc_4 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mbc_4 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mbc_4 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mbc_4 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,MBC Action
-rtmp://www.teledunet.com:1935/teledunet/mbc_action swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mbc_action pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mbc_action swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mbc_action pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,MBC Bollywood
-rtmp://www.teledunet.com:1935/teledunet/mbc_bollywood swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mbc_bollywood pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mbc_bollywood swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mbc_bollywood pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,MBC Drama
-rtmp://www.teledunet.com:1935/teledunet/mbc_drama swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mbc_drama pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mbc_drama swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mbc_drama pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,MBC Masr
-rtmp://www.teledunet.com:1935/teledunet/mbc_masr swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mbc_masr pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mbc_masr swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mbc_masr pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,MBC Max
-rtmp://www.teledunet.com:1935/teledunet/mbc_max swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mbc_max pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mbc_max swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mbc_max pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Mehwar
-rtmp://www.teledunet.com:1935/teledunet/mehwar swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mehwar pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mehwar swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mehwar pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Melody Tv
-rtmp://www.teledunet.com:1935/teledunet/melody_tv swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=melody_tv pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/melody_tv swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=melody_tv pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Modern Sport
-rtmp://www.teledunet.com:1935/teledunet/modern_sport swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=modern_sport pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/modern_sport swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=modern_sport pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Moga Comedy
-rtmp://www.teledunet.com:1935/teledunet/moga_comedy swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=moga_comedy pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/moga_comedy swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=moga_comedy pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Mtv
-rtmp://www.teledunet.com:1935/teledunet/mtv swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=mtv pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/mtv swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=mtv pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Music Plus
-rtmp://www.teledunet.com:1935/teledunet/music_plus swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=music_plus pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/music_plus swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=music_plus pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,National Geo Ad
-rtmp://www.teledunet.com:1935/teledunet/national_geo_ad swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=national_geo_ad pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/national_geo_ad swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=national_geo_ad pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Nile Cinema
-rtmp://www.teledunet.com:1935/teledunet/nile_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=nile_cinema pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/nile_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=nile_cinema pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Nile Comedy
-rtmp://www.teledunet.com:1935/teledunet/nile_comedy swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=nile_comedy pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/nile_comedy swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=nile_comedy pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Nile Drama 2
-rtmp://www.teledunet.com:1935/teledunet/nile_drama_2 swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=nile_drama_2 pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/nile_drama_2 swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=nile_drama_2 pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Nile Drama
-rtmp://www.teledunet.com:1935/teledunet/nile_drama swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=nile_drama pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/nile_drama swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=nile_drama pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Nile Family
-rtmp://www.teledunet.com:1935/teledunet/nile_family swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=nile_family pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/nile_family swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=nile_family pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Nile Life
-rtmp://www.teledunet.com:1935/teledunet/nile_life swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=nile_life pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/nile_life swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=nile_life pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Nile News
-rtmp://www.teledunet.com:1935/teledunet/nile_news swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=nile_news pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/nile_news swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=nile_news pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Nile Sport
-rtmp://www.teledunet.com:1935/teledunet/nile_sport swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=nile_sport pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/nile_sport swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=nile_sport pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Noor Dubai
-rtmp://www.teledunet.com:1935/teledunet/noor_dubai swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=noor_dubai pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/noor_dubai swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=noor_dubai pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Noursat
-rtmp://www.teledunet.com:1935/teledunet/noursat swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=noursat pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/noursat swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=noursat pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,On TV
-rtmp://www.teledunet.com:1935/teledunet/on_tv swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=on_tv pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/on_tv swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=on_tv pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Panorama Comedy
-rtmp://www.teledunet.com:1935/teledunet/panorama_comedy swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=panorama_comedy pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/panorama_comedy swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=panorama_comedy pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Panorama
-rtmp://www.teledunet.com:1935/teledunet/panorama swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=panorama pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/panorama swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=panorama pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Sama Dubai
-rtmp://www.teledunet.com:1935/teledunet/sama_dubai swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=sama_dubai pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/sama_dubai swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=sama_dubai pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Spacetoon
-rtmp://www.teledunet.com:1935/teledunet/spacetoon swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=spacetoon pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/spacetoon swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=spacetoon pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Star Cinema
-rtmp://www.teledunet.com:1935/teledunet/star_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=star_cinema pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/star_cinema swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=star_cinema pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Test
-rtmp://www.teledunet.com:1935/teledunet/test swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=test pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/test swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=test pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Tele Sports
-rtmp://www.teledunet.com:1935/teledunet/tele_sports swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=tele_sports pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/tele_sports swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=tele_sports pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Time Comedy
-rtmp://www.teledunet.com:1935/teledunet/time_comedy swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=time_comedy pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/time_comedy swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=time_comedy pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Top Movies
-rtmp://www.teledunet.com:1935/teledunet/top_movies swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=top_movies pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/top_movies swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=top_movies pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1,Zee Aflam
-rtmp://www.teledunet.com:1935/teledunet/zee_aflam swfUrl=http://www.teledunet.com/player.swf?id0=82913160107700&skin=bekle/bekle.xml&channel=zee_aflam pageUrl=http://www.teledunet.com/ live=1
+rtmp://www.teledunet.com:1935/teledunet/zee_aflam swfUrl=http://www.teledunet.com/player.swf?id0=82917013037000&skin=bekle/bekle.xml&channel=zee_aflam pageUrl=http://www.teledunet.com/ live=1
 #EXTINF:-1 tvg-id="R1 tvg-logo="R1 radio="true group-title="Radio",Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 tvg-id="R2 tvg-logo="R2 radio="true",Altareeq
