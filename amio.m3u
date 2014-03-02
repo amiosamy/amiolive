@@ -1009,182 +1009,56 @@ rtmp://46.19.139.146:1935/stream// playpath=w4a0X5H0.stream swfUrl=http://04stre
 rtmp://46.246.29.140:1935/stream// playpath=M4A6S3o5.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=sportstv1
 #EXTINF:-1,NBA
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
-#EXTINF:-1 group-title="Spain",CANAL+ LIGA DE CAMPEONES HD
-rtmp://5.63.149.180/live playpath=hola11?id=12683 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,CANAL+ LIGA DE CAMPEONES HD 2
-rtmp://109.123.114.162/live playpath=hola11?id=12683 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,CANAL+ LIGA DE CAMPEONES HD 3
-rtmp://146.185.25.74/live playpath=hola11?id=12683 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,CANAL+ LIGA DE CAMPEONES HD 4
-rtmp://50.7.137.186/iguide playpath=i42a82irjwitu7j swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,CANAL+ LIGA DE CAMPEONES HD 5
-rtmp://50.7.137.194/iguide playpath=i42a82irjwitu7j swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,EUROSPORT
-rtmp://149.255.34.122/live playpath=eurosportverdirectotv?id=195140 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK --live
-#EXTINF:-1,SPORTMANIA 
-rtmp://146.185.23.154/live playpath=caragato4?id=12666 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,SPORTMANIA 2
-rtmp://146.185.25.74/live playpath=caragato4?id=12666 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,Gol TV 
-rtmp://146.185.30.210/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
-#EXTINF:-1,Gol TV 2
+#EXTINF:-1 group-title="Spain",Gol TV 
 rtmp://50.22.223.51/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
-#EXTINF:-1,Gol TV 3
-rtmp://173.193.205.105/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
-#EXTINF:-1,Gol TV 4
-rtmp://109.123.116.26/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
-#EXTINF:-1,GOL TV 5
-http://194.140.12.113:1935/live/GolTV.stream/playlist.m3u8
-#EXTINF:-1,CANAL+ DEPORTES
-rtmp://206.190.128.116/stream playpath=caragato3?id=116419 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
-#EXTINF:-1,CANAL+ DEPORTES 2
+#EXTINF:-1,CANAL+ DEPORTES 
 rtmp://46.165.251.74/stream playpath=caragato3?id=116419 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
-#EXTINF:-1,CANAL+ DEPORTES 3
-rtmp://199.189.110.172/stream playpath=caragato3?id=116419 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
-#EXTINF:-1,CANAL+ DEPORTES HD
-rtmp://5.63.149.180/live playpath=dddppot?id=12637 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,CANAL+ DEPORTES HD 2
-rtmp://146.185.25.130/live playpath=dddppot?id=12637 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,CANAL+ DEPORTES HD 3
-rtmp://146.185.25.130/live playpath=dddppot?id=12637 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
 #EXTINF:-1,BeinÑ
 rtmpe://live.envivo.pw/goLive playpath=wIGdaPZQJVkG6VR swfUrl=http://www.envivo.pw/jwplayer/player.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
-#EXTINF:-1,ESPN DEPORTES
-rtmp://199.195.194.28/live playpath=EsPnDePoRtessd?id=195317 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK --live
+#EXTINF:-1,CANAL+ LIGA DE CAMPEONES HD
+rtmp://5.63.149.180/live playpath=hola11?id=12683 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,EUROSPORT
+rtmp://206.190.138.68/live playpath=eurosportverdirectotv?id=195140 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK --live
+#EXTINF:-1,SPORTMANIA 
+rtmp://146.185.23.154/live playpath=caragato4?id=12666 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,CANAL+ 1 HD
+rtmp://146.185.25.74/live playpath=hola10?id=12682 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,Canal+ Toros
+rtmp://50.7.28.114/flash playpath=18513 swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/
+#EXTINF:-1,Canal+ LIGA 
+rtmp://174.36.251.140/live playpath=llppp?id=56354 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,Canal+ LIGA HD
+rtmp://46.165.210.32/live playpath=puercoshd?id=195562 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK --live
+#EXTINF:-1,Canal+ FUTBOL 
+rtmp://146.185.23.154/live playpath=hola8?id=12461 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,CANAL SONY
+rtmp://159.253.131.73/live playpath=sonytve?id=4122 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+#EXTINF:-1,SPACE
+rtmp://159.253.131.73/live playpath=space10?id=1979 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+#EXTINF:-1,HBO
+rtmp://206.190.139.28/live playpath=pelis666?id=7825 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
 #EXTINF:-1,ESPN EN VIVO
 rtmp://146.185.25.162/live playpath=sadnf23873458?id=63496 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
 #EXTINF:-1,NBA TV
 rtmpe://93.120.27.88/live playpath=nba1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/
-#EXTINF:-1,REAL MADRID TV
-rtmp://50.7.137.90/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Tve La 2(opcion 2)
-rtmp://rtvefs.fplive.net:1935/rtve-live-live?ovpfv=2.1.2 playpath=RTVE_LA2_LV3_WEB_NOG swfUrl=http://swf.rtve.es/swf/4.2.27/RTVEPlayerVideo.swf pageUrl=http://www.rtve.es/television/la-2-directo/ swfVfy=true live=true timeout=10
-#EXTINF:-1,ANTENA 3 HD(FULL HD)
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,ANTENA 3 
-rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live//stream-antena3_1
-#EXTINF:-1,ANTENA 3 2
-rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ playpath=stream-antena3_1 swfUrl=http://hispaniatelevision.com/reproductores/player.swf?file=stream-antena3_1&type=flv&streamer=rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/&autostart=true&stretching=exactfit&mute=false&type= live=1 
-#EXTINF:-1,Cuatro
-rtmp://146.185.23.154/live playpath=cuatrorincon?id=11384 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,Telecinco HD
-rtmp://50.7.174.50/iguide playpath=gfhf1e0pyvgi6of swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,LaSe.ta
-rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ playpath=stream-lase.ta_1 swfUrl=http://player.longtailvideo.com/player.swf live=1
-#EXTINF:-1,LaSe.ta HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,LA S.TA 3
-rtmp://50.7.133.90/iguide playpath=e34ni7zyyt9p6df swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,XPLORA 
-rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live//stream-xplorageo_1
-#EXTINF:-1,DISCOVERY MAX
-rtmp://146.185.25.130/live playpath=dmaxxxxx?id=12631 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,NEOX 
-rtmp://109.123.114.162/live playpath=neeeox?id=12629 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,NEOX 2
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-eventos6_2 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200 pageUrl=http://www.atresplayer.com/directos/television/neox/
-#EXTINF:-1,NEOX 3
-rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live//stream-eventos6_1
+#EXTINF:-1,National Geographic
+rtmp://50.7.137.194/iguide playpath=durxqupub2pshej swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,DISCOVERY CHANNEL
+rtmp://146.185.23.154/live playpath=discoveryrincon?id=11373 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
 #EXTINF:-1,Nova
 rtmp://146.185.23.154/live playpath=novanuevo44?id=11573 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ conn=S:OK --live
 #EXTINF:-1,Divinity
 rtmp://109.123.114.162/live playpath=lacuatrotvrojadirecta?id=5971 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ conn=S:OK --live
-#EXTINF:-1,Energy
-http://telecinco-channel13.hls.adaptive.level3.net/telecinco/channel13/esmediaset51/bitrate_1.m3u8
-#EXTINF:-1,Siete
-rtmp://109.123.114.162/live playpath=lasiete7?id=6266 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ conn=S:OK --live
-#EXTINF:-1,FDF
-rtmp://146.185.25.74/live playpath=fffffdf?id=12630 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ conn=S:OK --live
-#EXTINF:-1,NITRO 
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/ playpath=stream-eventos6_1 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1
-#EXTINF:-1,NITRO 2
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/ playpath=stream-eventos6_1 swfUrl=http://www.longtailvideo.com/
-#EXTINF:-1,Nueve
-rtmp://5.63.149.180/live playpath=lasiete7?id=6266 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ conn=S:OK --live
-#EXTINF:-1,INTERECONOMIA
-rtmp://media.intereconomia.com/live playpath=intereconomiatv1 swfUrl=http://seles-comparte.ucoz.com/javascript/reprodctores/archivo-swf/player.swf live=1 pageUrl=http://tvlife.ucoz.com/tvlife/canales/nacionales/canales/interconomia.htm
-#EXTINF:-1,INTERECONOMIA 2
-rtmp://media.intereconomia.com/live playpath=intereconomiatv1 swfUrl=http://www.intereconomia.com/flowplayer-3.2.5.swf?0.8290294258153489 live=1 pageUrl=http://biophobia.es/?p=353
-#EXTINF:-1,Intereconomia Business tv
-rtmp://media.intereconomia.com/live playpath=business1 swfUrl=http://www.intereconomia.com/sites/...mvi/flowplayer-3.2.16.swf?0.11830402398481965live=1 pageUrl=http://www.intereconomia.com/ver-intereconomia-business-tv
-#EXTINF:-1,CANAL+ 1 HD
-rtmp://50.7.133.122/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,CANAL+ 1 HD(Opcion 2)
-rtmp://50.7.137.202/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,CANAL+ 1 HD(Opcion 3)
-rtmp://109.123.114.162/live playpath=hola10?id=12682 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,CANAL+ 1 HD(Opcion 4)
-rtmp://146.185.25.74/live playpath=hola10?id=12682 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,Canal+ Toros
-rtmp://50.7.28.114/flash playpath=18513 swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/
-#EXTINF:-1,Canal+ Toros 2
-rtmp://206.190.128.228/stream playpath=caragato5?id=116420 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
-#EXTINF:-1,C+ ACCION 
-rtmp://50.7.189.66/iguide playpath=9327av3rxfgd09r swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,C+ ACCION 2
-rtmp://50.7.137.114/iguide playpath=9327av3rxfgd09r swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,CANAL+ DCINE
-rtmp://146.185.25.74/live playpath=dcine11?id=12587 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,C+ DCine 2
-rtmp://37.130.228.52/live playpath=dcine11?id=12587 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,Xtrm 
-rtmp://watch.ilive.to/edge playpath=l886gblcix3g7rt swfUrl=http://www.ilive.to/player/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/ token=abc109h34   
-#EXTINF:-1,ABC Family Español
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chabcfamily/2008/08/18/be099cc9-897f-4c0a-bd7f-da4393e4530d
-#EXTINF:-1,CANAL+ SERIES
-rtmp://50.7.191.234/iguide playpath=czufpaqdqlxvn1u swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Fox HD
-rtmp://50.7.189.2/iguide playpath=qy1labxlexlgr65 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Fox HD 2
-rtmp://50.7.189.66/iguide playpath=qy1labxlexlgr65 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,AXN
-rtmp://5.63.149.180/live playpath=axnhd1?id=12488 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,AXN 2
-rtmp://146.185.25.130/live playpath=axnhd1?id=12488 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,TNT HD
-rtmp://146.185.23.154/live playpath=tnthd1?id=12487 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,TNT HD 2
-rtmp://146.185.25.74/live playpath=tnthd1?id=12487 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,TNT  HD 3
-rtmp://5.79.72.3/vl/_definst_ playpath=tntespa swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
-#EXTINF:-1,TNT  HD 4
-rtmp://82.192.95.75/vl/_definst_ playpath=tntespa swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
-#EXTINF:-1,TNT Latino
-rtmp://206.190.139.28/live playpath=tnt10?id=1978 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK
-#EXTINF:-1,alXnxtv
-http://edge3.video.vaughnsoft.net:443/live/live_alx_nxtv/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-rtmp://198.105.219.132/live playpath=cartoon10?id=1981 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1,NICKELODEON
-rtmp://206.190.140.36/live playpath=nick10?id=1984 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1,Disney  XD
-rtmp://109.123.123.68/live playpath=dxd10?id=1986 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live 
-#EXTINF:-1,Disney Junior
-rtmp://46.28.53.18/live playpath=junior10?id=1980 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1,DISNEY CHANNEL
-rtmp://159.253.131.73/live playpath=disney10?id=1983 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1,Si quieres ver la F1
-rtmp://formula1fms35geolivefs.fplive.net:443/formula1fms35geolive-live playpath=formula1_1 swfUrl=http://www.antena3.com/static/swf/A3Player_F1.swf?nocache=200 live=1 pageUrl=http://www.antena3.com/formula-1/directos/
-#EXTINF:-1,Si quieres ver la F1(opcion 2)
-rtmp://formula1fms35geolivefs.fplive.net:1935/formula1fms35geolive-live playpath=formula1_2 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200 pageUrl=http://www.atresplayer.com/directos/television/formula-1/
-#EXTINF:-1,Canal+ LIGA 
-rtmp://50.7.133.146/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Canal+ LIGA 2
-rtmp://50.7.137.98/iguide playpath=x4xacom3nv091wu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,Canal+ LIGA HD
-rtmp://82.192.95.75/vl/_definst_ playpath=jotill swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
-#EXTINF:-1,Canal+ LIGA HD 2
-rtmp://95.211.168.161/vl/_definst_ playpath=jotill swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
-#EXTINF:-1,Canal+ FUTBOL 
-rtmp://146.185.23.154/live playpath=hola8?id=12461 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,Canal+ FUTBOL 2
-rtmp://109.123.114.162/live playpath=hola8?id=12461 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,Canal+ FUTBOL 3
-rtmp://109.123.114.162/live playpath=hola8?id=12461 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,Canal+ FUTBOL 4
-rtmp://109.123.126.10/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
-#EXTINF:-1,Canal+ FUTBOL 5
-rtmp://46.23.67.68/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,Peliculas HD(nuevo)
+rtmp://204.45.157.234/app playpath=16199 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/
+#EXTINF:-1,Cine canal.png",+ Cine(nuevo)
+rtmp://204.45.157.74/app playpath=16414 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/
+#EXTINF:-1,CINE INFANTIL
+rtmp://204.45.157.234/app playpath=16091 swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a4d324d545a6c4e7a51324f545a6c4e6a5932597a59784e7a4d3d/49f79823dff6 conn=S:OK --live
+#EXTINF:-1,CINEMAX
+rtmp://50.7.28.130/app playpath=16414  swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/
+#EXTINF:-1,FX
+rtmp://198.105.219.132/live playpath=fxtve?id=4123 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
 #EXTINF:-1 group-title="Indian",Ten HD
 http://202.76.72.141:30080/Entry/8100?m3u8
 #EXTINF:-1,ZEE ANMOL
