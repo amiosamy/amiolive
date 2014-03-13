@@ -340,21 +340,21 @@ rtmp://103.7.56.16:1935/live/uiciyd.stream
 #EXTINF:-1 ,Sport: ASTRO SUPERSPORT 3
 rtmp://103.7.56.16:1935/live/47c85d.stream
 #EXTINF:-1 tvg-id="186 tvg-logo="186",Sport: BEIN SPORTS HD1
-rtmp://31.220.0.82:1935/live playpath=beee1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=beee1&vw=620&vh=490
+rtmp://31.220.0.82:1935/live playpath=ben1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ben1&vw=620&vh=490
 #EXTINF:-1 tvg-id="187 tvg-logo="187",Sport: BEIN SPORTS HD2
-rtmp://31.220.0.133:1935/live playpath=bein2xx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein2xx&vw=620&vh=490
+rtmp://31.220.0.133:1935/live playpath=ben2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ben2&vw=620&vh=490
 #EXTINF:-1 tvg-id="188 tvg-logo="188",Sport: BEIN SPORTS HD3
-rtmp://31.220.0.134:1935/live playpath=bein3 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein3&vw=620&vh=490
+rtmp://31.220.0.134:1935/live playpath=ben3 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ben3&vw=620&vh=490
 #EXTINF:-1 tvg-id="189 tvg-logo="189",Sport: BEIN SPORTS HD4
 rtmp://31.220.0.134:1935/live playpath=bein4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein4&vw=620&vh=490
 #EXTINF:-1 tvg-id="190 tvg-logo="190",Sport: BEIN SPORTS HD5
 rtmp://31.220.0.104:1935/live playpath=bein5 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein5&vw=620&vh=490
 #EXTINF:-1 tvg-id="191 tvg-logo="191",Sport: BEIN SPORTS HD6
-rtmp://31.220.0.134:1935/live playpath=bein6 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein6&vw=620&vh=490
+rtmp://31.220.0.134:1935/live playpath=bnxx6 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bnxx6&vw=620&vh=490
 #EXTINF:-1 tvg-id="192 tvg-logo="192",Sport: BEIN SPORTS HD7
-rtmp://31.220.0.134:1935/live playpath=bein7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein7&vw=620&vh=490
+rtmp://31.220.0.134:1935/live playpath=bnxx7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bnxx7&vw=620&vh=490
 #EXTINF:-1 tvg-id="193 tvg-logo="193",Sport: BEIN SPORTS HD8
-rtmp://31.220.0.134:1935/live playpath=bein8 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein8&vw=620&vh=490
+rtmp://31.220.0.134:1935/live playpath=bnxx8 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bnxx8&vw=620&vh=490
 #EXTINF:-1 tvg-id="194 tvg-logo="194",Sport: BEIN SPORTS HD9
 rtmp://31.220.0.134:1935/live playpath=bein11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein11&vw=620&vh=490
 #EXTINF:-1 tvg-id="195 tvg-logo="195",Sport: BEIN SPORTS HD10
