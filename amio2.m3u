@@ -152,7 +152,7 @@ http://149.255.152.72/hls-live/livepkgr/cnnintl/cnnintl/cnnintl.m3u8
 #EXTINF:-1 tvg-id="068 tvg-logo="068",News: CNN 
 rtmp://lm04.everyon.tv:1935/ptv4/ playpath=phd16 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/cnn3.html
 #EXTINF:-1 tvg-id="068 tvg-logo="068",News: CNN International
-http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e46_wcif.sdp/e46_wcif.sdp-mr2548k.m3u8
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD177_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="070 tvg-logo="070",News: CNC
 http://cnc.lsops.net/live/cnc_en_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="071 tvg-logo="071",News: DW Arabic
@@ -255,6 +255,8 @@ rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_3 app=dmiLiveDub
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=DubaiEurope_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="120 tvg-logo="120",Arabic: Dubai One
 http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
+#EXTINF:-1,DUBAI ONE
+http://62.63.207.51:4242/udp/239.193.1.28:3301?auth=yes?
 #EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Fatafeat
 rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Fatafeat (Alternative Source)
@@ -333,6 +335,14 @@ http://4.31.30.145:9062
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="184 tvg-logo="184",Sport: Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
+#EXTINF:-1,AD SPORT 1
+http://62.63.207.51:4242/udp/239.193.0.244:3301?auth=yes?
+#EXTINF:-1,AD Sport 2
+http://62.63.207.51:4242/udp/239.193.0.242:3301?auth=yes?
+#EXTINF:-1,AD Sports 3 HD
+http://62.63.207.51:4242/udp/239.193.48.13:3301?auth=yes?
+#EXTINF:-1,AD Sports 4 HD
+http://62.63.207.51:4242/udp/239.193.48.14:3301?auth=yes?
 #EXTINF:-1,Sport: ASTRO SUPERSPORT 1
 rtmp://103.7.56.16:1935/live/45c78d.stream
 #EXTINF:-1,Sport: ASTRO SUPERSPORT 2
@@ -399,10 +409,68 @@ rtmpe://46.246.124.7:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/a
 rtmpe://46.246.124.7:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 15
 rtmpe://46.246.124.7:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN Sports 1
+http://62.63.207.51:4242/udp/239.193.48.25:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 1 HD
+http://62.63.207.51:4242/udp/239.193.48.1:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 1 HD
+http://62.63.207.51:4242/udp/239.193.255.205:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 11
+http://62.63.207.51:4242/udp/239.193.48.11:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 11
+http://62.63.207.51:4242/udp/239.193.255.203:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 12
+http://62.63.207.51:4242/udp/239.193.255.204:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 12
+http://62.63.207.51:4242/udp/239.193.48.12:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 2
+http://62.63.207.51:4242/udp/239.193.48.24:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 2 HD
+http://62.63.207.51:4242/udp/239.193.255.206:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 2 HD
+http://62.63.207.51:4242/udp/239.193.48.2:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 3
+http://62.63.207.51:4242/udp/239.193.48.23:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 3 HD
+http://62.63.207.51:4242/udp/239.193.255.207:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 3 HD
+http://62.63.207.51:4242/udp/239.193.48.3:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 4
+http://62.63.207.51:4242/udp/239.193.48.22:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 4 HD
+http://62.63.207.51:4242/udp/239.193.48.4:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 4 HD
+http://62.63.207.51:4242/udp/239.193.255.208:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 5
+http://62.63.207.51:4242/udp/239.193.48.7:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 5 HD
+http://62.63.207.51:4242/udp/239.193.255.209:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 5 HD
+http://62.63.207.51:4242/udp/239.193.48.5:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 6
+http://62.63.207.51:4242/udp/239.193.255.200:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 6
+http://62.63.207.51:4242/udp/239.193.48.8:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 6 HD
+http://62.63.207.51:4242/udp/239.193.48.6:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 6 HD
+http://62.63.207.51:4242/udp/239.193.255.210:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 7
+http://62.63.207.51:4242/udp/239.193.255.201:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 7
+http://62.63.207.51:4242/udp/239.193.48.9:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 7 HD
+http://62.63.207.51:4242/udp/239.193.255.211:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 8
+http://62.63.207.51:4242/udp/239.193.48.10:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 8
+http://62.63.207.51:4242/udp/239.193.255.202:3301?auth=yes?
+#EXTINF:-1,BEIN Sports 8 HD
+http://62.63.207.51:4242/udp/239.193.255.212:3301?auth=yes?
 #EXTINF:-1 tvg-id="231 tvg-logo="231",Sport: BBC SPORT(Uk)
 rtmp://46.246.29.138:1935/stream/0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1
 #EXTINF:-1 tvg-id="231 tvg-logo="231",Sport: BT Sport 1
-rtmp://31.220.0.103:1935/live playpath=bt1dd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1dd&vw=620&vh=490
+rtmp://31.220.0.103:1935/live playpath=bt1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1rx&vw=620&vh=490
 #EXTINF:-1 tvg-id="232 tvg-logo="232",Sport: BT Sport 2
 rtmp://31.220.0.104:1935/live playpath=bt2rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2rx&vw=620&vh=490
 #EXTINF:-1,BT SPORT 1 HD
@@ -415,6 +483,12 @@ rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=ht
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=DubaiSports_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="239 tvg-logo="239",Sport: Dubai Sports
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
+#EXTINF:-1,DUBAI SPORT1
+http://62.63.207.51:4242/udp/239.193.1.29:3301?auth=yes?
+#EXTINF:-1,DUBAI RACING CHANNEL
+http://62.63.207.51:4242/udp/239.193.1.37:3301?auth=yes?
+#EXTINF:-1,Dubai Racing Channel
+http://62.63.207.51:4242/udp/239.193.48.21:3301?auth=yes?
 #EXTINF:-1 tvg-id="243 tvg-logo="243",Sport: Eurosport 1
 rtmp://31.220.0.134:1935/live playpath=euro1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1rx&vw=620&vh=490
 #EXTINF:-1 tvg-id="245 tvg-logo="245",Sport: Eurosport 2
@@ -523,8 +597,8 @@ rtmp://31.220.0.104:1935/live playpath=ghjjjj swfUrl=http://www.eucast.tv/player
 rtmp://31.220.0.134:1935/live playpath=dsee swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsd33ww&vw=620&vh=490
 #EXTINF:-1 tvg-id="273 tvg-logo="273",Sport: STAR SPORTS
 rtmp://31.220.0.103:1935/live playpath=sdsh swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsh&vw=620&vh=490
-#EXTINF:-1 tvg-id="274 tvg-logo="274",Sport: SportHD 
-http://cmorehlsedc-i.akamaihd.net/hls/live/208145/cmsporthd/01.m3u8
+#EXTINF:-1,STAR SPORTS
+http://m24.megafun.vn/live.vs?c=vstv033&q=high
 #EXTINF:-1 tvg-id="274 tvg-logo="274",Sport: SportTV 1
 rtmp://89.248.168.130:443/share/live1-rbi6c swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
 #EXTINF:-1 tvg-id="274 tvg-logo="274",Sport: SportTV 2
@@ -543,6 +617,8 @@ rtmp://89.248.162.212:443/share/live4-w04by swfUrl=http://adbuck.cc/player/playe
 rtmp://31.220.0.134:1935/live playpath=tensport swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tensport&vw=620&vh=490
 #EXTINF:-1 tvg-id="277 tvg-logo="277",Sport: Ten Action
 rtmp://31.220.0.104:1935/live playpath=tenaction3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tenaction3&vw=620&vh=490
+#EXTINF:-1,Ten cricket
+http://62.63.207.51:4242/udp/239.193.48.15:3301?auth=yes?
 #EXTINF:-1 tvg-id="278 tvg-logo="278",Sport: WWE HD
 rtmp://www.planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://pro-wrestling.tv/uppod.swf live=1 pageUrl=http://www.watchtv.co/wwe-hd-tv-live/
 #EXTINF:-1 tvg-id="278 tvg-logo="278",Sport: Pro Wrestling TV
@@ -576,8 +652,6 @@ http://88.150.196.74:8080/sport1
 #EXTINF:-1 tvg-id="284 tvg-logo="284 group-title="Documentary",Documentary: Al Jazeera Docu
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player/player.swf?274354545150&arabichannels.com&copyright=2013&provider=rtmp&streamer=rtmp://arabichannels.com pageUrl=http://arabichannels.com/aljazeera_doc.php live=1 timeout=15 swfVfy=1 conn=S:OK
 #EXTINF:-1 tvg-id="285 tvg-logo="285",Documentary: ANIMAL PLANET HD
-rtsp://173.193.20.150:1935/mtv/30/
-#EXTINF:-1 tvg-id="285 tvg-logo="285",Documentary: ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="285 tvg-logo="285",Documentary: ANIMAL PLANET HD
 http://178.49.132.73/streaming/animalplanet/tvrec/playlist.m3u8
@@ -587,8 +661,6 @@ rtmp://s01.webport.tv/promo/mtv pageURL=http://www.hqtv.biz swfUrl=http://www.hq
 http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e45_wcif.sdp/e45_wcif.sdp-mr2548k.m3u8
 #EXTINF:-1 tvg-id="285 tvg-logo="285",Documentary: ANIMAL PLANET HD
 rtmp://s01.webport.tv/promo/mtv live=2
-#EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery Channel RUS
-rtmp://online-record.ru:1935/ playpath=discovery_low swfUrl=http://moetv.ucoz.ru/uppod.swf pageUrl=http://moetv.ucoz.ru/index/discovery_vlc/0-197
 #EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery Russia
 http://178.49.132.73/streaming/discovery/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery Word
@@ -603,24 +675,10 @@ http://iphone-streaming.ustream.tv/ustreamVideo/14315001/streams/live/playlist.m
 http://m24.megafun.vn/live.vs?c=vstv044&q=high
 #EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Nat Wild
 rtmp://27.254.84.3:1935/live/rdddis.stream
-#EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery Channel
-rtsp://173.193.20.150:1935/mtv/master04
-#EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery Turbo
-rtsp://173.193.20.150:1935/mtv/92
-#EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: DISCOVERY TURBO HD
-rtsp://173.193.20.150:1935/mtv/92hd
-#EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery Science
-rtsp://173.193.20.136:1935/mtv/130
 #EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery Science HD
 rtsp://173.193.20.136:1935/mtv/130hd
 #EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: DISC. SCIENCE
 http://212.33.237.113:8047/
-#EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery Civilization
-rtsp://173.193.20.150:1935/mtv/109
-#EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery HD Theater
-rtsp://173.193.20.136:1935/mtv/discohd
-#EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: Discovery ID
-rtsp://173.193.20.150:1935/mtv/105
 #EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: DISCOVERY WORLD HD
 http://27.254.84.3:1935/live/rdddis.stream/zgs.m3u8
 #EXTINF:-1 tvg-id="286 tvg-logo="286",Documentary: DISCOVERY Channel 
@@ -633,50 +691,22 @@ http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e34_wcif.sdp/e34_wcif.sdp-mr25
 http://178.49.132.73/streaming/natgeo/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="290 tvg-logo="290",Documentary: Natgeo Wild
 http://178.49.132.73/streaming/nat_geo_wild/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="290 tvg-logo="290",Documentary: Natgeo Wild
-rtsp://173.193.20.150:1935/mtv/animal
 #EXTINF:-1 tvg-id="293 tvg-logo="293",Documentary: Travel & Adventure
 http://178.49.132.73/streaming/traveladventure/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="293 tvg-logo="293",Documentary: Outdoor Channel
 rtmp://lm02.everyon.tv:1935/ptv2/pld613
-#EXTINF:-1 tvg-id="295 tvg-logo="295 group-title="Kids",Kids: Cartoon Network AR
+#EXTINF:-1 tvg-id="295 tvg-logo="295 group-title="Kids",Kids: Cartoon Network
 http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="295 tvg-logo="295",Kids: CARTOON NETWORK
-http://27.254.84.3:1935/live/dfrcar.stream/zgs.m3u8
 #EXTINF:-1 tvg-id="295 tvg-logo="295",Kids: Cartoon Network
-rtmp://198.105.219.132/live playpath=cartoon10?id=1981 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1 tvg-id="295 tvg-logo="295",Kids: Cartoon Network
-http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e47_wcif.sdp/e47_wcif.sdp-mr2548k.m3u8
-#EXTINF:-1 tvg-id="295 tvg-logo="295",Kids: Cartoon Network
-rtmp://miami.tvonlinevto.org:1935/live/ playpath=cartoon swfUrl=http://www.tvonlinevto.org/p.swf pageUrl=http://www.vertvonline.biz/out/cartoon.html
-#EXTINF:-1 tvg-id="295 tvg-logo="295",Kids: Cartoon Network
-rtmp://27.254.84.3:1935/live/dfrcar.stream
+http://m24.megafun.vn/live.vs?c=vstv031&q=high
 #EXTINF:-1 tvg-id="297 tvg-logo="297",Kids: ANIMATED FILMS
 mms://72.13.93.186/animatedfilms
-#EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: Disney XD
-rtmp://109.123.123.68/live playpath=dxd10?id=1986 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/dxd10/1/585/385 Conn=S:OK --live
-#EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: Disney XD
-http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e37_wcif.sdp/e37_wcif.sdp-mr2548k.m3u8
-#EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: Disney Junior
-rtmp://46.28.53.18/live playpath=junior10?id=1980 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
 #EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: DISNEY CHANNEL
-rtmp://198.105.219.132/live playpath=disney10?id=1983 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/disney10/1/585/385 Conn=S:OK --live
-#EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: Disney
-rtmp://live.cast-tv.us/stream playpath=z00020.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=disney live=true timeout=10
+http://m24.megafun.vn/live.vs?c=vstv032&q=high
 #EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: Disney
 http://202.76.72.141:30080/Entry/8124?m3u8
-#EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: Disney
-http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e40_wcif.sdp/e40_wcif.sdp-mr2548k.m3u8
-#EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: Disney Junior
-http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e771_wcif.sdp/e771_wcif.sdp-mr2548k.m3u8
-#EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: Disney Junior
-rtmp://46.28.53.18/live playpath=junior10?id=1980 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1 tvg-id="300 tvg-logo="300",Kids: NICKELODEON
-rtmp://206.190.140.36/live playpath=nick10?id=1984 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
 #EXTINF:-1 tvg-id="300 tvg-logo="300",Kids: NICKELODEON
 http://178.49.132.73/streaming/nickelodeon/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="300 tvg-logo="300",Kids: NICKELODEON
-http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e32_wcif.sdp/e32_wcif.sdp-mr2548k.m3u8
 #EXTINF:-1,Kids: Tom & Jerry Channel
 rtmp://204.45.108.34/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 #EXTINF:-1,Kids: Kids1
@@ -686,21 +716,25 @@ http://202.76.72.141:30080/Entry/8138?m3u8
 #EXTINF:-1 tvg-id="317 tvg-logo="317",Movies: ABC Family Español
 rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chabcfamily/2008/08/18/be099cc9-897f-4c0a-bd7f-da4393e4530d
 #EXTINF:-1 tvg-id="302 tvg-logo="302",Movies: CINEMAX
-rtsp://173.193.20.150:1935/mtv/53
-#EXTINF:-1 tvg-id="302 tvg-logo="302",Movies: CINEMAX
 http://m24.megafun.vn/live.vs?c=vstv037&q=high
 #EXTINF:-1 tvg-id="303 tvg-logo="303",Movies: Cinema Pictures
 mms://72.13.93.186/moviesofthe50s?MSWMExt=.asf
 #EXTINF:-1 tvg-id="126 tvg-logo="126",Movies: FOX 
 http://178.49.132.73/streaming/fox/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="126 tvg-logo="126",Movies: FOX  HD
-rtmp://50.7.133.122/iguide playpath=qy1labxlexlgr65 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1 tvg-id="126 tvg-logo="126",Movies: FOX LIFE
 http://178.49.132.73/streaming/foxlife/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="328 tvg-logo="328",Movies: HBO
+#EXTINF:-1,HBO
+http://m24.megafun.vn/live.vs?c=vstv013&q=high
+#EXTINF:-1,HBO
 http://m24.megafun.vn/live.vs?c=vstv036&q=high
-#EXTINF:-1 tvg-id="328 tvg-logo="328",Movies: HBO
-rtmp://live.cast-tv.us/stream playpath=z00012.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=hbo live=true timeout=10
+#EXTINF:-1,OSN 1 HD
+http://62.63.207.51:4242/udp/239.193.48.17:3301?auth=yes?
+#EXTINF:-1,OSN 2 HD
+http://62.63.207.51:4242/udp/239.193.48.18:3301?auth=yes?
+#EXTINF:-1,OSN 3
+http://62.63.207.51:4242/udp/239.193.48.19:3301?auth=yes?
+#EXTINF:-1,OSN 4
+http://62.63.207.51:4242/udp/239.193.48.20:3301?auth=yes?
 #EXTINF:-1 tvg-id="307 tvg-logo="307",Movies: STAR-WORLD
 http://m24.megafun.vn/live.vs?c=vstv039&q=high 
 #EXTINF:-1 tvg-id="307 tvg-logo="307",Movies: STAR-MOVIES
@@ -897,8 +931,6 @@ http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e26_wcif.sdp/e26_wcif.sdp-mr25
 http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e722_wcif.sdp/e722_wcif.sdp-mr2548k.m3u8
 #EXTINF:-1,BBC World News
 http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e751_wcif.sdp/e751_wcif.sdp-mr2548k.m3u8
-#EXTINF:-1,Bio HD
-rtsp://173.193.20.150:1935/mtv/hishd
 #EXTINF:-1,CBS
 rtmp://77.81.98.134/hot/ playpath=ocbs?v=16beinxx115aa17548db352f528e84ad5c4beinxx11a  swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf  pageUrl=http://www.castok.com/embed.php?v=ocbs&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
 #EXTINF:-1,CBS
@@ -911,8 +943,6 @@ http://m24.megafun.vn/live.vs?c=vstv085&q=high
 rtmp://live.cast-tv.us/stream playpath=z00031.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,Fashiontv
 http://m24.megafun.vn/live.vs?c=vstv041&q=high
-#EXTINF:-1,Home and Health
-rtsp://173.193.20.150:1935/mtv/106
 #EXTINF:-1,KTLA
 rtmp://live.cast-tv.us/stream playpath=z00004.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
 #EXTINF:-1,MSNBC
@@ -1027,6 +1057,130 @@ rtmp://173.193.205.94/live playpath=dport67?id=64263 swfUrl=http://www.ucaster.e
 rtmp://95.211.168.161/vl/_definst_ playpath=ligaopcion6 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php
 #EXTINF:-1,+LIGA
 rtmp://82.192.95.75/vl/_definst_ playpath=caramierda3 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=caramierda3&vw=645&vh=395&domain=www.tvonlinegratis.mobi
+#EXTINF:-1 group-title="Brazil",TC ACTION 
+rtsp://173.193.20.150:1935/mtv/37 
+#EXTINF:-1,Multishow 
+rtsp://173.193.20.136:1935/mtv/brlive_0031 
+#EXTINF:-1,Mac premior 
+rtsp://173.193.20.150:1935/mtv/tvmsnmaxxprime 
+#EXTINF:-1,itsat 
+rtsp://173.193.20.136:1935/mtv/131 
+#EXTINF:-1,GNT 
+rtsp://173.193.20.136:1935/mtv/132 
+#EXTINF:-1,FUTEBOL PREMIERE 
+rtsp://173.193.20.136:1935/mtv/futebolgrande 
+#EXTINF:-1,FOX 
+rtsp://173.193.20.150:1935/mtv/8 
+#EXTINF:-1,ESPN 
+rtsp://173.193.20.150:1935/mtv/1 
+#EXTINF:-1,DISNEY XD 
+rtsp://173.193.20.150:1935/mtv/60 
+#EXTINF:-1,Discovery Turbo 
+rtsp://173.193.20.150:1935/mtv/92 
+#EXTINF:-1,Discovery Science 
+rtsp://173.193.20.136:1935/mtv/130 
+#EXTINF:-1,Discovery ID 
+rtsp://173.193.20.150:1935/mtv/105 
+#EXTINF:-1,Discovery HD Theater 
+rtsp://173.193.20.136:1935/mtv/discohd 
+#EXTINF:-1,DISCOVERY CHANNEL 
+rtsp://173.193.20.150:1935/mtv/master04 
+#EXTINF:-1,COMBATE 
+rtsp://173.193.20.136:1935/mtv/mmahd 
+#EXTINF:-1,CINEMAX 
+rtsp://173.193.20.150:1935/mtv/53 
+#EXTINF:-1,Cine Brasil TV 
+rtsp://173.193.20.136:1935/mtv/boninhohd 
+#EXTINF:-1,cartono 
+rtsp://173.193.20.150:1935/mtv/brlive_0028 
+#EXTINF:-1,SBT 
+rtmp://67.228.212.5/ponto61/cidadeverde 
+#EXTINF:-1,TV PAMPA - RS 
+rtmp://67.228.212.5:1935/ponto4/tvpampa 
+#EXTINF:-1,TV Cidade mms 
+mms://65.182.104.113/tvcidade 
+#EXTINF:-1,Igreja Cristo Vive mms 
+mms://overserver1000.com/tvcristovive3 
+#EXTINF:-1,REDE FAMILIA mms 
+mms://srv3.ntelecom.com.br/redefamilia 
+#EXTINF:-1,UCG TV - Goias 
+mms://wms.softhost.com.br/ucgtv 
+#EXTINF:-1,Rede Super 
+rtmp://209.51.135.130:1935/redesuper3principal/_definst_/redesuper3 
+#EXTINF:-1 ="BRASIL",MANA SAT 
+rtmp://195.22.19.179/manasat/manasat2 
+#EXTINF:-1,Canal 21 
+rtmp://wowza.catve.com.br/live2/livestream 
+#EXTINF:-1,Canal do Boi 
+rtmp://srvvenus.canaldoboi.com/livecb/livestream 
+#EXTINF:-1,CATVE CASCAVEL 
+rtmp://stream.catve.com.br/live/livestream 
+#EXTINF:-1,Rede Família 
+rtsp://srv3.ntelecom.com.br/redefamilia 
+#EXTINF:-1,TVU TV Urbana 
+rtsp://srv4.zoeweb.tv:1935/z24-live/stream 
+#EXTINF:-1,UCG TV / TV Aparecida (2) 
+rtsp://wms.softhost.com.br/ucgtv 
+#EXTINF:-1,A&E 
+rtsp://173.193.20.150:1935/mtv/ae 
+#EXTINF:-1,FOX HQ 
+rtsp://173.193.20.150:1935/mtv/89 
+#EXTINF:-1,FOX (2) 
+rtsp://173.193.20.150:1935/mtv/8 
+#EXTINF:-1,TC FUN 
+rtsp://173.193.20.150:1935/mtv/44 
+#EXTINF:-1,TC TOUCH 
+rtsp://173.193.20.150:1935/mtv/36 
+#EXTINF:-1,SBT 
+rtsp://173.193.20.150:1935/mtv/21 
+#EXTINF:-1,HBO 
+rtsp://173.193.20.150:1935/mtv/108 
+#EXTINF:-1,Home and Health 
+rtsp://173.193.20.150:1935/mtv/106 
+#EXTINF:-1,MGM 
+rtsp://173.193.20.150:1935/mtv/104 
+#EXTINF:-1,SYFY 
+rtsp://173.193.20.150:1935/mtv/103 
+#EXTINF:-1 group-title="BRASIL",BAND HD 
+rtsp://173.193.20.136:1935/mtv/tvimagemhd 
+#EXTINF:-1,GLOBOSAT HD 
+rtsp://173.193.20.136:1935/mtv/sathd 
+#EXTINF:-1,Globosat 
+rtsp://173.193.20.136:1935/mtv/sat 
+#EXTINF:-1,SPORTV 3 BR 
+rtsp://173.193.20.136:1935/mtv/reservamaxx 
+#EXTINF:-1,BAND News 
+rtsp://173.193.20.136:1935/mtv/noticias 
+#EXTINF:-1,VIVA 
+rtsp://173.193.20.136:1935/mtv/master21 
+#EXTINF:-1,Multishow 
+rtsp://173.193.20.136:1935/mtv/brlive_0031 
+#EXTINF:-1,VIVA HD 
+rtsp://173.193.20.136:1935/mtv/52hd 
+#EXTINF:-1,GNT 
+rtsp://173.193.20.136:1935/mtv/132 
+#EXTINF:-1,Discovery Science HD 
+rtsp://173.193.20.136:1935/mtv/130hd 
+#EXTINF:-1,GLOOB HD 
+rtsp://173.193.20.136:1935/mtv/110hd 
+#EXTINF:-1,TCM 
+rtsp://173.193.20.150:1935/mtv/tcm 
+#EXTINF:-1,TC CULT 
+rtsp://173.193.20.150:1935/mtv/tccult 
+#EXTINF:-1,NICK JR 
+rtsp://173.193.20.150:1935/mtv/nickjr 
+#EXTINF:-1,FX 
+rtsp://173.193.20.150:1935/mtv/master25 
+#EXTINF:-1,UNIVERSAL 
+rtsp://173.193.20.150:1935/mtv/master20 
+#EXTINF:-1,TC PIPOCA 
+rtsp://173.193.20.150:1935/mtv/master18 
+#EXTINF:-1,RECORD 
+rtsp://173.193.20.150:1935/mtv/master14 
+#EXTINF:-1,MEGAPIX 
+rtsp://173.193.20.150:1935/mtv/master11 
+#EXTINF:-1,DISNEY CHANNEL 
+rtsp://173.193.20.150:1935/mtv/disney
 #EXTINF:-1 group-title="Indian",Ten HD
 http://202.76.72.141:30080/Entry/8100?m3u8
 #EXTINF:-1,ZEE ANMOL
@@ -1059,6 +1213,80 @@ http://202.76.72.141:30080/Entry/8133?m3u8
 http://202.76.72.141:30080/Entry/8086?m3u8
 #EXTINF:-1,MH ONE
 http://202.76.72.141:30080/Entry/8099?m3u8
+#EXTINF:-1,SAHARA FILMY
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD66_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,SAHARA ONE
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD67_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,NDTV INDIA
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD75_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,INDIA NEWS UP
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD144_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,BIG MAGIC
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD154_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,MAHUAA
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD151_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,MAHUA KHABAR
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD145_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,MAHUA NEWS
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD147_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,INDIA NEWS
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD150_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,INDIA NEWS MP
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD148_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,INDIA NEWS
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD149_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,INDIA NEWS
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD143_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,CARE WORLD
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD152_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,NE TV
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD164_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,NE HIFI: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD168_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,DJ TV
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD126_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,HEADLINES TODAY
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD72_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,ZOOM TV
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD160_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,FOCUS TV
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD163_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,DELHI AAJTAK 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD68_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,ET NOW: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD97_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,TIMES NOW: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD96_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,OTV: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD93_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,RAJ NEWS TELEGU: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD106_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,AAJTAK NEWS: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD77_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,DD NATIONAL: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD99_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,XTREM SPORTS: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD128_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,LSTV: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD3_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,9X MUSIC: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD171_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,9X JALWA: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD173_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,9X JHAKAAS: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD81_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,RAJ MUSIX TELEGU: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD105_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,RAJ MUSIX MALAYALAM: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD104_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,E24: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD83_W_150.sdp/playlist.m3u8
+#EXTINF:-1,POGO TV: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD29_W_250.sdp/playlist.m3u8 
+#EXTINF:-1,GONG TV: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD120_W_150.sdp/playlist.m3u8 
+#EXTINF:-1,DD PUNJABI: 
+http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD2_W_250.sdp/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",PORTUGAL:FOX MOVIES
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxmovies swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxmovies
 #EXTINF:-1,PORTUGAL:FOX CRIME
