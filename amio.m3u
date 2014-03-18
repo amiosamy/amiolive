@@ -61,6 +61,8 @@ rtmp://cp101680.live.edgefcs.net/live?videoId=867654092001&lineUpId=&pubId=75307
 http://68.235.37.110/logoschannel.com/hls/logostv2.m3u8
 #EXTINF:-1 tvg-id="027 tvg-logo="027",Christian: LLBN
 rtmp://cp45648.live.edgefcs.net/live/T01587-3@58798
+#EXTINF:-1 tvg-id="027 tvg-logo="027",Christian: LLBN
+rtmp://stream.livetv.tn/live/ch157?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="028 tvg-logo="028",Christian: Kingdom TV
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
 #EXTINF:-1 tvg-id="028 tvg-logo="028",Christian: Kingdom TV PC Only
@@ -107,6 +109,8 @@ http://www.alkalema.tv/extra/fms/liveevent.m3u8
 http://ooyalahd2-f.akamaihd.net/i/tbn06_delivery@149652/master.m3u8
 #EXTINF:-1 tvg-id="051 tvg-logo="051 group-title="News",News: Alarabiya
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="051 tvg-logo="051",News: Al Arabia News
+rtmp://stream.livetv.tn/live/ch53?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="051 tvg-logo="051",News: Alarabiya HADAS
 http://livestream2.alarabiya.tv/files/hadath.m3u8
 #EXTINF:-1 tvg-id="054 tvg-logo="054",News: Al Jazeera News Arabic
@@ -181,10 +185,14 @@ rtmp://95.211.148.34/wl/channel playpath=987612MSN swfUrl=http://www.webcaston.c
 rtmp://c.cdn.livenewschat.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
 #EXTINF:-1 tvg-id="077 tvg-logo="077",News: Nile News
 http://live.sis.gov.eg/ch1
+#EXTINF:-1 tvg-id="077 tvg-logo="077",News: Nile News
+rtmp://stream.livetv.tn/live/ch133?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="077 tvg-logo="077",News: Nile News PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=NileNews_High&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="079 tvg-logo="079",News: Nile TV PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=NileInt_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="079 tvg-logo="079",News: Nile TV
+rtmp://stream.livetv.tn/live/ch260?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="080 tvg-logo="080",News: NASA TV
 rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_400 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
 #EXTINF:-1 tvg-id="080 tvg-logo="080",News: NASA HD
@@ -213,66 +221,154 @@ rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.
 http://bglive-a.bitgravity.com/twit/live/high
 #EXTINF:-1 tvg-id="088 tvg-logo="088 group-title="Arabic",Arabic: AlMasria PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=AlMasriyah_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="088 tvg-logo="088",Arabic: Al Masria
+rtmp://stream.livetv.tn/live/ch84?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="090 tvg-logo="090",Arabic: Al Thania PC Only
+http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=AlThanya_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="088 tvg-logo="088",Arabic: Al Thania
+rtmp://stream.livetv.tn/live/ch89?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="088 tvg-logo="088",Arabic: Alola
 http://4.31.30.145:9084
-#EXTINF:-1 tvg-id="090 tvg-logo="090",Arabic: AlThania PC Only
-http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=AlThanya_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="088 tvg-logo="088",Arabic: ART Aflem 1
+rtmp://stream.livetv.tn/live/ch40?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="088 tvg-logo="088",Arabic: ART Aflem 2
+rtmp://stream.livetv.tn/live/ch41?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="088 tvg-logo="088",Arabic: Arabica Music
+rtmp://stream.livetv.tn/live/ch61?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="092 tvg-logo="092",Arabic: AlTahrir Tv PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=Tahrir_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="095 tvg-logo="095",Arabic: Al Nahar
 rtmp://50.7.180.18/nahar1 playpath=nahar1.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
+#EXTINF:-1 tvg-id="095 tvg-logo="095",Arabic: Al Nahar
+rtmp://stream.livetv.tn/live/ch250?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="096 tvg-logo="096",Arabic: Al Nahar +2
 rtmp://50.7.180.18/nahar1/alnahar2.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
+#EXTINF:-1 tvg-id="096 tvg-logo="096",Arabic: Al Nahar +2
+rtmp://stream.livetv.tn/live/ch283?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="097 tvg-logo="097",Arabic: Al Nahar Drama
 rtmp://50.7.180.18/nahar1 playpath=alnahardrama.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnahardrama/
+#EXTINF:-1 tvg-id="097 tvg-logo="097",Arabic: Al Nahar Drama
+rtmp://stream.livetv.tn/live/ch59?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="097 tvg-logo="097",Arabic: Al Nahar Drama +2
+rtmp://stream.livetv.tn/live/ch284?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="099 tvg-logo="099",Arabic: Abu Dhabi TV1 PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=ADAlOula_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="099 tvg-logo="099",Arabic: Abu Dhabi
+rtmp://stream.livetv.tn/live/ch80?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="099 tvg-logo="099",Arabic: Abu Dhabi Drama
+rtmp://stream.livetv.tn/live/ch54?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="103 tvg-logo="103",Arabic: AlHayat
+rtmp://stream.livetv.tn/live/ch96?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="103 tvg-logo="103",Arabic: Alhayat Cinema
-http://4.31.30.145:9067/
+rtmp://stream.livetv.tn/live/ch97?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="103 tvg-logo="103",Arabic: Alhayat Cinema PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=AlHayatCinema_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="103 tvg-logo="103",Arabic: AlHayat Series
+rtmp://stream.livetv.tn/live/ch21?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="106 tvg-logo="106",Arabic: Alqahera Wal Nas 2
+rtmp://stream.livetv.tn/live/ch281?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="106 tvg-logo="106",Arabic: Alqahera Alyoum
 rtmp://174.36.220.201/live playpath=amradeebtv9?id=190386 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/amradeebtv9/1/480/380
 #EXTINF:-1 tvg-id="107 tvg-logo="107",Arabic: Aghani TV
 rtmp://mobilestreaming.itworkscdn.com/aghanitv/ playpath=aghanitv swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/egypte/aghani.html
 #EXTINF:-1 tvg-id="108 tvg-logo="108",Arabic: CBC
 http://iphone-streaming.ustream.tv/ustreamVideo/8707800/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="103 tvg-logo="103",Arabic: CBC TV
+rtmp://stream.livetv.tn/live/ch23?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="109 tvg-logo="109",Arabic: CBC +2
 http://iphone-streaming.ustream.tv/ustreamVideo/12794820/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="109 tvg-logo="109",Arabic: CBC +2
+rtmp://stream.livetv.tn/live/ch254?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="109 tvg-logo="109",Arabic: CBC Drama
+rtmp://stream.livetv.tn/live/ch22?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="110 tvg-logo="110",Arabic: CBC Extra
+rtmp://stream.livetv.tn/live/ch255?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="110 tvg-logo="110",Arabic: CBC Sofra
-rtmp://41.196.200.11:9900/live playpath=ssoofra.stream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 pageUrl=http://www.cbcsofra.com/%d8%a7%d9%84%d8%a8%d8%ab-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/
+rtmp://stream.livetv.tn/live/ch256?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="113 tvg-logo="113",Arabic: Cairo Cinema PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=CairoCinema_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="113 tvg-logo="113",Arabic: Cairo Cinema
+rtmp://stream.livetv.tn/live/ch63?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="113 tvg-logo="113",Arabic: Cairo Drama
+rtmp://stream.livetv.tn/live/ch64?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="113 tvg-logo="113",Arabic: Cima
+rtmp://stream.livetv.tn/live/ch108?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="116 tvg-logo="116",Arabic: Dream 1 PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=Dream1_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="118 tvg-logo="118",Arabic: Dream 2 PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=Dream2_High&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="116 tvg-logo="116",Arabic: Dream 1
+rtmp://stream.livetv.tn/live/ch24?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="119 tvg-logo="119",Arabic: Dubai
 http://dmilivedubaitv.http.internapcdn.net/dmiLiveDubaiTV/dubaiTVLive130503.m3u8
 #EXTINF:-1 tvg-id="119 tvg-logo="119",Arabic: Dubai
 rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_3 app=dmiLiveDubaiTV/live_3 playpath=dmilivedubaitv_4 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaitv swfVfy=true live=true timeout=15
-#EXTINF:-1 tvg-id="119 tvg-logo="119",Arabic: Dubai
+#EXTINF:-1 tvg-id="119 tvg-logo="119",Arabic: Dubai PC
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=DubaiEurope_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="119 tvg-logo="119",Arabic: Dubai
+rtmp://stream.livetv.tn/live/ch25?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="120 tvg-logo="120",Arabic: Dubai One
 http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
 #EXTINF:-1,DUBAI ONE
-http://62.63.207.51:4242/udp/239.193.1.28:3301?auth=yes?
+rtmp://stream.livetv.tn/live/ch111?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Fatafeat
 rtmp://live-f01.vustream.net/live/livestream3
+#EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Fatafeat
+rtmp://stream.livetv.tn/live/ch26?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Fatafeat (Alternative Source)
 http://212.179.77.42/live/livestream3/gmswf.m3u8
+#EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Fox
+rtmp://stream.livetv.tn/live/ch107?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Fox Movies
+rtmp://stream.livetv.tn/live/ch27?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Fx
+rtmp://stream.livetv.tn/live/ch120?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="127 tvg-logo="127",Arabic: Future TV
 rtmp://livestreaming2.itworkscdn.net/ftvlive/ playpath=ftvlive swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf pageUrl=http://itworks-me.net/ftvent/index.html timeout=15 live=1 swfvfy=1
+#EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: LBC
+rtmp://stream.livetv.tn/live/ch28?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: LBC Europe
+rtmp://stream.livetv.tn/live/ch125?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Mazzika
+rtmp://stream.livetv.tn/live/ch29?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Mazika Zoom
+rtmp://stream.livetv.tn/live/ch129?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="121 tvg-logo="121",Arabic: Masrawi Aflem
+rtmp://stream.livetv.tn/live/ch127?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="131 tvg-logo="131",Arabic: Mehwar PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=ElMehwar_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="131 tvg-logo="131",Arabic: Mehwar
+rtmp://stream.livetv.tn/live/ch148?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="131 tvg-logo="131",Arabic: Mehwar Drama
 rtmp://livestreaming4.onlinehorizons.net/MehwarTVDRAMA playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://www.elmehwartv.com/1/
 #EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC
 rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe4c75c48cfd34536d1beinxx11cf1d573e68e1a4342bee2da2192596cd5cb4fddb78fce318be0d4d23ae8aab2d0743823a5e76906bee11e0bbbb58ce968deb63a9c28a9c69abbd9cd84d2a670876f27069755c69867b3fa7a6c03ecaa86ab30f103e057f9e09008ac3a74360e9fe018acca0e363239e400fb8a54c4d18c661538a26509a841f40344bf02249e0d34dfaf2b0cd0/367.high.stream
 #EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC 2
 rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe4c75c48cfd34536d1beinxx11cf1d573e68e1a4342bee2da2192596cd5cb4fddb78fce318be0d4d23ae8aab2d0743823a5e76906bee11e0bbbb58ce968deb63a9c28a9c69abbd9cd84d2a670876f27069755c69867b3fa7a6c03ecaa86ab30f103e057f9e09008ac3a74360e9fe018acca0e363239e400fb8a54c4d18c661538a26509a841f40344bf02249e0d34dfaf2b0cd0/368.high.stream
+#EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC
+rtmp://stream.livetv.tn/live/ch30?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC 2
+rtmp://stream.livetv.tn/live/ch31?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC 3
+rtmp://stream.livetv.tn/live/ch32?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC 4
+rtmp://stream.livetv.tn/live/ch33?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC Action
+rtmp://stream.livetv.tn/live/ch34?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC Bollywood
+rtmp://stream.livetv.tn/live/ch35?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC Drama
+rtmp://stream.livetv.tn/live/ch36?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC Masr
+rtmp://stream.livetv.tn/live/ch37?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="134 tvg-logo="134",Arabic: MBC MAX
+rtmp://stream.livetv.tn/live/ch38?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="145 tvg-logo="145",Arabic: Melody
+rtmp://stream.livetv.tn/live/ch147?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="145 tvg-logo="145",Arabic: Melody Aflam
 rtmp://38.96.148.24/MelodyAflam/MAflam_576p
+#EXTINF:-1 tvg-id="145 tvg-logo="145",Arabic: Melody Aflam
+rtmp://stream.livetv.tn/live/ch130?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="145 tvg-logo="145",Arabic: Melody Classic
 rtmp://38.96.148.24/MelodyClassic/MClassic_576p
 #EXTINF:-1 tvg-id="147 tvg-logo="147",Arabic: Melody Drama
@@ -282,37 +378,53 @@ rtmp://38.96.148.24/MelodyHits/MHits_576p
 #EXTINF:-1 tvg-id="153 tvg-logo="153",Arabic: Melody Arabia
 rtmp://38.96.148.24/MelodyArabia/MArabia_576p
 #EXTINF:-1 tvg-id="155 tvg-logo="155",Arabic: Moga Comedy
-rtmp://tdsiptv.ddns.me/live playpath=ch67?code=w_fde6e590a2c6f4d swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-68-3-4-MogaComedy.html
+rtmp://stream.livetv.tn/live/ch67?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="156 tvg-logo="156",Arabic: MTV Lebanon PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=MTVLebanon_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
+#EXTINF:-1 tvg-id="156 tvg-logo="156",Arabic: MTV Lebanon
+rtmp://stream.livetv.tn/live/ch145?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="158 tvg-logo="158",Arabic: Nile Cinma
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1
+#EXTINF:-1 tvg-id="158 tvg-logo="158",Arabic: Nile Cinma
+rtmp://stream.livetv.tn/live/ch131?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="158 tvg-logo="158",Arabic: Nile Cinma PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=NileCinema_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="160 tvg-logo="160",Arabic: Nile Drama
 rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=drama live=1
+#EXTINF:-1 tvg-id="160 tvg-logo="160",Arabic: Nile Drama
+rtmp://stream.livetv.tn/live/ch69?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="160 tvg-logo="160",Arabic: Nile Drama PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=NileCinema_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="160 tvg-logo="160",Arabic: Nile Drama 2
 rtmp://tdsiptv.ddns.me/live playpath=ch132?code=w_0f8985c1ecbd254 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-137-3-4-NileDrama2.html
+#EXTINF:-1 tvg-id="160 tvg-logo="160",Arabic: Nile Drama 2
+rtmp://stream.livetv.tn/live/ch132?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="160 tvg-logo="160",Arabic: Nile Drama 2 PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=NileDrama2_High&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="164 tvg-logo="164",Arabic: Nile Comedy
 rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy live=1
+#EXTINF:-1 tvg-id="164 tvg-logo="164",Arabic: Nile Comedy
+rtmp://stream.livetv.tn/live/ch68?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="164 tvg-logo="164",Arabic: Nile Comedy PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=NileComedy_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="166 tvg-logo="166",Arabic: Nile Culture
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=culture live=1
 #EXTINF:-1 tvg-id="167 tvg-logo="167",Arabic: Nile Family
 rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=family live=1
+#EXTINF:-1 tvg-id="167 tvg-logo="167",Arabic: Nile Family
+rtmp://stream.livetv.tn/live/ch70?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="168 tvg-logo="168",Arabic: Nile Learning
 rtmp://livestreaming4.onlinehorizons.net/NTNNileLearning playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=learning live=1
 #EXTINF:-1 tvg-id="169 tvg-logo="169",Arabic: Nile Life
 rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=life live=1
+#EXTINF:-1 tvg-id="169 tvg-logo="169",Arabic: Nile Life
+rtmp://stream.livetv.tn/live/ch259?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="170 tvg-logo="170",Arabic: ON TV
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="170 tvg-logo="170",Arabic: ON TV Live
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="170 tvg-logo="170",Arabic: ON TV
+rtmp://stream.livetv.tn/live/ch144?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="170 tvg-logo="170",Arabic: ON TV PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="174 tvg-logo="174",Arabic: Panaroma Film
@@ -329,20 +441,40 @@ rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe4c75c48cfd34536d1beinxx11cf1d573e
 rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe4c75c48cfd34536d1beinxx11cf1d573e68e1a4342bee2da2192596cd5cb4fddb78fce318be0d4d23ae8aab2d0743823a5e76906bee11e0bbbb58ce968deb63a9c28a9c69abbd9cd84d2a670876f27069755c69867b3fa7a6c03ecaa86ab30f103e057f9e09008ac3a74360e9fe018acca0e363239e400fb8a54c4d18c661538a26509a841f40344bf02249e0d34dfaf2b0cd0/2600.high.stream
 #EXTINF:-1,Arabic: Rotana Clip
 rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe4c75c48cfd34536d1beinxx11cf1d573e68e1a4342bee2da2192596cd5cb4fddb78fce318be0d4d23ae8aab2d0743823a5e76906bee11e0bbbb58ce968deb63a9c28a9c69abbd9cd84d2a670876f27069755c69867b3fa7a6c03ecaa86ab30f103e057f9e09008ac3a74360e9fe018acca0e363239e400fb8a54c4d18c661538a26509a841f40344bf02249e0d34dfaf2b0cd0/2603.high.stream
-#EXTINF:-1 tvg-id="181 tvg-logo="181",Arabic: TIME CINEMA
-http://4.31.30.145:9062
+#EXTINF:-1,Arabic: Rotana Cinema
+rtmp://stream.livetv.tn/live/ch45?code=86be09a5c89327b
+#EXTINF:-1,Arabic: Rotana Aflam
+rtmp://stream.livetv.tn/live/ch46?code=86be09a5c89327b
+#EXTINF:-1,Arabic: Rotana Classic
+rtmp://stream.livetv.tn/live/ch44?code=86be09a5c89327b
+#EXTINF:-1,Arabic: Rotana Masria
+rtmp://stream.livetv.tn/live/ch42?code=86be09a5c89327b
+#EXTINF:-1,Arabic: Rotana
+rtmp://stream.livetv.tn/live/ch43?code=86be09a5c89327b
+#EXTINF:-1,Arabic: Rotana Clip
+rtmp://stream.livetv.tn/live/ch135?code=86be09a5c89327b
+#EXTINF:-1,Arabic: SadacAlBalad Drama
+rtmp://stream.livetv.tn/live/ch282?code=86be09a5c89327b
+#EXTINF:-1,Arabic: Syria Drama
+rtmp://stream.livetv.tn/live/ch71?code=86be09a5c89327b
+#EXTINF:-1,Arabic: Star Cinema
+rtmp://stream.livetv.tn/live/ch141?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="181 tvg-logo="181",Arabic: Time Comedy
+rtmp://stream.livetv.tn/live/ch47?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="181 tvg-logo="181",Arabic: Top Movies
+rtmp://stream.livetv.tn/live/ch102?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="181 tvg-logo="181",Arabic: Zee Alwen
+rtmp://stream.livetv.tn/live/ch48?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="181 tvg-logo="181",Arabic: Zee Aflem
+rtmp://stream.livetv.tn/live/ch74?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="182 tvg-logo="182 group-title="Sport",Sport: ALAHLY PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="184 tvg-logo="184",Sport: Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
+#EXTINF:-1 tvg-id="184 tvg-logo="184",Sport: Al Nahar Sports
+rtmp://stream.livetv.tn/live/ch400?code=86be09a5c89327b
 #EXTINF:-1,AD SPORT 1
-http://62.63.207.51:4242/udp/239.193.0.244:3301?auth=yes?
-#EXTINF:-1,AD Sport 2
-http://62.63.207.51:4242/udp/239.193.0.242:3301?auth=yes?
-#EXTINF:-1,AD Sports 3 HD
-http://62.63.207.51:4242/udp/239.193.48.13:3301?auth=yes?
-#EXTINF:-1,AD Sports 4 HD
-http://62.63.207.51:4242/udp/239.193.48.14:3301?auth=yes?
+rtmp://stream.livetv.tn/live/ch79?code=86be09a5c89327b
 #EXTINF:-1,Sport: ASTRO SUPERSPORT 1
 rtmp://103.7.56.16:1935/live/45c78d.stream
 #EXTINF:-1,Sport: ASTRO SUPERSPORT 2
@@ -380,93 +512,25 @@ rtmp://31.220.0.103:1935/live playpath=beinxx11 swfUrl=http://p.jwpcdn.com/6/8/j
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS HD12
 rtmp://31.220.0.103:1935/live playpath=beinxx12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=beinxx12&vw=620&vh=490
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 1 BST
-rtmpe://46.246.124.7:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+rtmp://stream.livetv.tn/live/ch12?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 2 
-rtmpe://46.246.124.7:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+rtmp://stream.livetv.tn/live/ch13?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 3
-rtmpe://46.246.124.7:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+rtmp://stream.livetv.tn/live/ch14?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 4
-rtmpe://46.246.124.7:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+rtmp://stream.livetv.tn/live/ch15?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 5
-rtmpe://46.246.124.7:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+rtmp://stream.livetv.tn/live/ch16?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 6
-rtmpe://46.246.124.7:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+rtmp://stream.livetv.tn/live/ch17?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 7
-rtmpe://46.246.124.7:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+rtmp://stream.livetv.tn/live/ch201?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 8
-rtmpe://46.246.124.7:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 9
-rtmpe://46.246.124.7:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 10
-rtmpe://46.246.124.7:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 11
-rtmpe://46.246.124.7:1935/redirect playpath=BST11 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 12
-rtmpe://46.246.124.7:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 13
-rtmpe://46.246.124.7:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 14
-rtmpe://46.246.124.7:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: BEIN SPORTS 15
-rtmpe://46.246.124.7:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BEIN Sports 1
-http://62.63.207.51:4242/udp/239.193.48.25:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 1 HD
-http://62.63.207.51:4242/udp/239.193.48.1:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 1 HD
-http://62.63.207.51:4242/udp/239.193.255.205:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 11
-http://62.63.207.51:4242/udp/239.193.48.11:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 11
-http://62.63.207.51:4242/udp/239.193.255.203:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 12
-http://62.63.207.51:4242/udp/239.193.255.204:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 12
-http://62.63.207.51:4242/udp/239.193.48.12:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 2
-http://62.63.207.51:4242/udp/239.193.48.24:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 2 HD
-http://62.63.207.51:4242/udp/239.193.255.206:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 2 HD
-http://62.63.207.51:4242/udp/239.193.48.2:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 3
-http://62.63.207.51:4242/udp/239.193.48.23:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 3 HD
-http://62.63.207.51:4242/udp/239.193.255.207:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 3 HD
-http://62.63.207.51:4242/udp/239.193.48.3:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 4
-http://62.63.207.51:4242/udp/239.193.48.22:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 4 HD
-http://62.63.207.51:4242/udp/239.193.48.4:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 4 HD
-http://62.63.207.51:4242/udp/239.193.255.208:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 5
-http://62.63.207.51:4242/udp/239.193.48.7:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 5 HD
-http://62.63.207.51:4242/udp/239.193.255.209:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 5 HD
-http://62.63.207.51:4242/udp/239.193.48.5:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 6
-http://62.63.207.51:4242/udp/239.193.255.200:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 6
-http://62.63.207.51:4242/udp/239.193.48.8:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 6 HD
-http://62.63.207.51:4242/udp/239.193.48.6:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 6 HD
-http://62.63.207.51:4242/udp/239.193.255.210:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 7
-http://62.63.207.51:4242/udp/239.193.255.201:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 7
-http://62.63.207.51:4242/udp/239.193.48.9:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 7 HD
-http://62.63.207.51:4242/udp/239.193.255.211:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 8
-http://62.63.207.51:4242/udp/239.193.48.10:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 8
-http://62.63.207.51:4242/udp/239.193.255.202:3301?auth=yes?
-#EXTINF:-1,BEIN Sports 8 HD
-http://62.63.207.51:4242/udp/239.193.255.212:3301?auth=yes?
+rtmp://stream.livetv.tn/live/ch18?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: Bein 1 FR
+rtmp://stream.livetv.tn/live/ch277?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: Bein 2 FR
+rtmp://stream.livetv.tn/live/ch278?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="231 tvg-logo="231",Sport: BBC SPORT(Uk)
 rtmp://46.246.29.138:1935/stream/0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1
 #EXTINF:-1 tvg-id="231 tvg-logo="231",Sport: BT Sport 1
@@ -484,11 +548,9 @@ http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=DubaiSports_Med
 #EXTINF:-1 tvg-id="239 tvg-logo="239",Sport: Dubai Sports
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
 #EXTINF:-1,DUBAI SPORT1
-http://62.63.207.51:4242/udp/239.193.1.29:3301?auth=yes?
-#EXTINF:-1,DUBAI RACING CHANNEL
-http://62.63.207.51:4242/udp/239.193.1.37:3301?auth=yes?
-#EXTINF:-1,Dubai Racing Channel
-http://62.63.207.51:4242/udp/239.193.48.21:3301?auth=yes?
+rtmp://stream.livetv.tn/live/ch274?code=86be09a5c89327b
+#EXTINF:-1,DUBAI SPORT2
+rtmp://stream.livetv.tn/live/ch275?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="243 tvg-logo="243",Sport: Eurosport 1
 rtmp://31.220.0.134:1935/live playpath=euro1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1rx&vw=620&vh=490
 #EXTINF:-1 tvg-id="245 tvg-logo="245",Sport: Eurosport 2
@@ -509,6 +571,8 @@ http://m24.megafun.vn/live.vs?c=vstv042&q=high
 rtmp://46.246.29.140:1935/stream//fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1
 #EXTINF:-1 tvg-id="254 tvg-logo="254",Sport: Nile Sport
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
+#EXTINF:-1 tvg-id="254 tvg-logo="254",Sport: Nile Sport
+rtmp://stream.livetv.tn/live/ch134?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="254 tvg-logo="254",Sport: Nile Sports PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=NileSport_Med&port=2077&mode=3&user=&session=b6276bee4fba9fbec55ded3914d4079c1665ca5325963387907ff506b54571c8a299017ce29bf1aa
 #EXTINF:-1 tvg-id="255 tvg-logo="255",Sport: NBC Sports
@@ -651,6 +715,10 @@ http://redbulwebtvhd-f.akamaihd.net/webtvhd_3_696@54840?videoId=1389549382001&li
 http://88.150.196.74:8080/sport1
 #EXTINF:-1 tvg-id="284 tvg-logo="284 group-title="Documentary",Documentary: Al Jazeera Docu
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player/player.swf?274354545150&arabichannels.com&copyright=2013&provider=rtmp&streamer=rtmp://arabichannels.com pageUrl=http://arabichannels.com/aljazeera_doc.php live=1 timeout=15 swfVfy=1 conn=S:OK
+#EXTINF:-1 tvg-id="285 tvg-logo="285",Documentary: Al Jazeera Docu
+rtmp://stream.livetv.tn/live/ch52?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="285 tvg-logo="285",Documentary: Nat Geo AD
+rtmp://stream.livetv.tn/live/ch271?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="285 tvg-logo="285",Documentary: ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="285 tvg-logo="285",Documentary: ANIMAL PLANET HD
@@ -699,6 +767,14 @@ rtmp://lm02.everyon.tv:1935/ptv2/pld613
 http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="295 tvg-logo="295",Kids: Cartoon Network
 http://m24.megafun.vn/live.vs?c=vstv031&q=high
+#EXTINF:-1 tvg-id="295 tvg-logo="295",Kids: Cartoon Network AR
+rtmp://stream.livetv.tn/live/ch65?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="297 tvg-logo="297",Kids: SpaceToon
+rtmp://stream.livetv.tn/live/ch49?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="297 tvg-logo="297",Kids: Baraem
+rtmp://stream.livetv.tn/live/ch50?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="297 tvg-logo="297",Kids: JSC Children
+rtmp://stream.livetv.tn/live/ch51?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="297 tvg-logo="297",Kids: ANIMATED FILMS
 mms://72.13.93.186/animatedfilms
 #EXTINF:-1 tvg-id="299 tvg-logo="299",Kids: DISNEY CHANNEL
@@ -719,6 +795,10 @@ rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-file
 http://m24.megafun.vn/live.vs?c=vstv037&q=high
 #EXTINF:-1 tvg-id="303 tvg-logo="303",Movies: Cinema Pictures
 mms://72.13.93.186/moviesofthe50s?MSWMExt=.asf
+#EXTINF:-1 tvg-id="126 tvg-logo="126",Movies: Canal Plus
+rtmp://stream.livetv.tn/live/ch279?code=86be09a5c89327b
+#EXTINF:-1 tvg-id="126 tvg-logo="126",Movies: Canal Cinema
+rtmp://stream.livetv.tn/live/ch280?code=86be09a5c89327b
 #EXTINF:-1 tvg-id="126 tvg-logo="126",Movies: FOX 
 http://178.49.132.73/streaming/fox/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="126 tvg-logo="126",Movies: FOX LIFE
