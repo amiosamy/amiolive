@@ -511,6 +511,36 @@ http://62.210.151.70:8000/27.ch?u=sajjadmalik:p=FAISAL53
 http://62.210.151.70:8000/28.ch?u=sajjadmalik:p=FAISAL53
 #EXTINF:-1,New Channel 
 http://62.210.151.70:8000/6.ch?u=sajjadmalik:p=FAISAL53
+#EXTINF:-1,BEIN SPORT 1
+rtmpe://46.246.124.39:1935/redirect playpath=BST1 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 2
+rtmpe://46.246.124.39:1935/redirect playpath=BST2 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 3
+rtmpe://46.246.124.39:1935/redirect playpath=BST3 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPO...RT 4
+rtmpe://46.246.124.39:1935/redirect playpath=BST4 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 5
+rtmpe://46.246.124.39:1935/redirect playpath=BST5 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 6
+rtmpe://46.246.124.39:1935/redirect playpath=BST6 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 7
+rtmpe://46.246.124.39:1935/redirect playpath=BST7 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 8
+rtmpe://46.246.124.39:1935/redirect playpath=BST8 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 9
+rtmpe://46.246.124.39:1935/redirect playpath=BST9 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 10
+rtmpe://46.246.124.39:1935/redirect playpath=BST10 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 11
+rtmpe://46.246.124.39:1935/redirect playpath=BST11 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 12
+rtmpe://46.246.124.39:1935/redirect playpath=BST12 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 13
+rtmpe://46.246.124.39:1935/redirect playpath=BST13 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 14
+rtmpe://46.246.124.39:1935/redirect playpath=BST14 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,BEIN SPORT 15
+rtmpe://46.246.124.39:1935/redirect playpath=BST15 pageUrl=http://www.hdcast.org
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: Bein 1 FR
 rtmp://stream.livetv.tn/live/ch277?code=w_9f67602f1c74038
 #EXTINF:-1 tvg-id="197 tvg-logo="197",Sport: Bein 2 FR
@@ -1075,6 +1105,50 @@ rtmp://46.19.139.146:1935/stream// playpath=w4a0X5H0.stream swfUrl=http://04stre
 rtmp://46.246.29.140:1935/stream// playpath=M4A6S3o5.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=sportstv1
 #EXTINF:-1,NBA
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
+#EXTINF:0,ESPN U
+rtmpe://107.150.45.130:1935/goLive playpath=oYmtTDK0Lt4u3aA swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+
+#EXTINF:0,ESPN
+rtmpe://107.150.45.130:1935/goLive playpath=jN87bjSfplpoyut swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,ESPN2
+rtmpe://107.150.45.130:1935/goLive playpath=kGJnF3QVFDjwDPP swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,HISTORY CHANNEL
+rtmpe://173.208.201.162:1935/goLive playpath=AxyKdVINZYdVI61 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,NATIONAL GEOGRAPHIC
+rtmpe://173.208.201.162:1935/goLive playpath=GD727mYru5vAmOd swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,NBA TV
+rtmpe://107.150.45.130:1935/goLive playpath=F77ypWtjHGfjjV8 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,AETV
+rtmpe://107.150.45.130:1935/goLive playpath=nJlMXBYX7p9ZVsJ swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+:#EXTINF:0,FOX NEWS
+rtmpe://107.150.45.130:1935/goLive playpath=NRtA6isMNPWBq9M swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,NBC
+rtmpe://107.150.45.130:1935/goLive playpath=KZDhUvxFIj6q7IY swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d188
+#EXTINF:0,ABC
+rtmpe://173.208.201.162:1935/goLive playpath=zJtx6glRuebarG8 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,FOX
+rtmpe://173.208.201.162:1935/goLive playpath=Wrt71g0jgwxgsHq swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,AMC
+rtmpe://173.208.201.162:1935/goLive playpath=JXazhC6b72u1gWK swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,CARTOON NETWORK
+rtmpe://173.208.201.162:1935/goLive playpath=eZ7xZHVw5Grm0Z5 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,CBS
+rtmpe://107.150.45.130:1935/goLive playpath=azmGtuELKBeufUN swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,SYFY
+rtmpe://107.150.45.130:1935/goLive playpath=IlAtS62o00lVArb swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,TNT
+rtmpe://173.208.201.162:1935/goLive playpath=wG35AzCNwnZU5vj swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,TBS
+rtmpe://173.208.201.162:1935/goLive playpath=QB80x8dFgycQ8im swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,ABCABC FAMILY
+rtmpe://173.208.201.162:1935/goLive playpath=OhiYoc6et5pslGH swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,CW
+rtmpe://107.150.45.130:1935/goLive playpath=KUrd8VgVeAXis42 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,NICK
+rtmpe://107.150.45.130:1935/goLive playpath=a0JvBbGBECShl4d swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:0,SPIKE
+rtmpe://173.208.201.162:1935/goLive playpath=OuTMDUaJxi3Hmqh swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+3b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
 #EXTINF:-1 group-title="Spain",+LIGA
 rtmp://82.192.95.75/vl/_definst_ playpath=caramierda3 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=caramierda3&vw=645&vh=395&domain=tvonlinegratis.mob
 #EXTINF:-1,+DEPORTES
