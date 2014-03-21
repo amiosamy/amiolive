@@ -471,10 +471,6 @@ rtmp://stream.livetv.tn/live/ch74?code=w_9f67602f1c74038
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=953cee70387a508a5496b24db772f639a94c2f1b5f41c5f36a481e8daf8734d8a299017ce29bf1aa
 #EXTINF:-1 tvg-id=184 tvg-logo=184,Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
-#EXTINF:-1 tvg-id=184 tvg-logo=184,Al Nahar Sports
-rtmp://stream.livetv.tn/live/ch400?code=w_9f67602f1c74038
-#EXTINF:-1,AD SPORT 1
-rtmp://stream.livetv.tn/live/ch79?code=w_9f67602f1c74038
 #EXTINF:-1 tvg-id=186 tvg-logo=186,BEIN SPORTS HD1
 rtmp://31.220.0.134:1935/live playpath=b1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b1&vw=620&vh=490
 #EXTINF:-1 tvg-id=187 tvg-logo=187,BEIN SPORTS HD2
@@ -499,25 +495,13 @@ rtmp://31.220.0.103:1935/live playpath=beinxx12 swfUrl=http://p.jwpcdn.com/6/8/j
 rtmp://31.220.0.103:1935/live playpath=beinxx11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=beinxx11&vw=620&vh=490
 #EXTINF:-1 tvg-id=197 tvg-logo=197,BEIN SPORTS HD12
 rtmp://31.220.0.103:1935/live playpath=beinxx12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=beinxx12&vw=620&vh=490
-#EXTINF:-1,Bein sport 6 HD 
-http://62.210.151.70:8000/24.ch?u=sajjadmalik:p=FAISAL53 
-#EXTINF:-1,Bein sport 7 HD 
-http://62.210.151.70:8000/25.ch?u=sajjadmalik:p=FAISAL53 
-#EXTINF:-1,Bein sport 8 HD 
-http://62.210.151.70:8000/26.ch?u=sajjadmalik:p=FAISAL53 
-#EXTINF:-1,Bein sport 9 HD 
-http://62.210.151.70:8000/27.ch?u=sajjadmalik:p=FAISAL53 
-#EXTINF:-1,Bein sport 10 HD 
-http://62.210.151.70:8000/28.ch?u=sajjadmalik:p=FAISAL53
-#EXTINF:-1,New Channel 
-http://62.210.151.70:8000/6.ch?u=sajjadmalik:p=FAISAL53
 #EXTINF:-1,BEIN SPORT 1
 rtmpe://46.246.124.39:1935/redirect playpath=BST1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,BEIN SPORT 2
 rtmpe://46.246.124.39:1935/redirect playpath=BST2 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,BEIN SPORT 3
 rtmpe://46.246.124.39:1935/redirect playpath=BST3 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BEIN SPO...RT 4
+#EXTINF:-1,BEIN SPORT 4
 rtmpe://46.246.124.39:1935/redirect playpath=BST4 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,BEIN SPORT 5
 rtmpe://46.246.124.39:1935/redirect playpath=BST5 pageUrl=http://www.hdcast.org/
@@ -541,10 +525,6 @@ rtmpe://46.246.124.39:1935/redirect playpath=BST13 pageUrl=http://www.hdcast.org
 rtmpe://46.246.124.39:1935/redirect playpath=BST14 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,BEIN SPORT 15
 rtmpe://46.246.124.39:1935/redirect playpath=BST15 pageUrl=http://www.hdcast.org
-#EXTINF:-1 tvg-id=197 tvg-logo=197,Bein 1 FR
-rtmp://stream.livetv.tn/live/ch277?code=w_9f67602f1c74038
-#EXTINF:-1 tvg-id=197 tvg-logo=197,Bein 2 FR
-rtmp://stream.livetv.tn/live/ch278?code=w_9f67602f1c74038
 #EXTINF:-1 tvg-id=231 tvg-logo=231,BBC SPORT(Uk)
 rtmp://46.246.29.138:1935/stream/0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1
 #EXTINF:-1 tvg-id=231 tvg-logo=231,BT Sport 1
@@ -561,10 +541,6 @@ rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=ht
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=DubaiSports_Med&port=2077&mode=3&user=&session=953cee70387a508a5496b24db772f639a94c2f1b5f41c5f36a481e8daf8734d8a299017ce29bf1aa
 #EXTINF:-1 tvg-id=239 tvg-logo=239,Dubai Sports
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
-#EXTINF:-1,DUBAI SPORT1
-rtmp://stream.livetv.tn/live/ch274?code=w_9f67602f1c74038
-#EXTINF:-1,DUBAI SPORT2
-rtmp://stream.livetv.tn/live/ch275?code=w_9f67602f1c74038
 #EXTINF:-1 tvg-id=243 tvg-logo=243,Eurosport 1
 rtmp://31.220.0.134:1935/live playpath=euro1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1rx&vw=620&vh=490
 #EXTINF:-1 tvg-id=245 tvg-logo=245,Eurosport 2
@@ -572,7 +548,7 @@ rtmp://31.220.0.134:1935/live playpath=euro2rx swfUrl=http://p.jwpcdn.com/6/8/jw
 #EXTINF:-1 tvg-id=243 tvg-logo=243,Eurosport HD
 rtmpe://46.246.124.28:1935/redirect playpath=EURO1HD swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=EURO1HD&vw=640&vh=455&domain=hdfo ots.com
 #EXTINF:-1 tvg-id=248 tvg-logo=248,ESPN USA
-rtmp://31.220.0.82:1935/live playpath=espnx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espn2x&vw=620&vh=490
+rtmp://31.220.0.82:1935/live playpath=espnus swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espn2x&vw=620&vh=490
 #EXTINF:-1 tvg-id=248 tvg-logo=248,ESPN UK
 rtmp://31.220.0.82:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490
 #EXTINF:-1 tvg-id=248 tvg-logo=248,ESPN UK
@@ -584,13 +560,9 @@ http://m24.megafun.vn/live.vs?c=vstv042&q=high
 #EXTINF:-1 tvg-id=250 tvg-logo=250,Fox Sports
 rtmp://46.246.29.140:1935/stream//fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1
 #EXTINF:-1,LİG TV HD
-rtmp://94.102.56.186/histreamEd playpath=maclinkleri swfUrl=http://www.histream.tv/player.swf pageUrl=http://www.histream.tv/embed.php?file=maclinkleri&width=600&height=400 conn=S:OK --live
-#EXTINF:-1,LİG TV HD
 rtmp://67.228.235.73/zenex playpath=smartsporhdd?id=5525 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/smartsporhdd/1/800/500 conn=S:OK --live
 #EXTINF:-1 tvg-id=254 tvg-logo=254,Nile Sport
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
-#EXTINF:-1 tvg-id=254 tvg-logo=254,Nile Sport
-rtmp://stream.livetv.tn/live/ch134?code=w_9f67602f1c74038
 #EXTINF:-1 tvg-id=254 tvg-logo=254,Nile Sports PC Only
 http://192.168.0.23:4500/channel.flv?server=38.99.146.69&channel=NileSport_Med&port=2077&mode=3&user=&session=953cee70387a508a5496b24db772f639a94c2f1b5f41c5f36a481e8daf8734d8a299017ce29bf1aa
 #EXTINF:-1 tvg-id=255 tvg-logo=255,NBC Sports
@@ -605,14 +577,8 @@ rtmp://46.246.29.130:1935/stream/ playpath=W3h4q9Z6.stream swfUrl=http://04strea
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
 #EXTINF:-1 tvg-id=258 tvg-logo=258,NFL
 rtmp://46.246.29.144:1935/stream/ playpath=gdfhdfytty.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=k554o5p5l5o5t4n42636n244w274u2s23424v2v2x2t22394&adx=&stream=g5u2n574n5e4a4x2j524u2h55474c4n2m5k5c4c444d4x4262676t22403w234w2s2p2s284z2z32303y384m5n5p5m5a4s426y5i2l5c4x5d484u546n2p2n4s2x4n51634t2y3z28494u264r2y28454h50323h5s2d484m5l513039444v24403k5e45444l594w2l2s2t2343434t226c4n424r2&sooor=MzM=&str=is&idom=firstrownow.eu live=1 timeout=10
-#EXTINF:-1 tvg-id=258 tvg-logo=258,NFL
-rtmp://37.220.32.55:443/liverepeater playpath=11490 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=11490&width=640&height=460 token= token=#atd%#$ZH
-#EXTINF:-1 tvg-id=259 tvg-logo=259,Outdoor Channel SD
-rtmp://lm02.everyon.tv:1935/ptv2/pld613
 #EXTINF:-1 tvg-id=260 tvg-logo=260,PTV Sports
 rtmp://31.220.0.133:1935/live playpath=ptvsportsc swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ptvsportsc&vw=620&vh=490
-#EXTINF:-1,PTV
-http://62.210.151.70:8000/7.ch?u=sajjadmalik:p=FAISAL53 
 #EXTINF:-1,REAL MADRID TV
 rtmp://178.162.199.165:5587/loadbalance playpath=realmadridsd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/embed.php
 #EXTINF:-1 tvg-id=261 tvg-logo=261,Sky Sports 1
@@ -635,16 +601,6 @@ rtmpe://89.46.102.69:443/liveedge/sky2 pageUrl=http://hqstreams.tv/
 rtmpe://89.46.102.69:443/liveedge/newsky3 pageUrl=http://hqstreams.tv/
 #EXTINF:-1,SKY SPORT 4 HD
 rtmpe://89.46.102.69:443/liveedge/sky4 pageUrl=http://hqstreams.tv/
-#EXTINF:-1,SKY SPORTS 1
-rtmp://188.0.226.98/lub/ playpath=ssp1?v=6c55abd48e6856d2064afa6acc44a323 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/
-#EXTINF:-1,SKY SPORTS 2
-rtmp://188.0.226.101/lub/ playpath=skys2?v=a9d22f99201fa785e2eb3970da6767d8 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/
-#EXTINF:-1,SKY SPORTS 3
-rtmp://188.0.226.105/lub/ playpath=skys3?v=fea0e6ffb12f729dd6759cbeinxx11f785b26f swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/
-#EXTINF:-1,SKY SPORTS 4
-rtmp://188.0.226.98/lub/ playpath=skysp4?v=510b5374435e0bb19675c694c6a3e137 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/
-#EXTINF:-1,SKY SPORTS F1
-rtmp://188.0.226.104/lub/ playpath=ssf1?v=fd8d3dc3542229dc9159d75082c4d945 swfUrl=htt
 #EXTINF:-1,SKY SPORTS NEWS
 rtmp://94.242.228.202:80/liverepeater playpath=141892 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,SKY SPORTS 1
@@ -675,8 +631,6 @@ rtmp://31.220.0.104:1935/live playpath=sky1cric swfUrl=http://p.jwpcdn.com/6/8/j
 rtmp://31.220.0.134:1935/live playpath=sky2cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 tvg-id=270 tvg-logo=270,SKY Calcio 3
 rtmp://31.220.0.134:1935/live playpath=sky3cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
-#EXTINF:-1 tvg-id=271 tvg-logo=271,Setanta Sports
-rtmp://31.220.0.104:1935/live playpath=ghjjjj swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ghjjjj&vw=620&vh=490
 #EXTINF:-1 tvg-id=272 tvg-logo=272,Sportsnet World
 rtmp://31.220.0.134:1935/live playpath=dsee swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsd33ww&vw=620&vh=490
 #EXTINF:-1 tvg-id=273 tvg-logo=273,STAR SPORTS
@@ -701,8 +655,6 @@ rtmp://89.248.162.212:443/share/live4-w04by swfUrl=http://adbuck.cc/player/playe
 rtmp://31.220.0.134:1935/live playpath=tensport swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tensport&vw=620&vh=490
 #EXTINF:-1 tvg-id=277 tvg-logo=277,Ten Action
 rtmp://31.220.0.104:1935/live playpath=tenaction3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tenaction3&vw=620&vh=490
-#EXTINF:-1,Ten Cricket 
-http://62.210.151.70:8000/23.ch?u=sajjadmalik:p=FAISAL53
 #EXTINF:-1 tvg-id=278 tvg-logo=278,WWE HD
 rtmp://www.planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://pro-wrestling.tv/uppod.swf live=1 pageUrl=http://www.watchtv.co/wwe-hd-tv-live/
 #EXTINF:-1 tvg-id=278 tvg-logo=278,Pro Wrestling TV
@@ -717,16 +669,6 @@ rtmp://46.19.139.146:1935/stream// playpath=w4a0X5H0.stream swfUrl=http://04stre
 rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv
 #EXTINF:-1,ESports3
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
-#EXTINF:-1,JUVENTUS TV
-http://217.115.145.185:1935/live/alexlivetv.smil/chunklist_w473279836_beinxx1200000.m3u8
-#EXTINF:-1,Sport HD
-http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e731_wcif.sdp/e731_wcif.sdp-mr2548k.m3u8
-#EXTINF:-1,Viasat 3 Sport1
-http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e711_wcif.sdp/e711_wcif.sdp-mr2548k.m3u8
-#EXTINF:-1,AutoSport
-mms://100automoto.tv/100livesport
-#EXTINF:-1,ntvspor
-http://doguslive-i.akamaihd.net/hls/live/205605/ntvsporhd/stream3/streamPlaylist.m3u8
 #EXTINF:-1,Sports Tonight
 rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf
 #EXTINF:-1,,REDBULL TV 
