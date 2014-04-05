@@ -1375,44 +1375,110 @@ rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxmovies swfUrl=http://mud
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxcrime swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxcrime
 #EXTINF:-1,FOX LIFE
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxlife swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxlife
-#EXTINF:-1 group-title=Greek,Animal Planet
-http://core.iptv.bg-vpn.net/hls3/animal_low/animal.m3u8
-#EXTINF:0,BNT
-http://core.iptv.bg-vpn.net/hls/bnt_low/bnt.m3u8
-#EXTINF:0,bTV BG
-http://core.iptv.bg-vpn.net/hls/btv_low/btv.m3u8
-#EXTINF:0,bTV Action
-http://core.iptv.bg-vpn.net/hls2/btv_action_low/btv_action.m3u8
-#EXTINF:0,bTV Cinema
-http://core.iptv.bg-vpn.net/hls2/btv_cinema_low/btv_cinema.m3u8
-#EXTINF:0,bTV Comedy
-http://core.iptv.bg-vpn.net/hls2/btv_comedy_low/btv_comedy.m3u8
-#EXTINF:0,Diema
-http://core.iptv.bg-vpn.net/hls/diema_low/diema.m3u8
-#EXTINF:0,Discovery
-http://core.iptv.bg-vpn.net/hls/discovery_low/discovery.m3u8
-#EXTINF:0,Eurosport
-http://core.iptv.bg-vpn.net/hls3/eurosport_low/eurosport.m3u8
-#EXTINF:0,Film+ HD
-http://core.iptv.bg-vpn.net/hls/film_plus_hd_low/film_plus_hd.m3u8
-#EXTINF:0,HBO HD
-http://core.iptv.bg-vpn.net/hls3/hbo_hd_low/hbo_hd.m3u8
-#EXTINF:0,KinoNOVA
-http://core.iptv.bg-vpn.net/hls2/kino_nova_low/kino_nova.m3u8
-#EXTINF:0,National Geographic
-http://core.iptv.bg-vpn.net/hls2/natgeo_low/natgeo.m3u8
-#EXTINF:0,NOVA Sport
-http://core.iptv.bg-vpn.net/hls2/nova_sport_low/nova_sport.m3u8
-#EXTINF:0,NOVA
-http://core.iptv.bg-vpn.net/hls/nova_tv_low/nova_tv.m3u8
-#EXTINF:0,Planeta HD
-http://core.iptv.bg-vpn.net/hls/planeta_hd_low/planeta_hd.m3u8
-#EXTINF:0,Super 7
-http://core.iptv.bg-vpn.net/hls3/baby_tv_low/baby_tv.m3u8
-#EXTINF:0,The Voice
-http://core.iptv.bg-vpn.net/hls3/the_voice_low/the_voice.m3u8
-#EXTINF:0,TV7 BG
-http://core.iptv.bg-vpn.net/hls/tv7_low/tv7.m3u8
+#EXTINF:-1 group-title=teledunet,Abu Dhabi Drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/abu_dhabi_drama
+#EXTINF:O,al_nahar_drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/al_nahar_drama
+#EXTINF:O,al_thaniya
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/al_thaniya
+#EXTINF:O,alhayat_series
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,alhayat_series
+#EXTINF:O,alhayat_1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,alhayat_1
+#EXTINF:O,alhayat_cinema
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,alhayat_cinema
+#EXTINF:O,cairo_cinema
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,cairo_cinema
+#EXTINF:O,cairo_drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,cairo_drama
+#EXTINF:O,cbc_drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,cbc_drama
+#EXTINF:O,cbc_tv
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,cbc_tv
+#EXTINF:O,dream_1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/dream_1
+#EXTINF:O,fatafeat
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/fatafeat
+#EXTINF:O,fox
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,fox
+#EXTINF:O,fx_arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/fx_arabia
+#EXTINF:O,aljazeera_sport_1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/aljazeera_sport_1
+#EXTINF:O,aljazeera_sport_2
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/aljazeera_sport_2
+#EXTINF:O,lbc_europe
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/lbc_europe
+#EXTINF:O,lbc
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/lbc
+#EXTINF:O,masrawi_aflam
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/masrawi_aflam
+#EXTINF:O,mazeka_zoom
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/mazeka_zoom
+#EXTINF:O,mazzika
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/mazzika
+#EXTINF:O,mbc_1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_1
+#EXTINF:O,mbc_2
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_2
+#EXTINF:O,mbc_3
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_3
+#EXTINF:O,mbc_4
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_4
+#EXTINF:O,mbc_action
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_action
+#EXTINF:O,mbc_drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_drama
+#EXTINF:O,DUBAI SPORT 1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/dubai_sport_1 
+#EXTINF:O,DUBAI SPORT 2
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/dubai_sport_2
+#EXTINF:O,nile drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_drama
+#EXTINF:O,nile life
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_life
+#EXTINF:O,nile family
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_family
+#EXTINF:O,nile news
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_news
+#EXTINF:O,nile sport
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_sport
+#EXTINF:O,ontv
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/on_tv
+#EXTINF:O,rotana cinema
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_cinema
+#EXTINF:O,rotana classic
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_classic
+#EXTINF:O,rotana clip
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_clip
+#EXTINF:O,rotana khaligi
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_khaligi
+#EXTINF:O,rotana_masriya
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_masriya
+#EXTINF:O,rotana music
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_music
+#EXTINF:O,star cinema
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/star_cinema
+#EXTINF:O,cartoon network
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/caertoon_network
+#EXTINF:O,fox movies
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,fox_movies 
+#EXTINF:O,BeIN Sports 1 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_1
+#EXTINF:O,BeIN Sports 2 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_2
+#EXTINF:O,BeIN Sports 3 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_3
+#EXTINF:O,BeIN Sports 4 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_4
+#EXTINF:O,BeIN Sports 5 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_5
+#EXTINF:O,BeIN Sports 6 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_6
+#EXTINF:O,BeIN Sports 7 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_7
+#EXTINF:O,BeIN Sports 8 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_8
 #EXTINF:-1 group-title=PORTUGAL,FOX MOVIES
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxmovies swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxmovies
 #EXTINF:-1,FOX CRIME
