@@ -472,15 +472,15 @@ http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&por
 #EXTINF:-1 tvg-id=184 tvg-logo=184,Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1 tvg-id=186 tvg-logo=186,BEIN SPORTS HD1
-rtmp://31.220.0.134:1935/live playpath=b1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b1&vw=620&vh=490
+rtmp://31.220.0.134:1935/live playpath=b1r swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=b1r&vw=620&vh=490
 #EXTINF:-1 tvg-id=187 tvg-logo=187,BEIN SPORTS HD2
-rtmp://31.220.0.82:1935/live playpath=b2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b2&vw=620&vh=490
+rtmp://31.220.0.104:1935/live playpath=b2r swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=b2r&vw=620&vh=490
 #EXTINF:-1 tvg-id=188 tvg-logo=188,BEIN SPORTS HD3
-rtmp://31.220.0.82:1935/live playpath=b3 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b3&vw=620&vh=490
+rtmp://31.220.0.82:1935/live playpath=b3r swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=b3r&vw=620&vh=490
 #EXTINF:-1 tvg-id=189 tvg-logo=189,BEIN SPORTS HD4
-rtmp://31.220.0.134:1935/live playpath=b4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b4&vw=620&vh=490
+rtmp://31.220.0.104:1935/live playpath=bb4 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490
 #EXTINF:-1 tvg-id=190 tvg-logo=190,BEIN SPORTS HD5
-rtmp://31.220.0.134:1935/live playpath=b5 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b5&vw=620&vh=490
+rtmp://31.220.0.104:1935/live playpath=b5r swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=b5r&vw=620&vh=490
 #EXTINF:-1 tvg-id=191 tvg-logo=191,BEIN SPORTS HD6
 rtmp://31.220.0.103:1935/live playpath=b6 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b6&vw=620&vh=490
 #EXTINF:-1 tvg-id=192 tvg-logo=192,BEIN SPORTS HD7
@@ -488,11 +488,11 @@ rtmp://31.220.0.82:1935/live playpath=b7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer
 #EXTINF:-1 tvg-id=193 tvg-logo=193,BEIN SPORTS HD8
 rtmp://31.220.0.134:1935/live playpath=b8 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b8&vw=620&vh=490
 #EXTINF:-1 tvg-id=194 tvg-logo=194,BEIN SPORTS HD9
-rtmp://31.220.0.103:1935/live playpath=beinxx11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=beinxx11&vw=620&vh=490
+rtmp://31.220.0.104:1935/live playpath=b11r swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490
 #EXTINF:-1 tvg-id=195 tvg-logo=195,BEIN SPORTS HD10
 rtmp://31.220.0.103:1935/live playpath=beinxx12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=beinxx12&vw=620&vh=490
 #EXTINF:-1 tvg-id=196 tvg-logo=196,BEIN SPORTS HD11
-rtmp://31.220.0.103:1935/live playpath=beinxx11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=beinxx11&vw=620&vh=490
+rtmp://31.220.0.104:1935/live playpath=b11r swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490
 #EXTINF:-1 tvg-id=197 tvg-logo=197,BEIN SPORTS HD12
 rtmp://31.220.0.103:1935/live playpath=beinxx12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=beinxx12&vw=620&vh=490
 #EXTINF:-1,BEIN 1
@@ -544,9 +544,9 @@ rtmpe://46.246.124.39:1935/redirect playpath=BST15 pageUrl=http://www.hdcast.org
 #EXTINF:-1 tvg-id=231 tvg-logo=231,BBC SPORT(Uk)
 rtmp://46.246.29.138:1935/stream/0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1
 #EXTINF:-1 tvg-id=231 tvg-logo=231,BT Sport 1
-rtmp://31.220.0.103:1935/live playpath=bt1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1rx&vw=620&vh=490
+rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
 #EXTINF:-1 tvg-id=232 tvg-logo=232,BT Sport 2
-rtmp://31.220.0.104:1935/live playpath=bt2rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2rx&vw=620&vh=490
+rtmp://31.220.0.103:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490
 #EXTINF:-1,BT SPORT 1 HD
 rtmpe://89.46.102.69:443/liveedge/bt1 pageUrl=http://hqstreams.tv/
 #EXTINF:-1,BT SPORT 2 HD
@@ -598,17 +598,17 @@ rtmp://31.220.0.133:1935/live playpath=ptvsportsc swfUrl=http://p.jwpcdn.com/6/8
 #EXTINF:-1,REAL MADRID TV
 rtmp://178.162.199.165:5587/loadbalance playpath=realmadridsd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/embed.php
 #EXTINF:-1 tvg-id=261 tvg-logo=261,Sky Sports 1
-rtmp://31.220.0.103:1935/live playpath=ss1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/
+rtmp://31.220.0.103:1935/live playpath=ss1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
 #EXTINF:-1 tvg-id=262 tvg-logo=262,Sky Sports 2
-rtmp://31.220.0.82:1935/live playpath=ss2rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/
+rtmp://31.220.0.82:1935/live playpath=ss2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490
 #EXTINF:-1 tvg-id=263 tvg-logo=263,Sky Sports 3
-rtmp://31.220.0.82:1935/live playpath=ss3rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/
+rtmp://31.220.0.103:1935/live playpath=ss3x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490
 #EXTINF:-1 tvg-id=264 tvg-logo=264,Sky Sports 4
-rtmp://31.220.0.104:1935/live playpath=ss4rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/
+rtmp://31.220.0.104:1935/live playpath=ss4x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490
 #EXTINF:-1 tvg-id=265 tvg-logo=265,Sky Sports News
-rtmp://31.220.0.133:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/
+rtmp://31.220.0.82:1935/live playpath=ssnewsrx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490
 #EXTINF:-1 tvg-id=266 tvg-logo=266,SKY F1
-rtmp://31.220.0.133:1935/live playpath=ssf1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/
+rtmp://31.220.0.103:1935/live playpath=ssf1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490
 #EXTINF:-1,SKY SPORT 1 HD
 rtmpe://89.46.102.69:443/liveedge/newsky1 pageUrl=http://hqstreams.tv/
 #EXTINF:-1,SKY SPORT 2 HD
@@ -640,13 +640,13 @@ rtmp://37.220.36.71:443/liverepeater playpath=23699 swfUrl=http://static.surk.tv
 #EXTINF:-1,SKY SPORTS 4
 rtmp://37.220.32.53:443/liverepeater playpath=23700 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 tvg-id=267 tvg-logo=267,SKY Calcio HD
-rtmp://31.220.0.82:1935/live playpath=calciocric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
+rtmp://31.220.0.133:1935/live playpath=skycalcioit swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490
 #EXTINF:-1 tvg-id=268 tvg-logo=268,SKY Calcio 1
-rtmp://31.220.0.104:1935/live playpath=sky1cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
+rtmp://31.220.0.82:1935/live playpath=sky1italia swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490
 #EXTINF:-1 tvg-id=269 tvg-logo=269,SKY Calcio 2
-rtmp://31.220.0.134:1935/live playpath=sky2cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
+rtmp://31.220.0.134:1935/live playpath=sky2italia swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&vw=620&vh=490
 #EXTINF:-1 tvg-id=270 tvg-logo=270,SKY Calcio 3
-rtmp://31.220.0.134:1935/live playpath=sky3cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
+rtmp://31.220.0.82:1935/live playpath=sky3italia swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3italia&vw=620&vh=490
 #EXTINF:-1 tvg-id=272 tvg-logo=272,Sportsnet World
 rtmp://31.220.0.134:1935/live playpath=dsee swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsd33ww&vw=620&vh=490
 #EXTINF:-1 tvg-id=273 tvg-logo=273,STAR SPORTS
@@ -1157,6 +1157,28 @@ rtmpe://173.208.201.162:1935/goLive playpath=OuTMDUaJxi3Hmqh swfUrl=http://b1701
 rtmp://37.220.32.43:443/liverepeater/13903 live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live
 #EXTINF:-1 group-title=Spain,AXN
 rtmp://173.193.227.91/live playpath=aaaxnn?id=196499 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK --live
+#EXTINF:0,SPORTS:GOL TV
+rtmp://109.123.116.26/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/goltvucaster/1/650/400 Conn=S:OK
+#EXTINF:0,SPORTS:GOL TV
+rtmp://50.7.181.90/iguide playpath=yjng52equwrawn0 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:0,SPORTS:CANAL+LIGA
+rtmp://146.185.25.162/live playpath=holaholaliga?id=13874 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/holaholaliga/1/645/395 Conn=S:OK
+#EXTINF:0,SPORTS:CANAL+LIGA
+rtmp://50.7.133.90/iguide playpath=x4xacom3nv091wu swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:0,SPORTS:CANAL+FUTBOL
+rtmp://109.123.114.162/live playpath=hola82?id=12956 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/hola82/1/645/395 Conn=S:OK
+#EXTINF:0,SPORTS:CANAL+FUTBOL
+rtmp://50.22.223.52/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/futbolmas/1/650/400 Conn=S:OK
+#EXTINF:0,SPORTS:CANAL+DEPORTES
+rtmp://95.211.168.161/vl/_definst_ playpath=kakabakad swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php
+#EXTINF:0,SPORTS:CANAL+DEPORTES
+rtmp://109.123.116.154/live playpath=ddeportess2?id=65738 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/ddeportess2/1/650/400 Conn=S:OK
+#EXTINF:0,SPORTS:CANAL+LIGA DE CAMPEONES
+rtmp://146.185.23.154/live playpath=holaholalc?id=13040 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/holaholalc/1/645/395 Conn=S:OK
+#EXTINF:0,SPORTS:SPORTMANIA
+rtmp://5.63.149.180/live playpath=kakabakas?id=13687 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/kakabakas/1/645/395 Conn=S:OK
+#EXTINF:0,SPORTS:ESPORT 3
+rtmp://tv-geoespanya-flashlivefs.fplive.net:1935/tv-geoespanya-flashlive-live?ovpfv=1.1/stream_ES_ES3_FLV
 #EXTINF:-1,BARCA TV
 rtmp://50.7.133.154/iguide playpath=u3wlbmq82fuz4pi swfUrl=http://cdn.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
 #EXTINF:-1,BeinÑ
@@ -1375,44 +1397,110 @@ rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxmovies swfUrl=http://mud
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxcrime swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxcrime
 #EXTINF:-1,FOX LIFE
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxlife swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxlife
-#EXTINF:-1 group-title=Greek,Animal Planet
-http://core.iptv.bg-vpn.net/hls3/animal_low/animal.m3u8
-#EXTINF:0,BNT
-http://core.iptv.bg-vpn.net/hls/bnt_low/bnt.m3u8
-#EXTINF:0,bTV BG
-http://core.iptv.bg-vpn.net/hls/btv_low/btv.m3u8
-#EXTINF:0,bTV Action
-http://core.iptv.bg-vpn.net/hls2/btv_action_low/btv_action.m3u8
-#EXTINF:0,bTV Cinema
-http://core.iptv.bg-vpn.net/hls2/btv_cinema_low/btv_cinema.m3u8
-#EXTINF:0,bTV Comedy
-http://core.iptv.bg-vpn.net/hls2/btv_comedy_low/btv_comedy.m3u8
-#EXTINF:0,Diema
-http://core.iptv.bg-vpn.net/hls/diema_low/diema.m3u8
-#EXTINF:0,Discovery
-http://core.iptv.bg-vpn.net/hls/discovery_low/discovery.m3u8
-#EXTINF:0,Eurosport
-http://core.iptv.bg-vpn.net/hls3/eurosport_low/eurosport.m3u8
-#EXTINF:0,Film+ HD
-http://core.iptv.bg-vpn.net/hls/film_plus_hd_low/film_plus_hd.m3u8
-#EXTINF:0,HBO HD
-http://core.iptv.bg-vpn.net/hls3/hbo_hd_low/hbo_hd.m3u8
-#EXTINF:0,KinoNOVA
-http://core.iptv.bg-vpn.net/hls2/kino_nova_low/kino_nova.m3u8
-#EXTINF:0,National Geographic
-http://core.iptv.bg-vpn.net/hls2/natgeo_low/natgeo.m3u8
-#EXTINF:0,NOVA Sport
-http://core.iptv.bg-vpn.net/hls2/nova_sport_low/nova_sport.m3u8
-#EXTINF:0,NOVA
-http://core.iptv.bg-vpn.net/hls/nova_tv_low/nova_tv.m3u8
-#EXTINF:0,Planeta HD
-http://core.iptv.bg-vpn.net/hls/planeta_hd_low/planeta_hd.m3u8
-#EXTINF:0,Super 7
-http://core.iptv.bg-vpn.net/hls3/baby_tv_low/baby_tv.m3u8
-#EXTINF:0,The Voice
-http://core.iptv.bg-vpn.net/hls3/the_voice_low/the_voice.m3u8
-#EXTINF:0,TV7 BG
-http://core.iptv.bg-vpn.net/hls/tv7_low/tv7.m3u8
+#EXTINF:-1 group-title=teledunet,Abu Dhabi Drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/abu_dhabi_drama
+#EXTINF:O,al_nahar_drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/al_nahar_drama
+#EXTINF:O,al_thaniya
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/al_thaniya
+#EXTINF:O,alhayat_series
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,alhayat_series
+#EXTINF:O,alhayat_1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,alhayat_1
+#EXTINF:O,alhayat_cinema
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,alhayat_cinema
+#EXTINF:O,cairo_cinema
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,cairo_cinema
+#EXTINF:O,cairo_drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,cairo_drama
+#EXTINF:O,cbc_drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,cbc_drama
+#EXTINF:O,cbc_tv
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,cbc_tv
+#EXTINF:O,dream_1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/dream_1
+#EXTINF:O,fatafeat
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/fatafeat
+#EXTINF:O,fox
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,fox
+#EXTINF:O,fx_arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/fx_arabia
+#EXTINF:O,aljazeera_sport_1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/aljazeera_sport_1
+#EXTINF:O,aljazeera_sport_2
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/aljazeera_sport_2
+#EXTINF:O,lbc_europe
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/lbc_europe
+#EXTINF:O,lbc
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/lbc
+#EXTINF:O,masrawi_aflam
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/masrawi_aflam
+#EXTINF:O,mazeka_zoom
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/mazeka_zoom
+#EXTINF:O,mazzika
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/mazzika
+#EXTINF:O,mbc_1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_1
+#EXTINF:O,mbc_2
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_2
+#EXTINF:O,mbc_3
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_3
+#EXTINF:O,mbc_4
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_4
+#EXTINF:O,mbc_action
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_action
+#EXTINF:O,mbc_drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,mbc_drama
+#EXTINF:O,DUBAI SPORT 1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/dubai_sport_1 
+#EXTINF:O,DUBAI SPORT 2
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/dubai_sport_2
+#EXTINF:O,nile drama
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_drama
+#EXTINF:O,nile life
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_life
+#EXTINF:O,nile family
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_family
+#EXTINF:O,nile news
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_news
+#EXTINF:O,nile sport
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,nile_sport
+#EXTINF:O,ontv
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/on_tv
+#EXTINF:O,rotana cinema
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_cinema
+#EXTINF:O,rotana classic
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_classic
+#EXTINF:O,rotana clip
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_clip
+#EXTINF:O,rotana khaligi
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_khaligi
+#EXTINF:O,rotana_masriya
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_masriya
+#EXTINF:O,rotana music
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,rotana_music
+#EXTINF:O,star cinema
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/star_cinema
+#EXTINF:O,cartoon network
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/caertoon_network
+#EXTINF:O,fox movies
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,fox_movies 
+#EXTINF:O,BeIN Sports 1 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_1
+#EXTINF:O,BeIN Sports 2 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_2
+#EXTINF:O,BeIN Sports 3 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_3
+#EXTINF:O,BeIN Sports 4 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_4
+#EXTINF:O,BeIN Sports 5 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_5
+#EXTINF:O,BeIN Sports 6 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_6
+#EXTINF:O,BeIN Sports 7 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_7
+#EXTINF:O,BeIN Sports 8 Arabia
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/#EXTINF:O,BeIN_sport_8
 #EXTINF:-1 group-title=PORTUGAL,FOX MOVIES
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxmovies swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxmovies
 #EXTINF:-1,FOX CRIME
