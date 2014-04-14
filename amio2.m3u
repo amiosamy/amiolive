@@ -1047,6 +1047,34 @@ http://202.75.23.33:8800/live/ch28/01.m3u8
 http://91.218.128.34:1234/udp/224.1.1.25:1234
 #EXTINF:-1, Eurosport 2
 http://91.218.128.34:1234/udp/224.1.1.26:1234
+#EXTINF:-1,filmboxbasicsd
+http://94.249.128.163:80/spi/filmboxbasicsd_pl_0_1/ratus42.m3u8
+#EXTINF:-1,filmboxextrasd
+http://94.249.128.163:80/spi/filmboxextrasd_pl_0_1/ratus42.m3u8
+#EXTINF:-1,filmboxextra1sd
+http://94.249.128.163:80/spi/filmboxextra1sd_czhurosd_0_1/ratus42.m3u8
+#EXTINF:-1,filmboxplussd
+http://94.249.128.163:80/spi/filmboxplussd_hu_0_1/ratus42.m3u8
+#EXTINF:-1,filmboxfamilysd
+http://94.249.128.163:80/spi/filmboxfamilysd_plczhuro_0_1/ratus42.m3u8
+#EXTINF:-1,kinopolskamuzikasd
+http://94.249.128.163:80/spi/kinopolskamuzikasd_international_0_1/ratus42.m3u8
+#EXTINF:-1,kinopolskahd
+http://94.249.128.163:80/spi/kinopolskahd_international_0_1/ratus42.m3u8
+#EXTINF:-1,360 tuneboxhd
+http://94.249.128.163:80/spi/360tuneboxhd_0_1/ratus42.m3u8
+#EXTINF:-1,fbarthousehd
+http://94.249.128.163:80/spi/fbarthousehd_0_1/ratus42.m3u8
+#EXTINF:-1,fastnfunhd
+http://94.249.128.163:80/spi/fastnfunhd_0_1/ratus42.m3u8
+#EXTINF:-1,fashionboxhd
+http://94.249.128.163:80/spi/fashionboxhd_0_1/ratus42.m3u8
+#EXTINF:-1,fightbox
+http://94.249.128.163:80/spi/fightboxhd_0_1/ratus42.m3u8
+#EXTINF:-1,docuboxhd
+http://94.249.128.163:80/spi/docuboxhd_0_1/ratus42.m3u8
+#EXTINF:-1,filmboxhd
+http://94.249.128.163:80/spi/filmboxhd_plczhu_0_1/ratus42.m3u8
 #EXTINF:-1,Food Network
 rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe90d4ad49edb3c7626435ac29da9a2eaf001b0643f08d686fa7259ee2d875122d3549d7a272a42a7898a6a3a9f1ad659b7c7999387d554a24179f1d7546fa9efa3d0b2f8b63ccfa6303df98cf517e5b7fe822893ac0d8cd8900f723f884623fef666f4445de12e47c0985c44e349423716fd15fe2865283be4f3dce79e968fc6c3d20b346a0ebb7d0b67cac03ece73f2a/1829.high.stream
 #EXTINF:-1,AFood Network +1
